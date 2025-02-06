@@ -1,0 +1,4923 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-02-06T07:41:45Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/12354609",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2022-04-04",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "drink:soy_milk": "yes",
+        "indoor": "yes",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 09:00-18:00; Su,PH off",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "type": "multipolygon",
+        "website": "https://www.starbucks.de/store-locator/store/1018818/ettlinger-tor-ettlinger-tor-platz-1-ettlinger-tor-karlsruhe-bw-7",
+        "wheelchair": "yes",
+        "wheelchair:description": "Toiletten im Einkaufszentrum, Schlüssel nötig, gibt es für die, die (noch) keinen selbst haben, gegen Pfand bei der Information (Erdgeschoss).",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4018393,
+          49.0073117
+        ]
+      },
+      "id": "relation/12354609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/28143594",
+        "addr:city": "Leipzig",
+        "addr:country": "DE",
+        "addr:floor": "0",
+        "addr:housenumber": "14",
+        "addr:postcode": "04109",
+        "addr:street": "Grimmaische Straße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-11-13",
+        "check_date:opening_hours": "2024-11-13",
+        "cuisine": "coffee_shop",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Meet me at starbucks",
+        "level": "0",
+        "name": "Starbucks",
+        "name:ja": "スターバックス",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Su,PH 07:30-20:30; Mo-Sa 07:30-21:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.379286,
+          51.3393846
+        ]
+      },
+      "id": "way/28143594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/66917199",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-03-13",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-19:30",
+        "outdoor_seating": "yes",
+        "source": "http://wiki.openstreetmap.org/wiki/Key:cuisine",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3887381,
+          52.5194029
+        ]
+      },
+      "id": "node/66917199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/66917229",
+        "addr:city": "Berlin",
+        "addr:housenumber": "4A",
+        "addr:postcode": "10117",
+        "addr:street": "Pariser Platz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2023-03-20",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 30 20617990",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.starbucks.de/store-locator/store/2099/pariser-platz-pariser-platz-4-a-berlin-be-10117-de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3797732,
+          52.5167295
+        ]
+      },
+      "id": "node/66917229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/87040343",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "61",
+        "addr:postcode": "10117",
+        "addr:street": "Friedrichstraße",
+        "addr:suburb": "Mitte",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "contact:phone": "+49 30 206 086711",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "MEET ME @ STARBUCKS",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-19:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Toilette ist im Keller, und die Theke erreicht man nur über eine Stufe!",
+        "wheelchair:source": "https://wheelmap.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3900182,
+          52.5110724
+        ]
+      },
+      "id": "node/87040343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152442725",
+        "addr:city": "Wolfsburg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "38440",
+        "addr:street": "An der Vorburg",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "building": "retail",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "phone": "+49 5361 5578921",
+        "ref": "53",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7951131,
+          52.4287882
+        ]
+      },
+      "id": "way/152442725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182426957",
+        "addr:city": "Neumünster",
+        "addr:housenumber": "10",
+        "addr:postcode": "24539",
+        "addr:street": "Oderstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "building": "retail",
+        "building:levels": "1",
+        "construction_year": "2012",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 09:30-20:00; Fr-Sa 09:30-21:00",
+        "roof:levels": "0",
+        "roof:shape": "many",
+        "source": "Center-Plan, Bing, survey",
+        "takeaway": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9784759,
+          54.0431701
+        ]
+      },
+      "id": "way/182426957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/187423281",
+        "addr:city": "Erlangen",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "91052",
+        "addr:street": "Nürnberger Straße",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "check_date": "2023-06-26",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:30-21:00; Su 09:00-21:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets": "no",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0044229,
+          49.5936967
+        ]
+      },
+      "id": "way/187423281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/252855569",
+        "addr:city": "Münster",
+        "addr:country": "DE",
+        "addr:housenumber": "38",
+        "addr:postcode": "48143",
+        "addr:street": "Stubengasse",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-19:30; Sa 08:30-20:00; Su off; PH 11:00-18:00",
+        "source": "ALK NRW-Atlas",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.starbucks.de/store-locator/store/1018879/hanse-carree-stubengasse-38-muenster-nw-48143-de",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6288137,
+          51.9595201
+        ]
+      },
+      "id": "way/252855569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/270140640",
+        "addr:city": "Bochum",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "44787",
+        "addr:street": "Dr.-Ruer-Platz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-02-13",
+        "contact:website": "https://www.starbucks.de/store-locator/store/1018854/dr-ruer-platz-dr-ruer-platz-6-7-bochum-nw-44787-de",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "no",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-20:30; Fr-Su,PH 08:00-20:30",
+        "operator": "AmRest Coffee Deutschland Sp. z.o.o. & Co KG",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2191414,
+          51.4802137
+        ]
+      },
+      "id": "node/270140640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/271102603",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-11-29",
+        "check_date:opening_hours": "2024-11-29",
+        "check_date:smoking": "2024-11-29",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su,PH 10:30-18:00",
+        "outdoor_seating": "pedestrian_zone",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5660082,
+          48.1390692
+        ]
+      },
+      "id": "way/271102603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/272529037",
+        "addr:city": "München",
+        "addr:country": "DE",
+        "addr:housenumber": "56",
+        "addr:postcode": "80802",
+        "addr:street": "Leopoldstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-05-16",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 06:30-21:30; Fr 06:30-22:00; Sa 08:00-22:00; Su,PH 08:00-21:30",
+        "outdoor_seating": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "no",
+        "wheelchair:description": "Stufe am Eingang, kein Behinderten-WC. Hinweis: Tische im Straßenbereich erreichbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5855426,
+          48.1588383
+        ]
+      },
+      "id": "node/272529037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/276909580",
+        "addr:city": "München",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "80539",
+        "addr:street": "Odeonsplatz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-07-22",
+        "check_date:opening_hours": "2022-05-02",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 07:00-21:00; Fr 07:00-22:00; Sa 08:00-21:00; Su,PH 08:30-21:00",
+        "outdoor_seating": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 89 21665850",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "limited",
+        "wheelchair:description": "kein Rolli-WC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5781623,
+          48.1430563
+        ]
+      },
+      "id": "node/276909580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/293712530",
+        "access": "customers",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-10-21",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "only",
+        "drink:soy_milk": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "outdoor_seating": "no",
+        "room": "restaurant",
+        "smoking": "separated",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6637935,
+          50.1073663
+        ]
+      },
+      "id": "way/293712530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/302080713",
+        "addr:city": "Bonn",
+        "addr:country": "DE",
+        "addr:housenumber": "21",
+        "addr:postcode": "53111",
+        "addr:street": "Münsterplatz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-09-27",
+        "check_date:opening_hours": "2024-06-02",
+        "cuisine": "coffee_shop",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegetarian": "no",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "old_name": "Gasthaus \"Hähnchen\"",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 11:00-19:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "no",
+        "wheelchair:description": "Stufe nicht Rollstuhl gerecht 16 cm",
+        "wheelchair:description:de": "Stufen am Eingang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0992434,
+          50.7349082
+        ]
+      },
+      "id": "node/302080713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308989411",
+        "addr:city": "Nürnberg",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "90403",
+        "addr:street": "Hauptmarkt",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2024-08-03",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "drinking_water:refill": "yes",
+        "drinking_water:refill:network": "Refill Deutschland",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 08:00-20:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 911 23555910",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0765086,
+          49.4530786
+        ]
+      },
+      "id": "node/308989411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/343201873",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2024-10-20",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "no",
+        "level": "0",
+        "name": "Starbucks",
+        "name:de": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 05:00-22:00",
+        "outdoor_seating": "no",
+        "takeaway": "only",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0075771,
+          53.5521981
+        ]
+      },
+      "id": "way/343201873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/346879444",
+        "addr:city": "Hannover",
+        "addr:housenumber": "1",
+        "addr:postcode": "30159",
+        "addr:street": "Ernst-August-Platz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:halal": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "outdoor_seating": "no",
+        "payment:contactless": "yes",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "room": "restaurant",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7423787,
+          52.3771248
+        ]
+      },
+      "id": "way/346879444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/349128183",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "layer": "-1",
+        "level": "-1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 06:00-22:00; PH 07:00-22:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5596535,
+          48.1414728
+        ]
+      },
+      "id": "way/349128183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/356054289",
+        "addr:floor": "3",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "building:part": "yes",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "layer": "2",
+        "level": "2",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "06:30-21:00",
+        "outdoor_seating": "no",
+        "room": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5705649,
+          50.0531613
+        ]
+      },
+      "id": "way/356054289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/359862708",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-08-22",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 221 25853234",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9493731,
+          50.936241
+        ]
+      },
+      "id": "node/359862708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/367146906",
+        "addr:postcode": "79098",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "contact:phone": "+49 761 1379028",
+        "contact:website": "http://www.starbucks.de",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-20:30; Sa 08:00-21:00; Su 10:00-19:00; PH 10:00-19:00",
+        "outdoor_seating": "yes",
+        "self_service": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8525777,
+          47.997242
+        ]
+      },
+      "id": "node/367146906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370046297",
+        "addr:city": "Dortmund",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "currency:EUR": "yes",
+        "currency:others": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 09:00-20:30; Su 10:00-20:30",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4670324,
+          51.5135329
+        ]
+      },
+      "id": "node/370046297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/373530815",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:30-20:00; Sa 08:00-20:00; PH,Su 08:00-20:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8134546,
+          53.0825661
+        ]
+      },
+      "id": "way/373530815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/373588287",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7494237,
+          53.1099562
+        ]
+      },
+      "id": "way/373588287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/373751750",
+        "addr:city": "Bremen",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor": "room",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 08:30-21:00; Su,PH 12:00-19:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7488735,
+          53.1118572
+        ]
+      },
+      "id": "way/373751750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/381418965",
+        "access": "customers",
+        "amenity": "cafe",
+        "branch": "Berlin Ostbahnhof",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "no",
+        "payment:app": "no",
+        "phone": "+49 30 29337611",
+        "room": "shop",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4346586,
+          52.5099766
+        ]
+      },
+      "id": "way/381418965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/412645535",
+        "addr:city": "Köln",
+        "addr:country": "DE",
+        "addr:housenumber": "72",
+        "addr:postcode": "50672",
+        "addr:street": "Hohenzollernring",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-21:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9404587,
+          50.9407448
+        ]
+      },
+      "id": "node/412645535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/414896587",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su,PH 06:00-21:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7949534,
+          51.2191175
+        ]
+      },
+      "id": "node/414896587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/426018927",
+        "addr:city": "Wustermark",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "14641",
+        "addr:street": "Alter Spandauer Weg",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "building": "retail",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9784187,
+          52.541375
+        ]
+      },
+      "id": "way/426018927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/429271492",
+        "access": "customers",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-12-06",
+        "check_date:opening_hours": "2024-12-06",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "no",
+        "level": "1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su,PH 05:30-22:00",
+        "outdoor_seating": "no",
+        "payment:credit_cards": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "phone": "+49 30 20058929",
+        "takeaway": "only",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3701698,
+          52.5246597
+        ]
+      },
+      "id": "way/429271492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/463687941",
+        "addr:city": "Mainz",
+        "addr:housename": "Bahnhofgebäude",
+        "addr:postcode": "55116",
+        "addr:street": "Bahnhofplatz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-08-01",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "layer": "2",
+        "level": "2",
+        "name": "Starbucks",
+        "note:editor": "square",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:00-20:00; Sa 08:00-21:00; Su 08:00-20:00; PH 10:00-17:00",
+        "outdoor_seating": "no",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 6131 1431478",
+        "room": "cafe",
+        "smoking": "no",
+        "source": "local_knowledge",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/store-locator/store/1018797/mainz-hauptbahnhof-bahnhofsplatz-1-mainz-rp-55116-de",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2587187,
+          50.0010985
+        ]
+      },
+      "id": "way/463687941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/473017200",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "drink:soy_milk": "yes",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 09:00-19:00; Fr,Sa 09:00-19:30; Su 12:00-18:30; PH 12:00-17:30",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0471597,
+          52.2733745
+        ]
+      },
+      "id": "node/473017200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/500103218",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-12-01",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:00-20:00; Sa,Su,PH 08:00-20:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7741333,
+          51.4300263
+        ]
+      },
+      "id": "way/500103218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/506178240",
+        "addr:city": "Dresden",
+        "addr:housenumber": "15",
+        "addr:postcode": "01069",
+        "addr:street": "Prager Straße",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "changing_table": "yes",
+        "contact:phone": "+49 351 850950",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:access": "customers",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:30-21:00; Sa 09:00-21:00; Su,PH 09:00-20:30; Dec 24 07:30-17:00; Dec 25,26 10:00-17:00; Dec 31 07:30-19:00; Jan 01 10:00-20:00",
+        "operator": "Starbucks Coffee Deutschland GmbH",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:disposal": "flush",
+        "toilets:handwashing": "yes",
+        "toilets:position": "seated;urinal",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description:de": "Ebenerdig zugänglich, Toiletten liegen jedoch im Untergeschoss und sind nur per Treppe zu erreichen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.735843,
+          51.0449437
+        ]
+      },
+      "id": "node/506178240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/510617252",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-06-02",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 08:30-19:00; PH 10:00-18:00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "wifi:limit": "2h"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9878089,
+          53.5487113
+        ]
+      },
+      "id": "node/510617252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/511784339",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:diet:vegetarian": "2021-01-03",
+        "check_date:opening_hours": "2024-11-29",
+        "cuisine": "coffee_shop",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "internet_access:ssid": "MEET ME @ STARBUCKS",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:00-21:00; Sa-Su 08:00-21:00; PH 08:00-20:00",
+        "outdoor_seating": "no",
+        "payment:american_express": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0135849,
+          51.4511716
+        ]
+      },
+      "id": "way/511784339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/520932801",
+        "addr:city": "Erfurt",
+        "addr:housenumber": "12",
+        "addr:postcode": "99084",
+        "addr:street": "Willy-Brandt-Platz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:halal": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "note": "Öffnungszeiten vor Ort nachgeschaut 1/2018",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Sa 09:30-18:30; Mo-Fr 07:00-18:00",
+        "outdoor_seating": "yes",
+        "room": "restaurant",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0372495,
+          50.9726022
+        ]
+      },
+      "id": "way/520932801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/569773169",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "drink:soy_milk": "yes",
+        "indoor": "room",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su off",
+        "ref": "0.23",
+        "room": "cafe",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6067887,
+          49.8921392
+        ]
+      },
+      "id": "way/569773169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/578649519",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-11-24",
+        "cuisine": "coffee_shop",
+        "drink:soy_milk": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.219945,
+          49.1409828
+        ]
+      },
+      "id": "node/578649519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/599314036",
+        "amenity": "cafe",
+        "atm": "no",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2022-05-19",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:30-21:00; Su 09:30-19:30",
+        "outdoor_seating": "yes",
+        "outdoor_seating:covid19": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5798748,
+          48.1380873
+        ]
+      },
+      "id": "node/599314036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/634421181",
+        "access": "customers",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "delivery": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:30-22:00; Su,PH 08:30-22:00; Sa 08:30-22:00",
+        "outdoor_seating": "yes",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "room": "shop",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6346983,
+          51.9569026
+        ]
+      },
+      "id": "way/634421181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/635884679",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-08-10",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "MEET ME @ STARBUCKS",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9576418,
+          50.936383
+        ]
+      },
+      "id": "node/635884679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/664298649",
+        "addr:city": "Frankfurt am Main",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "60439",
+        "addr:street": "Limescorso",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "level": "1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 09:00-20:30",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6327405,
+          50.1568505
+        ]
+      },
+      "id": "node/664298649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/666756913",
+        "amenity": "cafe",
+        "area": "yes",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor": "room",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "room": "shop",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7377546,
+          52.3771732
+        ]
+      },
+      "id": "way/666756913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/666773382",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "building": "yes",
+        "cuisine": "coffee_shop",
+        "indoor": "room",
+        "level": "1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "room": "shop",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7383812,
+          52.3774517
+        ]
+      },
+      "id": "way/666773382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/674447564",
+        "addr:city": "Darmstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "64283",
+        "addr:street": "Luisenplatz",
+        "addr:suburb": "Darmstadt-Mitte",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2025-01-03",
+        "check_date:diet:halal": "2025-01-03",
+        "cuisine": "coffee_shop",
+        "diet:halal": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 06:30-20:30; Fr 06:30-21:00; Sa 08:30-21:00; Su 09:30-20:00; PH 10:30-18:00",
+        "outdoor_seating": "pedestrian_zone",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.starbucks.de/store-locator/store/1018829/luisenplatz-4-luisenplatz-4-darmstadt-he-64283-de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6506747,
+          49.872375
+        ]
+      },
+      "id": "node/674447564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/697270163",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su,PH 05:00-22:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7902283,
+          48.3542216
+        ]
+      },
+      "id": "node/697270163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/701541172",
+        "addr:city": "München",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "80331",
+        "addr:street": "Rosental",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-05-30",
+        "contact:phone": "+49 89 23077527",
+        "contact:website": "https://www.starbucks.de/",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:30-21:00; Su 10:00-19:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5752894,
+          48.1353869
+        ]
+      },
+      "id": "node/701541172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/725550796",
+        "addr:city": "Nürnberg",
+        "addr:country": "DE",
+        "addr:housenumber": "41",
+        "addr:postcode": "90402",
+        "addr:street": "Breite Gasse",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "drink:soy_milk": "yes",
+        "drinking_water:refill": "yes",
+        "drinking_water:refill:network": "Refill Deutschland",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 08:00-20:00; PH,Su 10:30-17:30",
+        "phone": "+49 911 2369838",
+        "smoking": "no",
+        "smoking:outside": "yes",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0753056,
+          49.4499551
+        ]
+      },
+      "id": "node/725550796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/740025150",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.445281,
+          52.5058224
+        ]
+      },
+      "id": "way/740025150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/792640022",
+        "addr:city": "Nürnberg",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "90402",
+        "addr:street": "Karolinenstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "drinking_water:refill": "yes",
+        "drinking_water:refill:network": "Refill Deutschland",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 07:30-20:30; Fr,Sa 07:30-21:00; Su,PH 11:30-19:00",
+        "smoking": "no",
+        "smoking:outside": "yes",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0766005,
+          49.4510825
+        ]
+      },
+      "id": "node/792640022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/818639212",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "level": "2",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1221199,
+          50.8776754
+        ]
+      },
+      "id": "node/818639212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/846974057",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 10:30-18:00",
+        "phone": "+49 6204 7086044",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5643251,
+          49.5266201
+        ]
+      },
+      "id": "node/846974057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/905750369",
+        "access:covid19": "no",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:street": "Königstraße",
+        "amenity": "cafe",
+        "branch": "House",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "entrance": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "level": "0;1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 10:00-21:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "takeaway:covid19": "only",
+        "toilets:wheelchair": "no",
+        "website": "https://starbucks.de",
+        "wheelchair": "limited",
+        "wheelchair:description": "Toilette im ersten Stock ohne Aufzug"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1778844,
+          48.7788075
+        ]
+      },
+      "id": "node/905750369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/911019620",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-12-18",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0;1",
+        "name": "Starbucks",
+        "note": "wurde 03.09.2017 schon wieder geschlossen, seit dem leer",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 08:00-20:30; PH,Su 10:00-19:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.56649,
+          48.1394316
+        ]
+      },
+      "id": "node/911019620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/915299603",
+        "addr:city": "Dresden",
+        "addr:housenumber": "7",
+        "addr:postcode": "01067",
+        "addr:street": "Altmarkt",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "changing_table": "yes",
+        "check_date": "2024-03-12",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "MEET ME @ STARBUCKS",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "08:00-20:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49 351 43833967",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:disposal": "flush",
+        "toilets:handwashing": "yes",
+        "toilets:position": "seated",
+        "toilets:wheelchair": "limited",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7379232,
+          51.0490086
+        ]
+      },
+      "id": "node/915299603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/921135566",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "no",
+        "drink:soy_milk": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 07:00-21:00, Su,PH 08:30-19:30, Sa 07:30-21:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6737791,
+          50.1148836
+        ]
+      },
+      "id": "node/921135566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/934145237",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "44",
+        "addr:postcode": "70173",
+        "addr:street": "Königstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 07:00-22:00; Su,PH 10:00-21:00",
+        "outdoor_seating": "yes",
+        "payment:american_express": "yes",
+        "payment:coins": "yes",
+        "payment:diners_club": "yes",
+        "payment:jcb": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/store-locator/store/1018806/koenigstrasse-44-koenigstrasse-44-stuttgart-bw-70173-de",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.176053,
+          48.7764658
+        ]
+      },
+      "id": "node/934145237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/964653356",
+        "addr:city": "Sulzbach (Taunus)",
+        "addr:country": "DE",
+        "addr:postcode": "65843",
+        "addr:street": "Main-Taunus-Zentrum",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-10-22",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "drink:soy_milk": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-22:00",
+        "source": "survey",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5255305,
+          50.1199852
+        ]
+      },
+      "id": "node/964653356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/975312193",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "10178",
+        "addr:street": "Neue Promenade",
+        "addr:suburb": "Mitte",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-01-27",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "MEET ME @ STARBUCKS",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 08:30-21:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4020866,
+          52.5231934
+        ]
+      },
+      "id": "node/975312193"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1000656389",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-09-01",
+        "cuisine": "coffee_shop",
+        "indoor": "room",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:30-17:30; PH 12:30-17:30",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9955895,
+          53.5515759
+        ]
+      },
+      "id": "way/1000656389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1069813904",
+        "addr:city": "Bielefeld",
+        "addr:country": "DE",
+        "addr:housenumber": "41",
+        "addr:postcode": "33602",
+        "addr:street": "Niedernstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-02-13",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 07:30-21:00; Su 10:00-20:00",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Der Aufzug ist sehr versteckt. Die Rollstuhltoilette ist im Obergeschoss."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5326708,
+          52.0226459
+        ]
+      },
+      "id": "node/1069813904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1257446768",
+        "addr:city": "Koblenz",
+        "addr:country": "DE",
+        "addr:housename": "Forum Mittelrhein",
+        "addr:housenumber": "2",
+        "addr:postcode": "56068",
+        "addr:street": "Zentralplatz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "de:Starbucks",
+        "contact:phone": "+49 261 97349840",
+        "contact:website": "https://starbucks.com/store-locator/store/1018798/forum-mittelrhein-goergenstrasse-koblenz-rp-56068-de",
+        "cuisine": "coffee_shop",
+        "indoor": "room",
+        "internet_access": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 12:00-18:00",
+        "outdoor_seating": "yes",
+        "room": "restaurant",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5964685,
+          50.3581959
+        ]
+      },
+      "id": "way/1257446768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1273423924",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 06:00-20:30, Fr 06:00-21:00, Sa 07:00-21:00; Su 08:00-21:30; Dec 24 06:00-14:00; Jan 1,Dec 25-26 08:00-19:00; Dec 31 07:00-18:30; Jan 6 08:00-20:30",
+        "outdoor_seating": "yes",
+        "self_service": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8425309,
+          47.9982286
+        ]
+      },
+      "id": "node/1273423924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1333407149",
+        "addr:city": "Frankfurt am Main",
+        "addr:housenumber": "20",
+        "addr:postcode": "60311",
+        "addr:street": "Kaiserstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-06-17",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "no",
+        "drink:soy_milk": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-20:30; Sa 09:00-20:30; Su 09:00-20:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 69 21028867",
+        "source": "local_knowledge",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/store/2123/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6747843,
+          50.1105611
+        ]
+      },
+      "id": "node/1333407149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1341316048",
+        "addr:city": "Köln",
+        "addr:housenumber": "11",
+        "addr:postcode": "50667",
+        "addr:street": "Trankgasse",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 05:30-22:00; Su,PH 07:00-22:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.starbucks.de/store/2029/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9576234,
+          50.9428854
+        ]
+      },
+      "id": "node/1341316048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1441732624",
+        "addr:city": "München",
+        "addr:housenumber": "6",
+        "addr:postcode": "81737",
+        "addr:street": "Ollenhauerstraße",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "changing_table": "no",
+        "check_date": "2024-05-17",
+        "cuisine": "coffee_shop",
+        "description": "Toilette PIN 1324",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-20:30; Sa 09:00-20:30; PH,Su 10:00-17:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 89 63894014",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.pep-muenchen.de/gastronomie/starbucks/",
+        "wheelchair": "limited",
+        "wheelchair:description": "Toilette im Untergeschoss, Eingang, Gastraum, Toilette ebenerdig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6454745,
+          48.1009314
+        ]
+      },
+      "id": "node/1441732624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539266290",
+        "addr:city": "Nürnberg",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "90402",
+        "addr:street": "Hefnersplatz",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2023-06-07",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "drinking_water:refill": "yes",
+        "drinking_water:refill:network": "Refill Deutschland",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-20:30",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "smoking:outside": "yes",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:disposal": "flush",
+        "toilets:position": "seated;urinal",
+        "toilets:wheelchair": "designated",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0726206,
+          49.4510619
+        ]
+      },
+      "id": "node/1539266290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1539815077",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "closed:amenity": "cafe",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "yes",
+        "menu": "no",
+        "menu_languages": "english, german",
+        "name": "Starbucks",
+        "number_of_menulanguages": "2",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 07:30-21:00; Fr-Sa 09:00-23:00; Su 09:00-21:00",
+        "outdoor": "no",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.starbucks.de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7062625,
+          49.4117537
+        ]
+      },
+      "id": "node/1539815077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1561371106",
+        "addr:housenumber": "5",
+        "addr:postcode": "20354",
+        "addr:street": "Neuer Jungfernstieg",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-01-21",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 07:30-21:00; Su 08:30-21:00; PH 08:30-21:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.starbucks.de",
+        "wheelchair": "yes",
+        "wifi:limit": "2h"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9909982,
+          53.5550347
+        ]
+      },
+      "id": "node/1561371106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1577039696",
+        "addr:city": "Neuss",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "41460",
+        "addr:street": "Breslauer Straße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 08:00-20:30",
+        "phone": "+49-2131-1245752",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7192689,
+          51.2014551
+        ]
+      },
+      "id": "node/1577039696"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1580476563",
+        "addr:city": "Bonn",
+        "addr:housenumber": "149",
+        "addr:postcode": "53227",
+        "addr:street": "Landgrabenweg",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "Telekom",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-18:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1426646,
+          50.7229689
+        ]
+      },
+      "id": "node/1580476563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1706189129",
+        "addr:city": "Halle (Saale)",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "06112",
+        "addr:street": "Hans-Dietrich-Genscher-Platz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "check_date": "2025-01-10",
+        "check_date:diet:vegan": "2025-01-10",
+        "check_date:diet:vegetarian": "2025-01-10",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 06:00-20:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9868373,
+          51.4777398
+        ]
+      },
+      "id": "node/1706189129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1859967243",
+        "addr:city": "Frankfurt am Main",
+        "addr:floor": "2",
+        "addr:housename": "Terminal 1",
+        "addr:postcode": "60549",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "drink:soy_milk": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "30min free",
+        "internet_access:note": "Wifi provided by Fraport and Telekom in the whole building",
+        "internet_access:operator": "Deutsche Telekom;Fraport AG",
+        "internet_access:ssid": "Telekom",
+        "level": "1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "24/7",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://starbucks.de/store/2027/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5724376,
+          50.0504618
+        ]
+      },
+      "id": "node/1859967243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1882589613",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "231",
+        "addr:postcode": "10719",
+        "addr:street": "Kurfürstendamm",
+        "addr:suburb": "Charlottenburg",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "contact:phone": "+49 30 88726624",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "drink:soy_milk": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:30-21:00; Sa 08:30-22:00; Su 09:00-19:00",
+        "source": "http://wiki.openstreetmap.org/wiki/Key:cuisine",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3333339,
+          52.503958
+        ]
+      },
+      "id": "node/1882589613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1896283367",
+        "addr:city": "Soltau",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "29614",
+        "addr:street": "Rahrsberg",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "delivery": "no",
+        "diet:vegetarian": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "phone": "+49 5191 9739481",
+        "ref": "30",
+        "source": "survey",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9254527,
+          52.982454
+        ]
+      },
+      "id": "node/1896283367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1912857426",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-05-08",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "entrance": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:30-20:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9934983,
+          53.5513397
+        ]
+      },
+      "id": "node/1912857426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2131605569",
+        "addr:city": "Leipzig",
+        "addr:housenumber": "7",
+        "addr:postcode": "04109",
+        "addr:street": "Willy-Brandt-Platz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:gluten_free": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "internet_access:operator": "meet me at starbucks",
+        "internet_access:ssid": "Meet me at Starbucks",
+        "level": "1",
+        "name": "Starbucks",
+        "name:ja": "スターバックス",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 05:00-20:30; PH,Sa-Su 06:00-20:30",
+        "outdoor_seating": "no",
+        "payment:american_express": "yes",
+        "payment:gpay": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:starbucks_card": "yes",
+        "payment:vpay": "yes",
+        "smoking": "no",
+        "surveillance": "indoor",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3814256,
+          51.3444811
+        ]
+      },
+      "id": "node/2131605569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2133523045",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "no",
+        "drink:soy_milk": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:30-21:00; Sa 08:00-21:00; PH,Su 08:30-20:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6865229,
+          50.1149313
+        ]
+      },
+      "id": "node/2133523045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2244962365",
+        "addr:city": "Frankfurt am Main",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "60313",
+        "addr:street": "Börsenplatz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-09-16",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "no",
+        "drink:soy_milk": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 07:00-21:00; PH,Su 08:00-20:00",
+        "outdoor_seating": "yes",
+        "source": "survey",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6783669,
+          50.1146753
+        ]
+      },
+      "id": "node/2244962365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2467927693",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "BT Group plc",
+        "internet_access:ssid": "BTOpenzone",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:30-19:30; Sa 08:00-19:30; Su 09:00-18:30; PH 10:00-17:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "surveillance": "indoor",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "wheelchair:description": "Es gibt Rampen, die Toiletten sind jedoch im Keller."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8072891,
+          53.0752007
+        ]
+      },
+      "id": "node/2467927693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2484400651",
+        "addr:city": "Passau",
+        "addr:housenumber": "8",
+        "addr:postcode": "94032",
+        "addr:street": "Ludwigsplatz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4577584,
+          48.5739258
+        ]
+      },
+      "id": "node/2484400651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2500054664",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-09-16",
+        "contact:phone": "+49 351 42776967",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:operator": "BT Openzone",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 05:00-20:00; Fr 07:00-20:00; Sa 06:00-21:00; Su 07:00-21:00",
+        "operator": "Starbucks Coffee Deutschland GmbH",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "source": "extrapolation",
+        "start_date": "2013-11-28",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7321148,
+          51.0405557
+        ]
+      },
+      "id": "node/2500054664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2916390816",
+        "addr:city": "Leipzig",
+        "addr:country": "DE",
+        "addr:housenumber": "22-24",
+        "addr:postcode": "04109",
+        "addr:street": "Petersstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:30-20:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3744305,
+          51.3387069
+        ]
+      },
+      "id": "node/2916390816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2984033232",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2020-11-16",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su off",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8349837,
+          50.9377335
+        ]
+      },
+      "id": "node/2984033232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3050914053",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2022-12-13",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su,PH 05:30-22:00+",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7647665,
+          51.2790704
+        ]
+      },
+      "id": "node/3050914053"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3126120930",
+        "addr:city": "Leipzig",
+        "addr:housenumber": "16-18",
+        "addr:postcode": "04109",
+        "addr:street": "Hainstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "check_date": "2024-09-30",
+        "cuisine": "coffee_shop",
+        "fixme": "Filiale im Bau - Eröffnungsdatum und Öffnungszeiten zu ergänzen",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su, PH off",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3734297,
+          51.3425536
+        ]
+      },
+      "id": "node/3126120930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3128052459",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "level": "2. EG",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-21:30; Sa 08:00-20:00; Su, Ph 10:00-19:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "surveillance": "indoor",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.183019,
+          48.7909633
+        ]
+      },
+      "id": "node/3128052459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3136353405",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2024-12-15",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-18:00",
+        "outdoor_seating": "no",
+        "ref": "52",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65239,
+          50.1092966
+        ]
+      },
+      "id": "node/3136353405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3147983431",
+        "addr:city": "Bremen",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "28307",
+        "addr:street": "Hans-Bredow-Straße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor": "yes",
+        "lastcheck": "2019-11-27",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 10:00-20:00; PH off",
+        "source": "survey",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9588183,
+          53.0496734
+        ]
+      },
+      "id": "node/3147983431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3270657591",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "no",
+        "seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8758061,
+          51.4898579
+        ]
+      },
+      "id": "node/3270657591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3321108784",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5736044,
+          50.0508638
+        ]
+      },
+      "id": "node/3321108784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3364591760",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2024-10-13",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "old_name": "Bonita",
+        "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:30-19:30; Su 10:00-18:00; PH 09:00-17:30",
+        "operator": "AmRest Coffee Deutschland Sp. z o.o & Co. KG",
+        "outdoor_seating": "yes",
+        "phone": "+49 431 97103419",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1344921,
+          54.3206947
+        ]
+      },
+      "id": "node/3364591760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3366923018",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-08-13",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "layer": "1",
+        "level": "1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8620475,
+          53.5710285
+        ]
+      },
+      "id": "node/3366923018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3455614578",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "61",
+        "addr:postcode": "10707",
+        "addr:street": "Kurfürstendamm",
+        "addr:suburb": "Charlottenburg",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:kosher": "no",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "drink:soy_milk": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-19:00; PH,Su 09:30-19:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 30 81825787",
+        "source": "http://wiki.openstreetmap.org/wiki/Key:cuisine",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3127798,
+          52.5009885
+        ]
+      },
+      "id": "node/3455614578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3775017520",
+        "addr:city": "Ludwigsburg",
+        "addr:housenumber": "1",
+        "addr:street": "Heinkelstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-12-28",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.152105,
+          48.9216463
+        ]
+      },
+      "id": "node/3775017520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3898898397",
+        "addr:city": "Bonn",
+        "addr:country": "DE",
+        "addr:housenumber": "13-21",
+        "addr:postcode": "53111",
+        "addr:street": "Markt",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "check_date": "2024-10-15",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1018099,
+          50.7352368
+        ]
+      },
+      "id": "node/3898898397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3987051075",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 09:00-20:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4152257,
+          52.5195867
+        ]
+      },
+      "id": "node/3987051075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4125308894",
+        "addr:city": "Essen",
+        "addr:postcode": "45127",
+        "addr:street": "Limbecker Platz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2024-11-26",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "level": "1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 09:00-20:00; Su 12:00-20:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/de/store-locator/53178-281942/essen-limbecker-platz",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0053197,
+          51.4590349
+        ]
+      },
+      "id": "node/4125308894"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144595692",
+        "addr:street": "Harmon Ave.",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5887386,
+          49.4461162
+        ]
+      },
+      "id": "node/4144595692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4158117691",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-10-24",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Su-Fr 07:30-14:30; Sa off",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0063164,
+          53.6312351
+        ]
+      },
+      "id": "node/4158117691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4233644194",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6782066,
+          50.1138402
+        ]
+      },
+      "id": "node/4233644194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4388936224",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-04-26",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su,PH 08:00-21:00",
+        "source": "http://wiki.openstreetmap.org/wiki/Key:cuisine",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/1018897/bahnhof-alexanderplatz-dircksenstrasse-2-berlin-be-10179-de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4115986,
+          52.5212498
+        ]
+      },
+      "id": "node/4388936224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4412854430",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/1014907/fernthal-a-3-neustadt-wied-d-53577-neustadt-wied-neustadt-wied-rp-53577-de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4338586,
+          50.5988398
+        ]
+      },
+      "id": "node/4412854430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4508943489",
+        "addr:city": "Düsseldorf",
+        "addr:country": "DE",
+        "addr:housenumber": "11",
+        "addr:postcode": "40212",
+        "addr:street": "Schadowstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:30-20:00; Su 12:00-18:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7803535,
+          51.2254372
+        ]
+      },
+      "id": "node/4508943489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4558523992",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 08:00-20:00; Fr,Sa 08:00-20:30",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4589655,
+          51.5140385
+        ]
+      },
+      "id": "node/4558523992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4745105692",
+        "addr:city": "Düsseldorf",
+        "addr:country": "DE",
+        "addr:housenumber": "364",
+        "addr:postcode": "40231",
+        "addr:street": "Erkrather Straße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8241389,
+          51.213354
+        ]
+      },
+      "id": "node/4745105692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4995827593",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "24/7",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2232541,
+          50.4399599
+        ]
+      },
+      "id": "node/4995827593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5265416060",
+        "addr:city": "Rostock",
+        "addr:country": "DE",
+        "addr:housenumber": "54",
+        "addr:postcode": "18055",
+        "addr:street": "Kröpeliner Straße",
+        "addr:suburb": "Stadtmitte",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-12-06",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 09:30-20:00; Su 12:00-18:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1302667,
+          54.0886031
+        ]
+      },
+      "id": "node/5265416060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5656734350",
+        "addr:city": "Forst",
+        "addr:postcode": "76694",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 08:00-19:00; Fr-Su 08:00-20:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/1029566/bruchsal-west-a-5-bruchsal-west-a-5-bruchsal-bw-76694-de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.567386,
+          49.162025
+        ]
+      },
+      "id": "node/5656734350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5713812746",
+        "addr:city": "Wiesbaden",
+        "addr:housenumber": "35-43",
+        "addr:postcode": "65183",
+        "addr:street": "Kirchgasse",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2385951,
+          50.0814588
+        ]
+      },
+      "id": "node/5713812746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5897238570",
+        "addr:city": "Ulm",
+        "addr:housenumber": "16",
+        "addr:postcode": "89073",
+        "addr:street": "Münsterplatz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-01-31",
+        "contact:website": "https://www.starbucks.de",
+        "cuisine": "coffee_shop",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo 08:00-21:00; Tu 08:00-21:00; We 07:00-21:00; Th 08:00-21:00; Fr 08:00-22:00; Sa 07:00-22:00; Su 09:30-21:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "start_date": "2018-09-06",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9922587,
+          48.3990839
+        ]
+      },
+      "id": "node/5897238570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5917965145",
+        "addr:city": "Augsburg",
+        "addr:housenumber": "11",
+        "addr:postcode": "86150",
+        "addr:street": "Bürgermeister-Fischer-Straße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2023-04-22",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 07:30-21:30; Fr 07:30-22:30; Sa 08:00-22:00; Su 09:00-20:30",
+        "outdoor_seating": "yes",
+        "phone": "+49 821 81530606",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.starbucks.de/de/store-locator/store/1022967/koenigsbau-burgermeister-fischer-strabe-11-augsburg-by-86150-?types=starbucks&place=Augsburg&latLng=48.366319999999995%2C10.894920000000008&zoom=15&store=53037-282829",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8950049,
+          48.36625
+        ]
+      },
+      "id": "node/5917965145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6063853525",
+        "addr:city": "München",
+        "addr:housenumber": "34",
+        "addr:postcode": "80335",
+        "addr:street": "Arnulfstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date:opening_hours": "2023-03-14",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5560227,
+          48.1430781
+        ]
+      },
+      "id": "node/6063853525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6202878876",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5891221,
+          48.5538448
+        ]
+      },
+      "id": "node/6202878876"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482259204",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7662953,
+          49.4446226
+        ]
+      },
+      "id": "node/6482259204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6499800974",
+        "access:covid19": "yes",
+        "addr:floor": ";0",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-12-30",
+        "cuisine": "coffee_shop",
+        "layer": "1",
+        "level": "-1;0",
+        "name": "Starbucks",
+        "name:de": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 10:00-18:00",
+        "takeaway": "yes",
+        "takeaway:covid19": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.46181,
+          48.149087
+        ]
+      },
+      "id": "node/6499800974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6588859242",
+        "addr:city": "Berlin",
+        "addr:housenumber": "1-4",
+        "addr:postcode": "10623",
+        "addr:street": "Joachimsthaler Straße",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 07:30-20:30; Fr 08:00-21:00; Sa 09:00-21:00; Su 10:30-20:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 30 88720695",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3316262,
+          52.5057007
+        ]
+      },
+      "id": "node/6588859242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6654710063",
+        "addr:city": "Metzingen",
+        "addr:housenumber": "6",
+        "addr:postcode": "72555",
+        "addr:street": "Hugo-Boss-Platz",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "contact:phone": "+49 7123 178 9978",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 09:00-21:00, Sa 08:00-21:00, Su 10:00-18:00; PH off",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2800972,
+          48.5370119
+        ]
+      },
+      "id": "node/6654710063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6832552984",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "check_date": "2024-07-31",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 09:00-20:30",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0923429,
+          50.7752353
+        ]
+      },
+      "id": "node/6832552984"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6853875161",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 11:00-18:00; Su 12:00-18:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.524966,
+          52.2621806
+        ]
+      },
+      "id": "node/6853875161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7005835554",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours:covid19": "Mo-Th 10:00-18:00; Fr-Sa 10:00-20:00; Su off",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8286635,
+          50.4433569
+        ]
+      },
+      "id": "node/7005835554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7132010681",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "check_date": "2024-09-16",
+        "contact:website": "https://www.starbucks.de/",
+        "cuisine": "coffee_shop",
+        "diet:halal": "yes",
+        "diet:kosher": "yes",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "internet_access:ssid": "MEET ME @ STARBUCKS",
+        "level": "1",
+        "name": "Starbucks",
+        "note": "Eröffnung Frühjahr 2020",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 06:00-21:30; PH,Su 07:00-21:30",
+        "outdoor_seating": "no",
+        "payment:american_express": "yes",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:contactless": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:google_pay": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:v_pay": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4497985,
+          52.5063819
+        ]
+      },
+      "id": "node/7132010681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8532643407",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4049767,
+          49.2302572
+        ]
+      },
+      "id": "node/8532643407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8749880560",
+        "addr:city": "Stuhr",
+        "addr:housenumber": "103",
+        "addr:postcode": "28816",
+        "addr:street": "Bremer Straße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 10:00- 16:00",
+        "phone": "+49 421 87888114",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8057809,
+          53.0284236
+        ]
+      },
+      "id": "node/8749880560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8780343407",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa 06:00-19:00; Su 08:00-19:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9396765,
+          53.7167664
+        ]
+      },
+      "id": "node/8780343407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9507916333",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 08:00-21:00; Su 08:00-19:30",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3296065,
+          52.5031701
+        ]
+      },
+      "id": "node/9507916333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9620186718",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Su 06:00-20:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3325663,
+          52.5070444
+        ]
+      },
+      "id": "node/9620186718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9762049458",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "PH,Mo-Su 06:00-21:30",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "survey:date": "2024-06-16",
+        "takeaway": "only",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1818687,
+          48.78526
+        ]
+      },
+      "id": "node/9762049458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10199576804",
+        "addr:city": "Wuppertal",
+        "addr:housenumber": "27",
+        "addr:postcode": "42103",
+        "addr:street": "Alte Freiheit",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "check_date:opening_hours": "2024-12-01",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "highchair": "1",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "laundry_detergent",
+        "internet_access:operator": "Starbucks",
+        "internet_access:ssid": "MEET ME @ STARBUCKS",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:30-20:30; Sa 08:00-20:30; Su 11:00-18:30",
+        "outdoor_seating": "pedestrian_zone",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1492568,
+          51.255812
+        ]
+      },
+      "id": "node/10199576804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10258996561",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0431362,
+          48.6847285
+        ]
+      },
+      "id": "node/10258996561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10572580830",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "level": "1. EG",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 10:00-20:00; Fr 10:00-21:30; Sa 09:30-20:00; Su, PH off",
+        "phone": "+49 711 28496942",
+        "takeaway": "yes",
+        "website": "https://starbucks.com",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1846081,
+          48.7907014
+        ]
+      },
+      "id": "node/10572580830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10584621187",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "level": "4",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-22:00; Su 12:00-20:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6814715,
+          50.1153083
+        ]
+      },
+      "id": "node/10584621187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10599604600",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7831094,
+          51.2267053
+        ]
+      },
+      "id": "node/10599604600"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10703698175",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "-1",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 06:30-20:30; Sa 08:30-20:30; PH,Su 10:00-19:30",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0971929,
+          50.7329471
+        ]
+      },
+      "id": "node/10703698175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10800211947",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-20:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4142012,
+          52.5208209
+        ]
+      },
+      "id": "node/10800211947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10801088923",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "18 a",
+        "addr:place": "O7",
+        "addr:postcode": "68161",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 08:00-20:00; Su 10:30-20:00",
+        "operator": "Starbucks Coffee Deutschland GmbH",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:cryptocurrencies": "no",
+        "payment:debit_cards": "yes",
+        "payment:electronic_purses": "no",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 621 1225818",
+        "smoking": "outside",
+        "surveillance": "indoor",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.de/",
+        "wheelchair": "limited",
+        "wheelchair:description": "einzelne Stufe am Eingang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4736216,
+          49.4840616
+        ]
+      },
+      "id": "node/10801088923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11046283711",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "website": "https://www.starbucks.com/store-locator/store/1028234/ellwanger-berge-ost-a-7-a-7-ellwangen-jagst-bw-73479-de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1962979,
+          48.9839259
+        ]
+      },
+      "id": "node/11046283711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11048008912",
+        "addr:city": "Augsburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "86150",
+        "addr:street": "Viktoriastraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su,PH 06:00-20:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8866692,
+          48.3652929
+        ]
+      },
+      "id": "node/11048008912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11264494273",
+        "addr:city": "Berlin",
+        "addr:housenumber": "75",
+        "addr:postcode": "10439",
+        "addr:street": "Schönhauser Allee",
+        "amenity": "cafe",
+        "branch": "Berlin Schönhauser Allee Arcaden",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "check_date": "2023-10-15",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4142481,
+          52.5496387
+        ]
+      },
+      "id": "node/11264494273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11279962836",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6816247,
+          50.1148319
+        ]
+      },
+      "id": "node/11279962836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11356487177",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "check_date": "2023-11-16",
+        "cuisine": "coffee_shop",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0159265,
+          50.8746339
+        ]
+      },
+      "id": "node/11356487177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11630220194",
+        "amenity": "cafe",
+        "branch": "BBI Airport E2 L01 I Landing",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "internet_access": "no",
+        "level": "2",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "no",
+        "payment:app": "yes",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5091393,
+          52.3642658
+        ]
+      },
+      "id": "node/11630220194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11673168518",
+        "addr:city": "München",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "80331",
+        "addr:street": "Sendlinger Straße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "contact:website": "https://www.starbucks.com/store-locator/store/81107-308909/muenchen-sendlinger-strasse-3-sendlinger-strasse-37-muenchen-by-80331-de",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "pedestrian_zone",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.568761,
+          48.1344391
+        ]
+      },
+      "id": "node/11673168518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11717339483",
+        "air_conditioning": "yes",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 07:30-20:00; PH,Sa,Su 08:30-20:00",
+        "outdoor_seating": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "smoking": "outside",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3877971,
+          52.5250223
+        ]
+      },
+      "id": "node/11717339483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11804770474",
+        "addr:city": "Aachen",
+        "addr:housenumber": "35",
+        "addr:postcode": "52062",
+        "addr:street": "Markt",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "int_name": "Starbucks",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Th 07:30-21:00; Fr 07:30-22:00; Sa 08:30-22:00; Su 09:00-21:00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.starbucks.com/store-locator/store/1018873/aachen-markt-markt-35-aachen-nw-52062-de",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0833202,
+          50.7765363
+        ]
+      },
+      "id": "node/11804770474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12100207438",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "opening_hours": "Mo-Fr 09:00-20:30; Sa 08:30-20:30; Su 10:00-18:00",
+        "operator": "Starbucks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6087735,
+          47.5930849
+        ]
+      },
+      "id": "node/12100207438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12233179032",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "level": "3",
+        "level:ref": "E2",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5071212,
+          52.364596
+        ]
+      },
+      "id": "node/12233179032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12290061476",
+        "addr:city": "Berlin",
+        "addr:housenumber": "132",
+        "addr:postcode": "12165",
+        "addr:street": "Albrechtstraße",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "contact:website": "https://www.starbucks.de/de/store-locator/80337-309540/berlin-albrechststrasse-132",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "outdoor_seating": "yes",
+        "shop": "coffee",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3217156,
+          52.4573267
+        ]
+      },
+      "id": "node/12290061476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12546190065",
+        "amenity": "cafe",
+        "brand": "Starbucks",
+        "brand:wikidata": "Q37158",
+        "brand:wikipedia": "en:Starbucks",
+        "cuisine": "coffee_shop",
+        "indoor_seating": "yes",
+        "name": "Starbucks",
+        "official_name": "Starbucks Coffee",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9909665,
+          49.2380848
+        ]
+      },
+      "id": "node/12546190065"
+    }
+  ]
+}

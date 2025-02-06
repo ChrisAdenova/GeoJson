@@ -1,0 +1,6502 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-02-06T07:38:37Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "relation/7204190",
+        "addr:city": "Saarbrücken",
+        "addr:country": "DE",
+        "addr:housenumber": "6-12",
+        "addr:postcode": "66111",
+        "addr:street": "Am Hauptbahnhof",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2022-10-31",
+        "contact:phone": "+49 681 93870521",
+        "cuisine": "chicken",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "internet_access": "no",
+        "level": "0",
+        "name": "KFC",
+        "name:fr": "KFC Sarrebruck Gare",
+        "opening_hours": "Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-23:00",
+        "payment:cash": "yes",
+        "payment:cryptocurrencies": "no",
+        "payment:girocard": "yes",
+        "payment:visa": "yes",
+        "room": "restaurant",
+        "takeaway": "yes",
+        "type": "multipolygon",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9905525,
+          49.2407336
+        ]
+      },
+      "id": "relation/7204190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/18083901",
+        "addr:city": "Bremen",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "28279",
+        "addr:street": "Borgwardstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "chicken",
+        "diet:vegetarian": "no",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00",
+        "phone": "+49 4 21 25 84 06 36",
+        "roof:levels": "0",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/kfc-bremen-habenhausen-borgwardstr-5",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8428077,
+          53.0464132
+        ]
+      },
+      "id": "way/18083901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24391823",
+        "addr:city": "Würselen",
+        "addr:housenumber": "25",
+        "addr:postcode": "52146",
+        "addr:street": "Adenauerstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "contact:phone": "+492405480783",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00 - 23:00; Fr-Sa 11:00 - 24:00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de/content/wuerselen-willy-brandt-ringadenauer-str-25",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1546831,
+          50.805404
+        ]
+      },
+      "id": "way/24391823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/24920873",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "13405",
+        "addr:street": "Kurt-Schumacher-Damm",
+        "addr:suburb": "Wedding",
+        "air_conditioning": "no",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "commercial",
+        "building:levels": "1",
+        "check_date:opening_hours": "2024-11-02",
+        "cuisine": "chicken",
+        "diet:vegetarian": "no",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th,PH 10:00-23:00; Fr,Sa 00:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 30 41700041",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "short_name": "KFC",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3268131,
+          52.561264
+        ]
+      },
+      "id": "way/24920873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/26658070",
+        "addr:city": "Sindelfingen",
+        "addr:country": "DE",
+        "addr:housenumber": "60",
+        "addr:postcode": "71065",
+        "addr:street": "Böblinger Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "contact:phone": "+49 7031 285484",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:30-24:00, Fr 10:30-02:00, Sa 10:30-02:00, Su 10:30-24:00, PH 10:30-24:00",
+        "opening_hours:lastcheck": "2016-04-21",
+        "operator": "Kentucky Fried Chicken Ltd.",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "roof:shape": "flat",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q108574472",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0066668,
+          48.7033125
+        ]
+      },
+      "id": "way/26658070"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30027922",
+        "addr:city": "Ingolstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "93",
+        "addr:postcode": "85053",
+        "addr:street": "Manchinger Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:30-24:00, Fr,Sa 10:30-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 841 9613637",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4633565,
+          48.7486581
+        ]
+      },
+      "id": "way/30027922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/30042514",
+        "addr:housenumber": "141",
+        "addr:postcode": "41189",
+        "addr:street": "Adolf-Kempken-Weg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4207073,
+          51.1397247
+        ]
+      },
+      "id": "way/30042514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31311699",
+        "addr:city": "Essen",
+        "addr:country": "DE",
+        "addr:housenumber": "130",
+        "addr:postcode": "45356",
+        "addr:street": "Bottroper Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9832119,
+          51.4774334
+        ]
+      },
+      "id": "way/31311699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/31371227",
+        "addr:city": "Sankt Augustin",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "53757",
+        "addr:street": "Marie-Curie-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "chicken",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th,Su 11:00-00:00; Fr-Sa 11:00-02:00",
+        "operator": "Collins Foods Germany Limited",
+        "outdoor_seating": "yes",
+        "phone": "+49 2241 1482 886",
+        "roof:levels": "0",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-sankt-augustin-marie-curie-strasse-3",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1769329,
+          50.7926559
+        ]
+      },
+      "id": "way/31371227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32539945",
+        "addr:city": "Paderborn",
+        "addr:country": "DE",
+        "addr:housenumber": "140",
+        "addr:postcode": "33098",
+        "addr:street": "Borchener Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "commercial",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "outdoor_seating": "yes",
+        "roof:shape": "flat",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7432708,
+          51.7038707
+        ]
+      },
+      "id": "way/32539945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/37429752",
+        "addr:city": "Forchheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "91301",
+        "addr:street": "Am halben Weg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "wheelchair:description": "Ebenerdiger Eingang, Behinderten WC, Wickeltisch",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0648687,
+          49.6983946
+        ]
+      },
+      "id": "way/37429752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/42022256",
+        "addr:city": "Bad Oeynhausen",
+        "addr:housename": "KFC",
+        "addr:housenumber": "24",
+        "addr:postcode": "32545",
+        "addr:street": "Brunnenstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7901843,
+          52.2065977
+        ]
+      },
+      "id": "way/42022256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48013130",
+        "addr:city": "Frankfurt am Main",
+        "addr:country": "DE",
+        "addr:housenumber": "292",
+        "addr:postcode": "60314",
+        "addr:street": "Hanauer Landstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "check_date:opening_hours": "2024-11-23",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-01:00, Su,PH 10:00-24:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7338504,
+          50.119015
+        ]
+      },
+      "id": "way/48013130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/48627850",
+        "addr:city": "Saarbrücken",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "66130",
+        "addr:street": "Wolfseck",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th,Su 11:30-21:30; Fr-Sa 11:30-22:30",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0239511,
+          49.2100762
+        ]
+      },
+      "id": "way/48627850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/49848186",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "127-133",
+        "addr:postcode": "22041",
+        "addr:street": "Wandsbeker Zollstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
+        "phone": "+49 40 69219571",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0844492,
+          53.5773474
+        ]
+      },
+      "id": "way/49848186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/51749439",
+        "addr:city": "Henstedt-Ulzburg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "24558",
+        "addr:street": "Am Bahnbogen",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "branch": "Henstedt-Ulzburg",
+        "brand": "KFC",
+        "brand:website": "https://www.kfc.de/",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "contact:facebook": "https://www.facebook.com/KFC.Deutschland",
+        "contact:instagram": "https://www.instagram.com/kfc_deutschland/",
+        "contact:twitter": "https://twitter.com/kfcdeutschland",
+        "contact:youtube": "https://www.youtube.com/channel/UC6E5KFnwlkV662Wl6FFtnuQ",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-24:00",
+        "operator": "HFC Henstedt Food Center GmbH",
+        "operator:website": "https://www.kfc.de/find-a-kfc/kfc-henstedt-ulzburg-am-bahnbogen-2",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:girocard": "yes",
+        "phone": "+49 4193 7550811",
+        "roof:shape": "flat",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9823875,
+          53.7991813
+        ]
+      },
+      "id": "way/51749439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/52449103",
+        "addr:city": "Köln",
+        "addr:country": "DE",
+        "addr:housenumber": "101",
+        "addr:postcode": "51149",
+        "addr:street": "Alter Deutzer Postweg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "detached",
+        "building:levels": "1",
+        "building:use": "foodservice",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-01:00, Fr,Sa 11:00-02:00, Su 11:00-01:00",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0498316,
+          50.9180341
+        ]
+      },
+      "id": "way/52449103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54055222",
+        "addr:city": "Wiesbaden",
+        "addr:country": "DE",
+        "addr:housenumber": "70",
+        "addr:postcode": "55252",
+        "addr:street": "Boelckestraße",
+        "addr:suburb": "Mainz-Kastel",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2881645,
+          50.0191684
+        ]
+      },
+      "id": "way/54055222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/58993373",
+        "addr:city": "Bielefeld",
+        "addr:country": "DE",
+        "addr:housenumber": "20",
+        "addr:postcode": "33609",
+        "addr:street": "Eckendorfer Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "2",
+        "check_date": "2024-07-01",
+        "contact:website": "https://www.kfc.de/",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "official_name": "Kentucky Fried Chicken",
+        "opening_hours": "Su-Th 11:00-23:00, Fr-Sa 11:00-24:00",
+        "operator": "Kentucky Fried Chicken",
+        "roof:levels": "0",
+        "short_name": "KFC",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5552956,
+          52.0329049
+        ]
+      },
+      "id": "way/58993373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/59434255",
+        "addr:city": "Wiesbaden",
+        "addr:housenumber": "80",
+        "addr:postcode": "65187",
+        "addr:street": "Schiersteiner Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "int_name": "Kentucky Fried Chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:30-23:00; PH,Su 11:00-23:00",
+        "phone": "+49 611 44575048",
+        "source": "yahoo sat",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-Wiesbaden-Schiersteiner-Straße-80",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2242666,
+          50.0678501
+        ]
+      },
+      "id": "way/59434255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/67505057",
+        "addr:city": "Neu-Ulm",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "89231",
+        "addr:street": "Pfaffenweg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "full_name": "Kentucky Fried Chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "PH,Su-Th 11:00-23:00; Fr-Sa 11:00-01:00",
+        "operator": "Yum! Brands, Inc.",
+        "outdoor_seating": "yes",
+        "phone": "+49 731 7253800",
+        "smokefree": "yes",
+        "smoking": "no",
+        "start_date": "2000",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Rollstuhltoilette vorhanden, Alle Räume erreichbar",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0218657,
+          48.3955999
+        ]
+      },
+      "id": "way/67505057"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/83507028",
+        "addr:city": "Göttingen",
+        "addr:country": "DE",
+        "addr:housenumber": "28",
+        "addr:postcode": "37081",
+        "addr:street": "Siekweg",
+        "addr:suburb": "Grone",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "contact:phone": "+49 551 50969008",
+        "contact:website": "https://www.kfc.de/find-a-kfc/kfc-G%C3%B6ttingen-Siekweg-28",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Su,PH 12:00-22:00",
+        "source": "bing",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8897073,
+          51.5287191
+        ]
+      },
+      "id": "way/83507028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/87437610",
+        "addr:city": "Schweinfurt",
+        "addr:country": "DE",
+        "addr:housenumber": "14",
+        "addr:postcode": "97424",
+        "addr:street": "Carl-Benz-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:30-24:00, Fr-Sa 10:30-01:00, Su 11:00-24:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "source": "Bing",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2369212,
+          50.0355952
+        ]
+      },
+      "id": "way/87437610"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/88382900",
+        "addr:city": "Oldenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "10",
+        "addr:postcode": "26129",
+        "addr:street": "Posthalterweg",
+        "addr:suburb": "Wechloy",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "branch": "Oldenburg",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "cuisine": "chicken",
+        "delivery": "yes",
+        "delivery:partner": "Lieferando",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
+        "operator": "AmRest DE Sp. z o.o. & Co. KG",
+        "outdoor_seating": "yes",
+        "phone": "+49 441 95722358",
+        "source": "bing imagery",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-oldenburg-posthalterweg-10",
+        "website:menu": "https://www.kfc.de/menu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.171874,
+          53.1591067
+        ]
+      },
+      "id": "way/88382900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93221099",
+        "addr:city": "Bochum",
+        "addr:country": "DE",
+        "addr:housenumber": "111a",
+        "addr:postcode": "44805",
+        "addr:street": "Castroper Hellweg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "commercial",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Fr,Sa 11:00-24:00; Su-Th 11:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 234 5770763",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2584893,
+          51.5012861
+        ]
+      },
+      "id": "way/93221099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93521946",
+        "addr:city": "Kaarst",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "41564",
+        "addr:street": "Neersener Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_in": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr,Sa 11:00-24:00; Su 11:00-23:00",
+        "operator": "Kentucky Fried Chicken",
+        "phone": "+49 2131 381091",
+        "smoking": "no",
+        "source": "Bing",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.639045,
+          51.2171927
+        ]
+      },
+      "id": "way/93521946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95109880",
+        "addr:city": "Chemnitz",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "09247",
+        "addr:street": "Haydnstraße",
+        "addr:suburb": "Röhrsdorf",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.8638404,
+          50.8605133
+        ]
+      },
+      "id": "way/95109880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95130621",
+        "addr:city": "Isernhagen",
+        "addr:housenumber": "8",
+        "addr:postcode": "30916",
+        "addr:street": "Opelstraße",
+        "addr:suburb": "Altwarmbüchen",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-22:00",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.8372321,
+          52.4240066
+        ]
+      },
+      "id": "way/95130621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102538419",
+        "addr:city": "Kaiserslautern",
+        "addr:country": "DE",
+        "addr:housenumber": "23a",
+        "addr:postcode": "67663",
+        "addr:street": "Merkurstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "check_date": "2024-05-09",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "operator": "KFC",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/kfc-kaiserslautern",
+        "wheelchair": "yes",
+        "wheelchair:description": "WC für Menschen mit eingeschränkter Mobilität und Behindertenparkplatz",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7251904,
+          49.4425206
+        ]
+      },
+      "id": "way/102538419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/102841291",
+        "addr:city": "Alsfeld",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:place": "Pfefferhöhe",
+        "addr:postcode": "36304",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2420908,
+          50.7337833
+        ]
+      },
+      "id": "way/102841291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/104297016",
+        "addr:city": "Krefeld",
+        "addr:country": "DE",
+        "addr:housenumber": "62",
+        "addr:postcode": "47807",
+        "addr:street": "Siemesdyk",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "commercial",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5932907,
+          51.3218009
+        ]
+      },
+      "id": "way/104297016"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/113115302",
+        "addr:city": "Regensburg",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "93059",
+        "addr:street": "Frankenstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "commercial",
+        "building:levels": "2",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "internet_access": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:00-24:00, Fr-Sa 10:00-01:00, Su 10:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 941 4616767",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "smoking": "no",
+        "source": "Bing",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-regensburg-frankenstr-2",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1103774,
+          49.028328
+        ]
+      },
+      "id": "way/113115302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118148869",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "200",
+        "addr:postcode": "21075",
+        "addr:street": "Stader Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2024-03-30",
+        "contact:phone": "+49 40 79140500",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "operator": "Ceylan Food Harburg GmbH",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:cryptocurrencies": "no",
+        "payment:electronic_purses": "no",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "roof:levels": "0",
+        "roof:shape": "flat",
+        "short_name": "KFC",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-hamburg-stader-str-200",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9368466,
+          53.4712827
+        ]
+      },
+      "id": "way/118148869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/118387534",
+        "addr:city": "Berlin",
+        "addr:housenumber": "56",
+        "addr:postcode": "13593",
+        "addr:street": "Gatower Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "building": "retail",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1846682,
+          52.5164752
+        ]
+      },
+      "id": "way/118387534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147010693",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0081728,
+          49.4576469
+        ]
+      },
+      "id": "way/147010693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/147949803",
+        "addr:city": "Frankfurt am Main",
+        "addr:housenumber": "1",
+        "addr:postcode": "60314",
+        "addr:street": "Hanauer Landstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "diet:halal": "yes",
+        "diet:vegan": "no",
+        "diet:vegetarian": "no",
+        "name": "KFC",
+        "payment:cards": "yes",
+        "payment:cash": "no",
+        "phone": "+49 69 91394623",
+        "service:electricity": "ask",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6952239,
+          50.1137586
+        ]
+      },
+      "id": "way/147949803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/151167261",
+        "addr:city": "Hof",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "95032",
+        "addr:street": "Ernst-Reuter-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9154231,
+          50.3045518
+        ]
+      },
+      "id": "way/151167261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/157395987",
+        "addr:city": "Augsburg",
+        "addr:country": "DE",
+        "addr:housenumber": "119",
+        "addr:postcode": "86165",
+        "addr:street": "Derchinger Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-23:00, Fr-Sa 10:00-01:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.935116,
+          48.3886756
+        ]
+      },
+      "id": "way/157395987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/161241866",
+        "addr:city": "Köln",
+        "addr:country": "DE",
+        "addr:housenumber": "421",
+        "addr:postcode": "50858",
+        "addr:street": "Dürener Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "2",
+        "building:use": "foodservice",
+        "check_date:opening_hours": "2022-03-24",
+        "cuisine": "chicken",
+        "diet:vegetarian": "no",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "roof:shape": "flat",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8518476,
+          50.9196404
+        ]
+      },
+      "id": "way/161241866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/165184798",
+        "addr:city": "Nürnberg",
+        "addr:country": "DE",
+        "addr:housenumber": "298",
+        "addr:postcode": "90480",
+        "addr:street": "Regensburger Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2024-05-15",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-24:00; Fr-Sa 10:00-01:00",
+        "phone": "+49 911 48057352",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1257599,
+          49.4342359
+        ]
+      },
+      "id": "way/165184798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/168821356",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "203",
+        "addr:postcode": "70327",
+        "addr:street": "Ulmer Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "chicken",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th,PH 11:00-23:00; Fr-Sa 11:00-02:00",
+        "phone": "+49 711 3102318",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2320473,
+          48.7794236
+        ]
+      },
+      "id": "way/168821356"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/173390233",
+        "addr:city": "Braunschweig",
+        "addr:country": "DE",
+        "addr:housenumber": "83",
+        "addr:postcode": "38112",
+        "addr:street": "Hansestraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "changing_table": "yes",
+        "contact:phone": "+49 531 23627787",
+        "contact:website": "http://www.kfc.de/content/braunschweig-hansestr-83",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
+        "outdoor_seating": "yes",
+        "payment:girocard": "yes",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.5059791,
+          52.3107204
+        ]
+      },
+      "id": "way/173390233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182758358",
+        "addr:city": "Stuhr",
+        "addr:housenumber": "240",
+        "addr:postcode": "28816",
+        "addr:street": "Delmenhorster Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "contact:website": "http://www.kfc.de/content/stuhr-delmenhorster-str-240",
+        "cuisine": "chicken",
+        "image": "http://www.kfc.de/sites/default/files/imagecache/filialbild_detailseite/_MG_9470.jpg",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 10:00-24:00",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.70125,
+          53.0125455
+        ]
+      },
+      "id": "way/182758358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/182972402",
+        "addr:city": "Mannheim",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "68165",
+        "addr:street": "Möhlstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "building:levels": "1",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "image": "https://commons.wikimedia.org/wiki/File:KFC_Mannheim-Schwetzingerstadt.jpg",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:30-24:00; Fr-Sa 10:30-01:00; Su 11:00-24:00; PH 11:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 4317040",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-Mannheim-M%C3%B6hlstra%C3%9Fe-3",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4878329,
+          49.4754249
+        ]
+      },
+      "id": "way/182972402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196124921",
+        "addr:city": "Hallstadt",
+        "addr:country": "DE",
+        "addr:housenumber": "37",
+        "addr:postcode": "96103",
+        "addr:street": "Laubanger",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "contact:phone": "+49 951 96839822",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:30-23:00; Fr, Sa 10:30-24:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8670458,
+          49.9140181
+        ]
+      },
+      "id": "way/196124921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/196925398",
+        "addr:city": "Gießen",
+        "addr:country": "DE",
+        "addr:housenumber": "109 A",
+        "addr:postcode": "35394",
+        "addr:street": "Schiffenberger Weg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 641 97269175",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-giessen-schiffenberger-weg-109a",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6902199,
+          50.5722353
+        ]
+      },
+      "id": "way/196925398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/198209365",
+        "addr:city": "München",
+        "addr:housenumber": "44",
+        "addr:postcode": "80992",
+        "addr:street": "Hanauer Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2023-05-28",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:30-24:00; Su 11:00-24:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5295482,
+          48.1782385
+        ]
+      },
+      "id": "node/198209365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/200198651",
+        "addr:city": "Barsinghausen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "30890",
+        "addr:street": "Schortenbreite",
+        "addr:suburb": "Bantorf",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "building:colour": "red",
+        "building:material": "plaster",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 5105 5229817",
+        "roof:shape": "flat",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-barsinghausen-schortenbreite-1",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4122469,
+          52.3338196
+        ]
+      },
+      "id": "way/200198651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/205681216",
+        "addr:city": "Mainz",
+        "addr:country": "DE",
+        "addr:housenumber": "42",
+        "addr:postcode": "55128",
+        "addr:street": "Haifa-Allee",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:30-00:00; Su 11:00-00:00",
+        "operator": "Kentucky Fried Chicken (Great Britain) Ltd., German Branch",
+        "phone": "+49 6131 7321770",
+        "source": "survey",
+        "start_date": "2009",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2325927,
+          49.9670488
+        ]
+      },
+      "id": "way/205681216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/210497086",
+        "addr:city": "Bad Kreuznach",
+        "addr:housenumber": "133",
+        "addr:postcode": "55543",
+        "addr:street": "Schwabenheimer Weg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 671 79499925",
+        "smoking": "no",
+        "source": "http://www.kfc.de/",
+        "source:date": "2018-01-15",
+        "takeaway": "yes",
+        "website": "http://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8917505,
+          49.8512121
+        ]
+      },
+      "id": "way/210497086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/220526325",
+        "addr:city": "Hannover",
+        "addr:country": "DE",
+        "addr:housenumber": "418",
+        "addr:postcode": "30519",
+        "addr:street": "Hildesheimer Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "payment:coins": "yes",
+        "payment:contactless": "yes",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 511 87650875",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7818379,
+          52.3252194
+        ]
+      },
+      "id": "way/220526325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/224548475",
+        "addr:city": "Augsburg",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "86157",
+        "addr:street": "Flandernstraße",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-24:00; Fr,Sa 10:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 821 544060",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8676358,
+          48.3712004
+        ]
+      },
+      "id": "way/224548475"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233304181",
+        "addr:city": "Limburg a. d. Lahn",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "65552",
+        "addr:street": "Vinzenz-Pallotti-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/limburg-vinzenz-pallotti-str-1",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0900421,
+          50.3813413
+        ]
+      },
+      "id": "way/233304181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/234962912",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "87",
+        "addr:postcode": "13089",
+        "addr:street": "Prenzlauer Promenade",
+        "addr:suburb": "Heinersdorf",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "outdoor_seating": "yes",
+        "phone": "+49 30 47034115",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4297263,
+          52.5721994
+        ]
+      },
+      "id": "way/234962912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/239015072",
+        "addr:city": "Kamen",
+        "addr:housenumber": "9",
+        "addr:postcode": "59174",
+        "addr:street": "Kamen Karree",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "note": "Öffnungszeiten (lt. Website): So. - Do. 10:30 - 24:00 Uhr Fr. - Sa. 10:30 - 01:00 Uhr",
+        "phone": "+49 2307 2602155",
+        "source": "Local Knowlege",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/kfc-kamen",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6744394,
+          51.5685078
+        ]
+      },
+      "id": "way/239015072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/244388502",
+        "addr:city": "Bischofsheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "65474",
+        "addr:street": "Am Schindberg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "commercial",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Thu 10:00-00:00, Fr-Sa 10:00-01:00",
+        "phone": "+49 6144 4053813",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de/kfc-bischofsheim",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3772809,
+          49.9758552
+        ]
+      },
+      "id": "way/244388502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/253018177",
+        "addr:city": "Haan",
+        "addr:country": "DE",
+        "addr:housenumber": "58",
+        "addr:postcode": "42781",
+        "addr:street": "Landstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "commercial",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa,Su 00:00-01:00,11:00-24:00",
+        "phone": "+49 2129 3468807",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.04037,
+          51.2039376
+        ]
+      },
+      "id": "way/253018177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256486453",
+        "addr:city": "München",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "80939",
+        "addr:street": "Maria-Probst-Straße",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:30-23:00, Fr,Sa 10:30-24:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5863856,
+          48.1928559
+        ]
+      },
+      "id": "node/256486453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/257581969",
+        "addr:housenumber": "115",
+        "addr:postcode": "41065",
+        "addr:street": "Korschenbroicher Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-23:00, Fr-Sa 11:00-01:00, Su 11:00-23:00",
+        "phone": "+49 2161 4071714",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4509055,
+          51.1950571
+        ]
+      },
+      "id": "way/257581969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/263821576",
+        "addr:city": "Mülheim-Kärlich",
+        "addr:housenumber": "35",
+        "addr:postcode": "56218",
+        "addr:street": "Industriestraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "email": "service@kfc.de",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "phone": "+49 2630 9559401",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.5218187,
+          50.395972
+        ]
+      },
+      "id": "way/263821576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/266679712",
+        "addr:city": "Hannover",
+        "addr:housenumber": "272",
+        "addr:postcode": "30179",
+        "addr:street": "Vahrenwalder Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "delivery": "yes",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-00:00; Su,PH 11:00-23:00",
+        "payment:cards": "yes",
+        "payment:cash": "yes",
+        "payment:qr_code": "no",
+        "phone": "+49 511 2619793",
+        "short_name": "KFC",
+        "smoking": "no",
+        "surveillance": "indoor",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-hannover-vahrenwalder-str-272",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7343173,
+          52.4163185
+        ]
+      },
+      "id": "node/266679712"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/268808549",
+        "addr:city": "Hamburg",
+        "addr:country": "DE",
+        "addr:housenumber": "100",
+        "addr:postcode": "20359",
+        "addr:street": "Reeperbahn",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-01:00, Fr,Sa 11:00-07:00",
+        "outdoor_seating": "no",
+        "phone": "+494031761104",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9611087,
+          53.5497556
+        ]
+      },
+      "id": "node/268808549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/271873332",
+        "addr:city": "Dortmund",
+        "addr:housenumber": "166",
+        "addr:postcode": "44141",
+        "addr:street": "Westfalendamm",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00, Fr,Sa 11:00-24:00",
+        "phone": "+49 231 21 78 30 00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4991266,
+          51.5044463
+        ]
+      },
+      "id": "node/271873332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279019188",
+        "addr:city": "Osnabrück",
+        "addr:country": "DE",
+        "addr:housenumber": "96",
+        "addr:postcode": "49090",
+        "addr:street": "Pagenstecherstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "phone": "+49 541 4406417",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0217254,
+          52.2926996
+        ]
+      },
+      "id": "node/279019188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/291088663",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6333401,
+          49.8868911
+        ]
+      },
+      "id": "node/291088663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/298171322",
+        "addr:city": "Ludwigshafen am Rhein",
+        "addr:housenumber": "17",
+        "addr:postcode": "67071",
+        "addr:street": "Flomersheimer Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-22:00",
+        "short_name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3520789,
+          49.4903865
+        ]
+      },
+      "id": "way/298171322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/307798754",
+        "addr:city": "Saarlouis",
+        "addr:country": "DE",
+        "addr:housenumber": "246",
+        "addr:postcode": "66740",
+        "addr:street": "Provinzialstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "diet:vegetarian": "no",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 12:00-21:00, Fr 12:00-24:00, Sa 11:00-24:00, Su 12:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:cryptocurrencies": "no",
+        "payment:electronic_purses": "no",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "short_name": "KFC",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.759327,
+          49.2899591
+        ]
+      },
+      "id": "way/307798754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/308648145",
+        "addr:city": "Wesel",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "46485",
+        "addr:street": "Im Buttendicksfeld",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "short_name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "no",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.668266,
+          51.6617526
+        ]
+      },
+      "id": "way/308648145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/311294910",
+        "addr:city": "Offenburg",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "77656",
+        "addr:street": "Heinrich-Hertz-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00, Su,PH 12:00-23:00",
+        "payment:cash": "yes",
+        "payment:cryptocurrencies": "no",
+        "phone": "+49 781 99069262",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-offenburg-heinrich-hertz-str-3",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.9317605,
+          48.4696585
+        ]
+      },
+      "id": "way/311294910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313325387",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "10789",
+        "addr:street": "Tauentzienstraße",
+        "addr:suburb": "Charlottenburg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Mo-Su,PH 10:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 30 26930741",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.kfc.de/content/berlin-tauentzienstr-9",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.337072,
+          52.504856
+        ]
+      },
+      "id": "node/313325387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/313800496",
+        "addr:city": "Schwäbisch Hall",
+        "addr:country": "DE",
+        "addr:housenumber": "151",
+        "addr:postcode": "74523",
+        "addr:street": "Stuttgarter Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Fr-Sa 11:00-24:00; Su,Mo,Tu,We,Th 11:00-22:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7025014,
+          49.1057165
+        ]
+      },
+      "id": "way/313800496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/338170751",
+        "addr:city": "Singen (Hohentwiel)",
+        "addr:country": "DE",
+        "addr:housenumber": "3",
+        "addr:postcode": "78224",
+        "addr:street": "Franz-Sigel-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "commercial",
+        "contact:phone": "+49 7731 1476182",
+        "contact:website": "https://www.kfc.de",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-01:00, Sa 11:00-01:00, Su 11:00-23:00; PH 11:00-23:00",
+        "outdoor_seating": "yes",
+        "ref:shop:num": "390",
+        "ref:vatin": "DE294344396",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8538095,
+          47.7539152
+        ]
+      },
+      "id": "way/338170751"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/373751704",
+        "addr:city": "Bremen",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "contact:website": "http://www.kfc.de/",
+        "cuisine": "chicken",
+        "indoor": "room",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su,PH 12:00-20:00",
+        "short_name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.747083,
+          53.110266
+        ]
+      },
+      "id": "way/373751704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/373786359",
+        "addr:city": "Euskirchen",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "53879",
+        "addr:street": "Albert-Latz-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "building:colour": "red",
+        "building:levels": "1",
+        "contact:facebook": "https://www.facebook.com/KFC.Euskirchen/",
+        "contact:phone": "+49 2251 7758405",
+        "contact:website": "http://www.kfc.de/",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC Euskirchen",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "operator": "Yum! Brands, Inc.",
+        "outdoor_seating": "yes",
+        "roof:shape": "flat",
+        "start_date": "2015-12-05",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8028397,
+          50.6512909
+        ]
+      },
+      "id": "way/373786359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384162661",
+        "FIXME": "Wheelchair:Toilets?",
+        "addr:city": "Lehre",
+        "addr:housenumber": "2a",
+        "addr:postcode": "38165",
+        "addr:street": "In den Lohbalken",
+        "addr:suburb": "Wendhausen",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "drive_in": "yes",
+        "fixme": "opening hours",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:30-24:00; Fr-Sa 10:30-01:00",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/KFC-Lehre-Wendhausen-In-den-Lohbalken-2a",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6330793,
+          52.3122868
+        ]
+      },
+      "id": "way/384162661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/384840458",
+        "addr:city": "Waiblingen",
+        "addr:country": "DE",
+        "addr:housenumber": "131",
+        "addr:postcode": "71332",
+        "addr:street": "Stuttgarter Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "building:levels": "1",
+        "contact:phone": "+49 7151 9765276",
+        "contact:website": "http://www.kfc.de",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "height": "6",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Fr 10:30-24:00; Sa,Su 00:00-01:00,10:30-24:00",
+        "operator": "Kentucky Fried Chicken",
+        "outdoor_seating": "yes",
+        "roof:shape": "flat",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2973812,
+          48.8217453
+        ]
+      },
+      "id": "way/384840458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/399306270",
+        "addr:city": "Herborn",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "35745",
+        "addr:street": "Auf den Lüppen",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "building:levels": "2",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "roof:colour": "#EEEEEE",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2798579,
+          50.674986
+        ]
+      },
+      "id": "way/399306270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/404729414",
+        "addr:city": "Guxhagen",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "34302",
+        "addr:street": "Robert-Bosch-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "diet:vegetarian": "no",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "phone": "+49 5665 9693840",
+        "roof:shape": "flat",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4691466,
+          51.2039221
+        ]
+      },
+      "id": "way/404729414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/408067211",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-24:00, Fr,Sa 10:00-01:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.8750722,
+          48.3813186
+        ]
+      },
+      "id": "node/408067211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/408466912",
+        "addr:city": "Leipzig",
+        "addr:housenumber": "10",
+        "addr:postcode": "04356",
+        "addr:street": "Alte Dübener Landstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "1",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-23:00, Fr-Sa 10:00-24:00",
+        "phone": "+49 341 24 17 45 37",
+        "roof:levels": "0",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/restaurants/?mapsearch=leipzig",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3931099,
+          51.4012915
+        ]
+      },
+      "id": "way/408466912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/413253133",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2024-03-16",
+        "cuisine": "chicken",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "outdoor_seating": "yes",
+        "room": "shop",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9342564,
+          53.552327
+        ]
+      },
+      "id": "way/413253133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/428714354",
+        "addr:city": "Neckarsulm",
+        "addr:country": "DE",
+        "addr:housenumber": "5",
+        "addr:postcode": "74172",
+        "addr:street": "Im Klauenfuß",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2024-10-15",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2223254,
+          49.1799273
+        ]
+      },
+      "id": "way/428714354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/432144616",
+        "addr:city": "Nürnberg",
+        "addr:country": "DE",
+        "addr:housenumber": "9",
+        "addr:postcode": "90443",
+        "addr:street": "Bahnhofsplatz",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2023-07-06",
+        "cuisine": "chicken",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "dog": "no",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "note:opening_hours": "oberer Teil des Restaurants hat ab 10:00 Uhr geöffnet",
+        "opening_hours": "Su-Th 09:00-24:00; Fr-Sa 09:00-01:00",
+        "operator": "KFC",
+        "outdoor_seating": "no",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:vpay": "yes",
+        "phone": "+49 911 23602723",
+        "room": "restaurant",
+        "smoking": "no",
+        "start_date": "2015-11-26",
+        "surveillance": "indoor",
+        "takeaway": "yes",
+        "toilets": "no",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0815135,
+          49.4460088
+        ]
+      },
+      "id": "way/432144616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/436076595",
+        "addr:city": "Hannover",
+        "addr:country": "DE",
+        "addr:housenumber": "25",
+        "addr:postcode": "30159",
+        "addr:street": "Niki-de-Saint-Phalle-Promenade",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "-1",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:00-23:00; Fr, Sa 10:00-24:00; Su 11:00-23:00",
+        "outdoor_seating": "no",
+        "phone": "+4951189829576",
+        "room": "shop",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7389363,
+          52.3748996
+        ]
+      },
+      "id": "way/436076595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/440792261",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2024-08-22",
+        "cuisine": "chicken",
+        "diet:vegetarian": "no",
+        "drive_through": "no",
+        "indoor": "room",
+        "level": "-2",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-23:00; Fr,Sa 10:00-24:00",
+        "room": "shop",
+        "takeaway": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6789506,
+          50.1135433
+        ]
+      },
+      "id": "way/440792261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/447743967",
+        "access:dogs": "no",
+        "addr:city": "Bentwisch",
+        "addr:country": "DE",
+        "addr:housenumber": "50",
+        "addr:postcode": "18182",
+        "addr:street": "Hansestraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "contact:phone": "+49 381 20278988",
+        "cuisine": "chicken",
+        "internet_access": "yes",
+        "man_made": "surveillance",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-22:00",
+        "operator": "KFC Rostock GmbH & Co. KG",
+        "outdoor_seating": "yes",
+        "payment:coins": "yes",
+        "payment:girocard": "yes",
+        "payment:notes": "yes",
+        "smoking": "outside",
+        "surveillance": "indoor",
+        "surveillance:type": "camera",
+        "surveillance:zone": "building",
+        "survey:date": "2017-06-08",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.1944904,
+          54.1146807
+        ]
+      },
+      "id": "way/447743967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/449524385",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8198,
+          50.9926231
+        ]
+      },
+      "id": "way/449524385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/469667970",
+        "addr:city": "Dortmund",
+        "addr:country": "DE",
+        "addr:housenumber": "207",
+        "addr:postcode": "44145",
+        "addr:street": "Bornstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
+        "short_name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4733639,
+          51.5307785
+        ]
+      },
+      "id": "way/469667970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/477461962",
+        "addr:city": "Geiselwind",
+        "addr:housenumber": "17",
+        "addr:postcode": "96160",
+        "addr:street": "Scheinfelder Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "building": "retail",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 09:00-23:00",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.4714232,
+          49.7670461
+        ]
+      },
+      "id": "way/477461962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/490414547",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-24:00, Fr,Sa 10:00-03:00",
+        "outdoor_seating": "no",
+        "room": "restaurant",
+        "short_name": "KFC",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9586115,
+          50.9428209
+        ]
+      },
+      "id": "way/490414547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/513945813",
+        "addr:city": "Bochum",
+        "addr:country": "DE",
+        "addr:housenumber": "13-15",
+        "addr:postcode": "44787",
+        "addr:street": "Kurt-Schumacher-Platz",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2023-12-31",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr,Sa 11:00-24:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2231694,
+          51.4790543
+        ]
+      },
+      "id": "way/513945813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/532752643",
+        "addr:city": "Mogendorf",
+        "addr:country": "DE",
+        "addr:housenumber": "6",
+        "addr:postcode": "56424",
+        "addr:street": "Im Reimersheck",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "check_date": "2024-11-24",
+        "contact:phone": "+49 2623 9285584",
+        "contact:website": "https://www.kfc.de",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "short_name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7482759,
+          50.4829855
+        ]
+      },
+      "id": "way/532752643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539248516",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "outdoor_seating": "no",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2444125,
+          50.0707897
+        ]
+      },
+      "id": "way/539248516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/571829429",
+        "addr:city": "Pforzheim",
+        "addr:housenumber": "6",
+        "addr:street": "Julius-Moser-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "building": "commercial",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6605726,
+          48.9014903
+        ]
+      },
+      "id": "way/571829429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/581965025",
+        "addr:city": "Düsseldorf",
+        "addr:country": "DE",
+        "addr:housenumber": "48",
+        "addr:postcode": "40213",
+        "addr:street": "Bolkerstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7751985,
+          51.2263867
+        ]
+      },
+      "id": "node/581965025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593751583",
+        "addr:city": "Eichenzell",
+        "addr:housenumber": "3",
+        "addr:postcode": "36124",
+        "addr:street": "Rhönhof",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "10:00-23:00; Fr,Sa 10:00-00:00",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.7069649,
+          50.4886668
+        ]
+      },
+      "id": "way/593751583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/602315662",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "117",
+        "addr:postcode": "10178",
+        "addr:street": "Dircksenstraße",
+        "addr:suburb": "Mitte",
+        "air_conditioning": "no",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "contact:phone": "+49 30 20054545",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "internet_access": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-24:00; Su 11:00-24:00",
+        "outdoor_seating": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 30 20054545",
+        "smoking": "no",
+        "surveillance": "indoor",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "wheelchair:description": "Euro-Schlüssel notwendig!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4127011,
+          52.5206115
+        ]
+      },
+      "id": "node/602315662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/634421168",
+        "access": "customers",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "diet:vegetarian": "no",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0;1",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-22:30, Fr,Sa 11:00-24:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "room": "shop",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.634684,
+          51.9568362
+        ]
+      },
+      "id": "way/634421168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/733736739",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2024-02-26",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-23:00, Fr,Sa 10:00-02:00",
+        "outdoor_seating": "no",
+        "short_name": "KFC",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0075689,
+          53.5531835
+        ]
+      },
+      "id": "way/733736739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/743728551",
+        "addr:city": "Villingen-Schwenningen",
+        "addr:country": "DE",
+        "addr:housenumber": "2",
+        "addr:postcode": "78052",
+        "addr:street": "Nunnensteig",
+        "addr:suburb": "Weilersbach",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "diet:vegetarian": "yes",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "11:00-23:00; Fr,Sa 11:00-01:00",
+        "operator": "A & J Gastro GmbH",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 7721 296952",
+        "smoking": "outside",
+        "start_date": "2020-02-14",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5026257,
+          48.0829168
+        ]
+      },
+      "id": "way/743728551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/765031915",
+        "addr:city": "Worms",
+        "addr:housenumber": "6A",
+        "addr:street": "Schönauer Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "retail",
+        "building:levels": "1",
+        "check_date": "2025-01-05",
+        "cuisine": "chicken",
+        "delivery": "Mo-Su 11:00-23:00",
+        "drive_through": "yes",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
+        "operator": "AM Intercom GmbH",
+        "outdoor_seating": "yes",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_debit": "yes",
+        "phone": "+49 6241 9727783",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-worms-schoenauer-strasse-6",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3598173,
+          49.6265916
+        ]
+      },
+      "id": "way/765031915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/785155452",
+        "addr:city": "München",
+        "addr:country": "DE",
+        "addr:housenumber": "99",
+        "addr:postcode": "81247",
+        "addr:street": "Pippinger Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4568551,
+          48.165974
+        ]
+      },
+      "id": "way/785155452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/797842969",
+        "addr:city": "Nürnberg",
+        "addr:country": "DE",
+        "addr:housenumber": "59",
+        "addr:postcode": "90402",
+        "addr:street": "Ludwigstraße",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2024-06-16",
+        "cuisine": "chicken",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegetarian": "no",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-24:00, Fr,Sa 11:00-01:00, Su,PH 11:00-24:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 911 24520",
+        "smoking": "no",
+        "smoking:outside": "yes",
+        "source": "estimate",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.0682782,
+          49.4488967
+        ]
+      },
+      "id": "node/797842969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/833428808",
+        "addr:city": "Schweitenkirchen",
+        "addr:housenumber": "7b",
+        "addr:postcode": "85301",
+        "addr:street": "Robert-Koch-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "check_date": "2023-08-19",
+        "cuisine": "chicken",
+        "internet_access": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa,Su 10:30-24:00",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5831736,
+          48.5079973
+        ]
+      },
+      "id": "way/833428808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/846974592",
+        "addr:city": "Viernheim",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "68519",
+        "addr:street": "Robert-Schuman-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2024-02-12",
+        "cuisine": "chicken",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 11:00-24:00; Su 12:00-23:00",
+        "operator": "AM Intercom GmbH",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 6204 7083374",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-viernheim-robert-schumann-str-1-rhein-neckar-zentrum",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5663154,
+          49.5272528
+        ]
+      },
+      "id": "node/846974592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/877949141",
+        "addr:city": "Waldlaubersheim",
+        "addr:housenumber": "17",
+        "addr:postcode": "55444",
+        "addr:street": "Lohrgraben",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "email": "waldlaubersheim@ft-system-gastro.de",
+        "internet_access": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "operator": "FT-System-Gastro GmbH",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8249525,
+          49.9225525
+        ]
+      },
+      "id": "way/877949141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/910156677",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2022-12-31",
+        "cuisine": "chicken",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "0",
+        "level:ref": "EG",
+        "name": "KFC",
+        "official_name": "Kentucky Fried Chicken",
+        "opening_hours": "Mo-Sa 10:00-19:00; Su,PH off",
+        "operator": "Zeljko Visic",
+        "outdoor_seating": "no",
+        "phone": "+49 721 96886030",
+        "ref": "EG 35",
+        "takeaway": "yes",
+        "website": "https://www.ettlinger-tor.de/gastronomie/kentucky-fried-chicken/",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4029494,
+          49.0067878
+        ]
+      },
+      "id": "way/910156677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/926718865",
+        "abbr:name": "KFC",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "contact:phone": "+49 202 2548009",
+        "contact:website": "http://www.kfc.de",
+        "cuisine": "chicken",
+        "currency": "EUR",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-00:00",
+        "operator": "Kentucky Fried Chicken",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:girocard": "yes",
+        "smoking": "outside",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2569377,
+          51.282815
+        ]
+      },
+      "id": "node/926718865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/955074959",
+        "addr:housenumber": "8",
+        "addr:street": "Am Lerchenfeld",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "building": "commercial",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7898826,
+          48.1464243
+        ]
+      },
+      "id": "way/955074959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1008840829",
+        "addr:city": "Husum",
+        "addr:country": "DE",
+        "addr:housenumber": "28a",
+        "addr:postcode": "25813",
+        "addr:street": "Robert-Koch-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "fixme": "Umriss geraten",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:30-24:00; Fr,Sa 10:30-01:00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.0845293,
+          54.4933769
+        ]
+      },
+      "id": "way/1008840829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1013850631",
+        "addr:city": "Neunkirchen",
+        "addr:country": "DE",
+        "addr:housenumber": "2a",
+        "addr:postcode": "66538",
+        "addr:street": "Westspange",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "email": "neunkirchen@ft-system-gastro.de",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "operator": "FT-System Gastro GmbH",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-Neunkirchen-Westspange-2a-Koenigsbahnstrasse",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1722991,
+          49.3413685
+        ]
+      },
+      "id": "way/1013850631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1013857880",
+        "addr:city": "Coburg",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "96450",
+        "addr:street": "Niorter Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "email": "coburg@ft-system-gastro.de",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "operator": "FT-System Gastro GmbH",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.9847433,
+          50.2867362
+        ]
+      },
+      "id": "way/1013857880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1016180557",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3012878,
+          52.6725557
+        ]
+      },
+      "id": "way/1016180557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1029952969",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "building": "yes",
+        "cuisine": "chicken",
+        "fixme": "Gebäude- und Parkplatzpositionen geschätzt",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9414708,
+          54.0694836
+        ]
+      },
+      "id": "way/1029952969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1030993822",
+        "addr:city": "Kleve",
+        "addr:housenumber": "5",
+        "addr:postcode": "47533",
+        "addr:street": "Klever Ring",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "11:00-23:00",
+        "operator": "EG Deutschland K-Holding GmbH",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1416415,
+          51.7999243
+        ]
+      },
+      "id": "way/1030993822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1104654681",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "building": "yes",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "operator": "FT-System-Gastro",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5256951,
+          49.9538575
+        ]
+      },
+      "id": "way/1104654681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1110796943",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "indoor": "room",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0328329,
+          53.5738937
+        ]
+      },
+      "id": "way/1110796943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1117329048",
+        "addr:city": "Eningen unter Achalm",
+        "addr:country": "DE",
+        "addr:housenumber": "143",
+        "addr:postcode": "72800",
+        "addr:street": "Reutlinger Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "building": "yes",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-00:00; Fr 11:00-01:00; Sa 11:00-01:00; Su 11:00-00:00; PH 11:00-00:00",
+        "start_date": "2022-11-26",
+        "survey:date": "2022-11-26",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2312912,
+          48.4813906
+        ]
+      },
+      "id": "way/1117329048"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1135635831",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "level": "0",
+        "name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9107592,
+          50.1312323
+        ]
+      },
+      "id": "node/1135635831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1196739534",
+        "addr:housenumber": "5a",
+        "addr:street": "Luisenplatz",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2023-12-30",
+        "cuisine": "chicken",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:00-22:00; Fr-Sa 10:00-24:00; Su,PH 12:00-22:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+49 6151 5999308",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6519379,
+          49.8722346
+        ]
+      },
+      "id": "node/1196739534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1197396719",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "contact:phone": "+49 30 33308740",
+        "contact:website": "http://www.kfc.de",
+        "cuisine": "chicken",
+        "level": "0;1",
+        "name": "KFC",
+        "opening_hours": "10:00-22:00",
+        "short_name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1982478,
+          52.5337938
+        ]
+      },
+      "id": "node/1197396719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1202408909",
+        "addr:city": "Memmingen",
+        "addr:housenumber": "6",
+        "addr:postcode": "87700",
+        "addr:street": "Dr.-Karl-Lenz-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "building": "yes",
+        "contact:facebook": "https://www.facebook.com/KFC.Memmingen/",
+        "cuisine": "chicken",
+        "fixme": "Größe geschätzt",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-01:00",
+        "outdoor_seating": "yes",
+        "start_date": "2023-07",
+        "takeaway": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.174569,
+          47.9978203
+        ]
+      },
+      "id": "way/1202408909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1330682274",
+        "addr:city": "Leipzig",
+        "addr:country": "DE",
+        "addr:housenumber": "7",
+        "addr:postcode": "04109",
+        "addr:street": "Willy-Brandt-Platz",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2024-10-17",
+        "cuisine": "chicken",
+        "diet:vegan": "limited",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "KFC",
+        "opening_hours": "Su-Th 09:30-23:00; Fr,Sa 09:30-23:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3796798,
+          51.3452527
+        ]
+      },
+      "id": "node/1330682274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1585536828",
+        "addr:city": "Siegen",
+        "addr:country": "DE",
+        "addr:housenumber": "16",
+        "addr:postcode": "57072",
+        "addr:street": "Am Bahnhof",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "drive_through": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 11:00-21:00, Su 13:00-20:00",
+        "operator": "FC Systemgastronomie GmbH & Co. KG",
+        "phone": "+40 271 23 19 08 21",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-siegen-siegen-hbf-am-bahnhof-16"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0164571,
+          50.8756221
+        ]
+      },
+      "id": "node/1585536828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1655607190",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th,PH 10:30-23:30, Fr,Sa 10:30-03:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5632102,
+          48.139128
+        ]
+      },
+      "id": "node/1655607190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1682137861",
+        "addr:city": "Köln",
+        "addr:country": "DE",
+        "addr:housenumber": "12",
+        "addr:postcode": "50674",
+        "addr:street": "Rudolfplatz",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2024-08-22",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 00:00-01:00,11:00-24:00; Fr,Sa 00:00-05:00,11:00-24:00",
+        "operator": "KFC",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+49-221-27098867",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets": "yes",
+        "toilets:access": "customers",
+        "toilets:supervised": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9396894,
+          50.9367478
+        ]
+      },
+      "id": "node/1682137861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016467601",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2023-07-02",
+        "contact:phone": "+49 451 40039524",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-24:00; Fr-Sa 10:00-04:00",
+        "outdoor_seating": "yes",
+        "service": "drive-through",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6707383,
+          53.8792856
+        ]
+      },
+      "id": "node/2016467601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2070105169",
+        "addr:city": "Freiburg im Breisgau",
+        "addr:housenumber": "68",
+        "addr:postcode": "79108",
+        "addr:street": "Tullastraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "phone": "+49 761 20892943",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.8468385,
+          48.0259533
+        ]
+      },
+      "id": "node/2070105169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2405458294",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "currency:EUR": "yes",
+        "currency:others": "no",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "name:de": "KFC Dortmund",
+        "opening_hours": "Su-Th 11:00-23:00, Fr,Sa 11:00-24:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4599607,
+          51.5172586
+        ]
+      },
+      "id": "node/2405458294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2477660521",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "name:it": "KFC",
+        "opening_hours": "Mo-Su 10:00-22:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0058496,
+          53.5534462
+        ]
+      },
+      "id": "node/2477660521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2512417090",
+        "addr:city": "Dresden",
+        "addr:housenumber": "5",
+        "addr:postcode": "01067",
+        "addr:street": "Altmarkt",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "payment:girocard": "yes",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-Dresden-Altmarkt-5",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.7390111,
+          51.0495411
+        ]
+      },
+      "id": "node/2512417090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2580768546",
+        "addr:city": "Oberhausen",
+        "addr:country": "DE",
+        "addr:housenumber": "1000-62",
+        "addr:street": "Centroallee",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "outdoor_seating": "no",
+        "payment:cash": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8807159,
+          51.4917454
+        ]
+      },
+      "id": "node/2580768546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3004559108",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6166433,
+          52.4302692
+        ]
+      },
+      "id": "node/3004559108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3110958004",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegetarian": "no",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Fr 11:00-24:00; Sa,Su 11:00-01:00",
+        "outdoor_seating": "yes",
+        "smoking": "outside",
+        "start_date": "2014-10-15",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6637414,
+          48.0430044
+        ]
+      },
+      "id": "node/3110958004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3127362333",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "level": "1._og",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-20:00; Fr 10:00-21:30; Sa 09:30-20:00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1837269,
+          48.7912849
+        ]
+      },
+      "id": "node/3127362333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3212683116",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2018-03-20",
+        "contact:phone": "+49 20 51 - 8 03 73 84",
+        "contact:website": "https://www.kfc.de/",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "operator": "KFC",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:girocard": "yes",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0193894,
+          51.3322758
+        ]
+      },
+      "id": "node/3212683116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3241470357",
+        "addr:city": "Duisburg",
+        "addr:housenumber": "55",
+        "addr:postcode": "47228",
+        "addr:street": "Asterlager Straße",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-24:00, Fr,Sa 11:00-01:00",
+        "outdoor_seating": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7085103,
+          51.4185555
+        ]
+      },
+      "id": "node/3241470357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3298545127",
+        "addr:city": "Heidelberg",
+        "addr:housenumber": "3",
+        "addr:postcode": "69115",
+        "addr:street": "Hebelstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2024-09-25",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "phone": "+49 6221 5025881",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de/kfc-Heidelberg-Hebelstr-3",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6827127,
+          49.3970909
+        ]
+      },
+      "id": "node/3298545127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3413385941",
+        "addr:city": "Frankfurt am Main",
+        "addr:postcode": "60549",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "level": "-1",
+        "name": "KFC",
+        "opening_hours:signed": "no",
+        "phone": "+49 69 69027295",
+        "ref": "0389",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5694624,
+          50.0509566
+        ]
+      },
+      "id": "node/3413385941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4111922542",
+        "addr:city": "Gyhum",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "27404",
+        "addr:street": "An der Autobahn",
+        "addr:suburb": "Bockel",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "drive_in": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-22:00; Fr,Sa 11:00-24:00",
+        "phone": "+49 4286 9242468",
+        "smoking": "no",
+        "source": "survey",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2887127,
+          53.1924334
+        ]
+      },
+      "id": "node/4111922542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4330358636",
+        "addr:city": "Ulm",
+        "addr:country": "DE",
+        "addr:housenumber": "40",
+        "addr:postcode": "89077",
+        "addr:street": "Blaubeurer Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:00-23:00, Fr,Sa 10:00-01:00",
+        "operator": "Yum! Brands, Inc.",
+        "phone": "+49 731 36080165",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9724521,
+          48.4018722
+        ]
+      },
+      "id": "node/4330358636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4411897982",
+        "addr:city": "München",
+        "addr:housenumber": "8",
+        "addr:postcode": "81241",
+        "addr:street": "Pasinger Bahnhofsplatz",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2023-08-08",
+        "cuisine": "chicken",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.4610743,
+          48.1490046
+        ]
+      },
+      "id": "node/4411897982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4484282233",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2023-08-05",
+        "contact:phone": "+49 6051 9671229",
+        "contact:website": "https://www.kfc.de/",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.13441,
+          50.2036875
+        ]
+      },
+      "id": "node/4484282233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4544606579",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2023-09-29",
+        "cuisine": "chicken",
+        "diet:vegetarian": "no",
+        "layer": "-1",
+        "level": "0",
+        "name": "KFC",
+        "note": "Laut Firmenwebsite ist die Adresse Limescorso 8.\nDas ist die Postadresse des Nordwestzentrums und somit wohl kaum die des Ladens.",
+        "opening_hours": "Mo-Sa 10:00-22:00; PH,Su 13:00-21:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6336436,
+          50.1577476
+        ]
+      },
+      "id": "node/4544606579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4549741021",
+        "addr:housenumber": "1a",
+        "addr:street": "An der Autobahn",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 10:30-23:00, Fr,Sa 10:00-24:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3403355,
+          49.0426112
+        ]
+      },
+      "id": "node/4549741021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614529742",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "115",
+        "addr:postcode": "10627",
+        "addr:street": "Wilmersdorfer Straße",
+        "addr:suburb": "Charlottenburg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3066861,
+          52.5073231
+        ]
+      },
+      "id": "node/4614529742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630853554",
+        "addr:city": "Salzbergen",
+        "addr:housenumber": "1",
+        "addr:postcode": "48499",
+        "addr:street": "Holsterfeld",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2023-07-25",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-23:00, Fr,Sa 11:00-00:00, Su 11:00-23:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4301987,
+          52.3253176
+        ]
+      },
+      "id": "node/4630853554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705756526",
+        "addr:city": "Dreieich",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "63303",
+        "addr:street": "Robert-Bosch-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-22:00, Su 13:00-20:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7032603,
+          50.0316
+        ]
+      },
+      "id": "node/4705756526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4705774773",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6068833,
+          49.8923122
+        ]
+      },
+      "id": "node/4705774773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4774102828",
+        "abbr:name": "KFC",
+        "addr:city": "Hagen",
+        "addr:country": "DE",
+        "addr:housenumber": "8",
+        "addr:postcode": "58089",
+        "addr:street": "Becheltestraße",
+        "addr:suburb": "Eckesey",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "contact:phone": "+49 2331 3484400",
+        "contact:website": "http://www.kfc.de",
+        "cuisine": "chicken",
+        "currency:EUR": "yes",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr, Sa 11:00-24:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no",
+        "payment:girocard": "yes",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.4485347,
+          51.3842663
+        ]
+      },
+      "id": "node/4774102828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4794144054",
+        "addr:city": "Düsseldorf",
+        "addr:country": "DE",
+        "addr:housenumber": "148",
+        "addr:postcode": "40591",
+        "addr:street": "Oerschbachstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "drive_in": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-01:00; Fr-Sa 11:00-02:00",
+        "phone": "+49 211 99 61 489",
+        "short_name": "KFC",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8434895,
+          51.1886229
+        ]
+      },
+      "id": "node/4794144054"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4817365211",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "45",
+        "addr:postcode": "10969",
+        "addr:street": "Friedrichstraße",
+        "addr:suburb": "Kreuzberg",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2022-10-13",
+        "contact:phone": "+49 30 25922587",
+        "contact:website": "http://www.kfc.de",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "drive_through": "no",
+        "name": "KFC",
+        "opening_hours": "11:00-22:00",
+        "operator": "AmRest DE Sp. z o.o. & Co. KG",
+        "outdoor_seating": "sidewalk",
+        "ref:vatin": "DE2914000045",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3907378,
+          52.5075917
+        ]
+      },
+      "id": "node/4817365211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4875763021",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9184464,
+          50.1343893
+        ]
+      },
+      "id": "node/4875763021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4898171614",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2024-08-15",
+        "cuisine": "chicken",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.1308481,
+          54.3160514
+        ]
+      },
+      "id": "node/4898171614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5005246103",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Su,PH 10:30-24:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8881506,
+          49.2440578
+        ]
+      },
+      "id": "node/5005246103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5043242745",
+        "addr:city": "Karlsruhe",
+        "addr:country": "DE",
+        "addr:housenumber": "24-28",
+        "addr:postcode": "76133",
+        "addr:street": "Waldstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "PH,Su-Th 11:00-23:00, Fr,Sa 11:00-01:00",
+        "outdoor_seating": "no",
+        "start_date": "2017-08-03",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.3980098,
+          49.0103941
+        ]
+      },
+      "id": "node/5043242745"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5103798366",
+        "addr:city": "Kirchheim unter Teck",
+        "addr:country": "DE",
+        "addr:housenumber": "15",
+        "addr:postcode": "73230",
+        "addr:street": "Kruichling",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2023-07-28",
+        "contact:phone": "+49 7021 5717270",
+        "contact:website": "https://www.kfc.de",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "11:00-22:00",
+        "operator": "Kentucky Fried Chicken Ltd.",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4295512,
+          48.6439765
+        ]
+      },
+      "id": "node/5103798366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5229173635",
+        "addr:city": "Mannheim",
+        "addr:housenumber": "125a",
+        "addr:postcode": "68307",
+        "addr:street": "Frankenthaler Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "internet_access": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 11:00-23:00, Su 12:00-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 79906704",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-mannheim-frankenthaler-str-125a",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4437163,
+          49.5577857
+        ]
+      },
+      "id": "node/5229173635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5292670184",
+        "addr:city": "Bensheim",
+        "addr:housenumber": "1",
+        "addr:postcode": "64625",
+        "addr:street": "AMPèrestraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5970372,
+          49.6730608
+        ]
+      },
+      "id": "node/5292670184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5299638217",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 10:00-23:00",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.3264121,
+          49.567129
+        ]
+      },
+      "id": "node/5299638217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5318454922",
+        "air_conditioning": "no",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "diet:vegetarian": "no",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-22:00; Su 11:00-22:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3551394,
+          52.5971334
+        ]
+      },
+      "id": "node/5318454922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5320923451",
+        "addr:city": "Stuttgart",
+        "addr:country": "DE",
+        "addr:housenumber": "50",
+        "addr:postcode": "70378",
+        "addr:street": "Aldinger Straße",
+        "addr:suburb": "Mühlhausen",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "1h/day free",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-01:00, Sa 11:00-01:00, Su 11:00-23:00; PH 11:00-23:00",
+        "smoking": "no",
+        "takeaway": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2260983,
+          48.8394987
+        ]
+      },
+      "id": "node/5320923451"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5558884566",
+        "addr:city": "Aschaffenburg",
+        "addr:postcode": "63739",
+        "addr:street": "Ludwigstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2024-11-13",
+        "check_date:opening_hours": "2024-11-13",
+        "cuisine": "chicken",
+        "drive_through": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:00-23:00, Fr,Sa 10:00-24:00, Su,PH 10:00-23:00",
+        "takeaway": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.144025,
+          49.9797155
+        ]
+      },
+      "id": "node/5558884566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5749529337",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "check_date": "2024-02-04",
+        "cuisine": "chicken",
+        "diet:vegetarian": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-22:00; Su 12:00-21:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.6873493,
+          53.8694527
+        ]
+      },
+      "id": "node/5749529337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6033649050",
+        "addr:city": "Leipzig",
+        "addr:country": "DE",
+        "addr:housenumber": "1",
+        "addr:postcode": "04329",
+        "addr:street": "Paunsdorfer Allee",
+        "addr:suburb": "Paunsdorf",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "contact:email": "service@kfc.de",
+        "contact:phone": "+49 341 52059830",
+        "contact:website": "https://www.kfc.de/",
+        "cuisine": "chicken",
+        "entrance": "shop",
+        "indoor_seating": "yes",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa10:00-20:30; Su,PH off",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.4784979,
+          51.3486224
+        ]
+      },
+      "id": "node/6033649050"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6254467217",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "contact:website": "http://www.kfc.de",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr,Sa 11:00-24:00",
+        "outdoor_seating": "yes",
+        "short_name": "KFC",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.4559426,
+          52.4652528
+        ]
+      },
+      "id": "node/6254467217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6275819866",
+        "addr:city": "Berlin",
+        "addr:country": "DE",
+        "addr:housenumber": "18A",
+        "addr:postcode": "12439",
+        "addr:street": "Schnellerstraße",
+        "addr:suburb": "Niederschöneweide",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5026275,
+          52.4607686
+        ]
+      },
+      "id": "node/6275819866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6621555685",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2024-10-14",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "internet_access": "wlan",
+        "level": "1",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-20:00",
+        "outdoor_seating": "no",
+        "ref": "165",
+        "smoking": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.65295,
+          50.1094255
+        ]
+      },
+      "id": "node/6621555685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6657473478",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2024-12-03",
+        "cuisine": "chicken",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "-1",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:00-00:00; Fr, Sa 10:00-01:00; Su 10:00-22:00",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "phone": "+4922896397790",
+        "start_date": "2019-09-01",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.097733,
+          50.7324485
+        ]
+      },
+      "id": "node/6657473478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6683828902",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "description": "im Obergeschoss",
+        "diet:vegetarian": "no",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "KFC",
+        "opening_hours:signed": "no",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.9386947,
+          50.8465658
+        ]
+      },
+      "id": "node/6683828902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6697053514",
+        "abbr_name": "KFC",
+        "addr:city": "Berlin",
+        "addr:postcode": "10117",
+        "addr:street": "Leipziger Platz",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "level": "2",
+        "name": "KFC",
+        "operator": "AmRest DE Sp. z. o. o. & Co. KG",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3804781,
+          52.510273
+        ]
+      },
+      "id": "node/6697053514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6736086375",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 10:30-00:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8876759,
+          49.2444595
+        ]
+      },
+      "id": "node/6736086375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6830498124",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5329193,
+          52.0257706
+        ]
+      },
+      "id": "node/6830498124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6832606789",
+        "air_conditioning": "yes",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date:opening_hours": "2024-02-22",
+        "cuisine": "chicken",
+        "diet:halal": "no",
+        "diet:kosher": "no",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "level": "2",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0919242,
+          50.7749194
+        ]
+      },
+      "id": "node/6832606789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7014869734",
+        "addr:city": "Bremen",
+        "addr:country": "DE",
+        "addr:housenumber": "19",
+        "addr:postcode": "28307",
+        "addr:street": "Hans-Bredow-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "delivery": "no",
+        "drive_in": "no",
+        "indoor": "yes",
+        "indoor_seating": "yes",
+        "lastcheck": "2019-11-27",
+        "level": "1",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 10:00-20:00; PH off",
+        "outdoor_seating": "no",
+        "source": "survey",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.9576185,
+          53.0486127
+        ]
+      },
+      "id": "node/7014869734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7054501584",
+        "addr:city": "Duisburg",
+        "addr:housenumber": "56",
+        "addr:postcode": "47051",
+        "addr:street": "Königstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "drive_through": "no",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:00-21:30; Fr-Sa 10:00-22:30, Su 11:30-21:30",
+        "operator": "Collins Foods Europe Ltd.",
+        "outdoor_seating": "yes",
+        "payment:coins": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7705702,
+          51.4323509
+        ]
+      },
+      "id": "node/7054501584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7261407957",
+        "addr:city": "Ludwigsburg",
+        "addr:housenumber": "1",
+        "addr:postcode": "71634",
+        "addr:street": "Maybachstraße",
+        "addr:suburb": "Egolsheim",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:30-24:00; Fr-Sa 10:30-01:00; Su 10:30-24:00",
+        "phone": "+49 7141 8657868",
+        "ref:shop:num": "K678",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/restaurants/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1479527,
+          48.9214012
+        ]
+      },
+      "id": "node/7261407957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8865026586",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "indoor_seating": "yes",
+        "level": "1",
+        "name": "KFC",
+        "opening_hours": "Mo-Sa 11:00-20:00",
+        "outdoor_seating": "no",
+        "smoking": "no",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8417457,
+          47.7602751
+        ]
+      },
+      "id": "node/8865026586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9249072081",
+        "addr:city": "Mülheim an der Ruhr",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "level": "0",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.9562176,
+          51.437804
+        ]
+      },
+      "id": "node/9249072081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9705161982",
+        "addr:city": "Göppingen",
+        "addr:housenumber": "2",
+        "addr:street": "Reutlinger Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Th, Su 11:00-24:00; Fr, Sa 11:00-01:00",
+        "phone": "+49 7161 3895212",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/find-a-kfc/kfc-goeppingen-reutlinger-str-2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.6766678,
+          48.6977775
+        ]
+      },
+      "id": "node/9705161982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9863781902",
+        "addr:city": "Geseke",
+        "addr:housenumber": "155",
+        "addr:postcode": "59590",
+        "addr:street": "Bürener Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "11:00-23:00",
+        "owner": "FC Systemgastronomie",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5160821,
+          51.5977519
+        ]
+      },
+      "id": "node/9863781902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9939388932",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.9038767,
+          47.8279751
+        ]
+      },
+      "id": "node/9939388932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10072542535",
+        "addr:city": "Bispingen",
+        "addr:country": "DE",
+        "addr:housenumber": "63",
+        "addr:postcode": "29646",
+        "addr:street": "Behringer Straße",
+        "addr:suburb": "Behringen",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "check_date": "2024-02-09",
+        "cuisine": "burger",
+        "delivery": "no",
+        "drive_in": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 12:00-20:00",
+        "phone": "+49 5194 9743838",
+        "source": "survey",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9771792,
+          53.0990467
+        ]
+      },
+      "id": "node/10072542535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10170580852",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "diet:vegan": "no",
+        "diet:vegetarian": "yes",
+        "indoor_seating": "yes",
+        "name": "KFC",
+        "opening_hours": "PH,We,Th,Sa-Mo 10:00-24:00; Fr 10:00-18:00",
+        "outdoor_seating": "no",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7653519,
+          51.2792631
+        ]
+      },
+      "id": "node/10170580852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10266840913",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.6828282,
+          49.3548189
+        ]
+      },
+      "id": "node/10266840913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10652790815",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "level": "-1",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.3742172,
+          52.5079543
+        ]
+      },
+      "id": "node/10652790815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10808012891",
+        "addr:city": "Frankfurt am Main",
+        "addr:housenumber": "33a",
+        "addr:postcode": "60388",
+        "addr:street": "Borsigallee",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "diet:vegetarian": "no",
+        "name": "KFC",
+        "opening_hours": "Mo-Su,PH 11:00-24:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7461412,
+          50.1396168
+        ]
+      },
+      "id": "node/10808012891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11091827185",
+        "addr:city": "Wilhelmshaven",
+        "addr:housenumber": "51",
+        "addr:postcode": "26389",
+        "addr:street": "Güterstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "branch": "geplant",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "source": "Wilhelmshavener Zeitung, 2023-08-05",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.0727734,
+          53.5232324
+        ]
+      },
+      "id": "node/11091827185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11402128929",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "fixme": "bitte prüfen, ob sich die angegebenen Öffnungszeiten auf Pizza Hut oder KFC beziehen. Beide Geschäfte waren bis vor kurzem als ein gemeinsamer Node getaggt.",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Mo-Th 10:00-22:00; Fr,Sa 10:00-23:00; PH,Su 12:00-22:00",
+        "takeaway": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4477776,
+          50.0857261
+        ]
+      },
+      "id": "node/11402128929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11404278021",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5437789,
+          49.4103586
+        ]
+      },
+      "id": "node/11404278021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11834410773",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5329945,
+          49.3344119
+        ]
+      },
+      "id": "node/11834410773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11889439992",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "level": "3",
+        "name": "KFC",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4982817,
+          51.31666
+        ]
+      },
+      "id": "node/11889439992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11998718020",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "check_date": "2024-04-30",
+        "cuisine": "chicken",
+        "delivery": "yes",
+        "diet:vegetarian": "no",
+        "name": "KFC",
+        "opening_hours": "Su-Th,PH 11:00-24:00, Fr,Sa 11:00-01:00",
+        "phone": "+49 6196 7751749",
+        "takeaway": "yes",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.kfc.de/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5581501,
+          50.1346272
+        ]
+      },
+      "id": "node/11998718020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12068618040",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "contact:phone": "+49 441 77799670",
+        "contact:website": "https://www.kfc.de/",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "11:00-22:00",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.2249406,
+          53.1649099
+        ]
+      },
+      "id": "node/12068618040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12164658618",
+        "addr:city": "Roßdorf",
+        "addr:housenumber": "20",
+        "addr:postcode": "64380",
+        "addr:street": "Heinz-Friedrich-Straße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "cuisine": "chicken",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00,Fr-Mo 11:00-00:00",
+        "phone": "+4961545778771",
+        "takeaway": "yes",
+        "website": "https://www.kfc.de/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7677328,
+          49.863345
+        ]
+      },
+      "id": "node/12164658618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12250431327",
+        "addr:housenumber": "38",
+        "addr:street": "Bahnhofstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "check_date": "2025-01-25",
+        "cuisine": "chicken",
+        "level": "0",
+        "name": "KFC",
+        "opening_hours": "Mo-Th,Su,PH 11:00-23:00; Fr,Sa 11:00-24:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.035453,
+          50.9745185
+        ]
+      },
+      "id": "node/12250431327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12284924463",
+        "addr:city": "Flensburg",
+        "addr:country": "DE",
+        "addr:housenumber": "4",
+        "addr:postcode": "24941",
+        "addr:street": "Lilienthalstraße",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "de:Kentucky Fried Chicken",
+        "cuisine": "chicken",
+        "drive_through": "yes",
+        "name": "KFC",
+        "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
+        "phone": "+49 461 88998010",
+        "start_date": "2022-10-09",
+        "takeaway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.3939204,
+          54.7751268
+        ]
+      },
+      "id": "node/12284924463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12505425371",
+        "alt_name": "Kentucky Fried Chicken",
+        "amenity": "fast_food",
+        "brand": "KFC",
+        "brand:wikidata": "Q524757",
+        "brand:wikipedia": "en:KFC",
+        "cuisine": "chicken",
+        "delivery": "yes",
+        "drive_through": "yes",
+        "image": "https://commons.wikimedia.org/wiki/File:KFC_Mannheim-Schwetzingerstadt.jpg",
+        "name": "KFC",
+        "opening_hours": "Mo-We,Fr-Su 11:00-23:00; Th 11:30-23:00",
+        "outdoor_seating": "yes",
+        "phone": "+49 621 8752 0789",
+        "takeaway": "yes",
+        "toilets": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5036882,
+          49.4578714
+        ]
+      },
+      "id": "node/12505425371"
+    }
+  ]
+}
