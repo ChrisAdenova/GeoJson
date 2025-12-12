@@ -12,14 +12,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "80992",
+                "brand": "KFC",
                 "addr:housenumber": "44",
                 "opening_hours": "Mo-Sa 10:30-24:00; Su 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Hanauer Straße",
-                "amenity": "fast_food",
                 "addr:city": "München",
-                "addr:postcode": "80992",
+                "amenity": "fast_food",
+                "addr:street": "Hanauer Straße",
+                "drive_through": "yes",
                 "@id": "node/198209365"
             }
         },
@@ -34,13 +34,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "80939",
+                "brand": "KFC",
                 "addr:housenumber": "5",
                 "opening_hours": "Su-Th 10:30-23:00, Fr,Sa 10:30-24:00",
-                "brand": "KFC",
-                "addr:street": "Maria-Probst-Straße",
-                "amenity": "fast_food",
                 "addr:city": "München",
-                "addr:postcode": "80939",
+                "amenity": "fast_food",
+                "addr:street": "Maria-Probst-Straße",
                 "@id": "node/256486453"
             }
         },
@@ -55,14 +55,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "30179",
+                "brand": "KFC",
                 "addr:housenumber": "272",
                 "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-00:00; Su,PH 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Vahrenwalder Straße",
-                "amenity": "fast_food",
                 "addr:city": "Hannover",
-                "addr:postcode": "30179",
+                "amenity": "fast_food",
+                "addr:street": "Vahrenwalder Straße",
+                "drive_through": "yes",
                 "@id": "node/266679712"
             }
         },
@@ -77,13 +77,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "20359",
+                "brand": "KFC",
                 "addr:housenumber": "100",
                 "opening_hours": "Su-Th 11:00-01:00, Fr,Sa 11:00-07:00",
-                "brand": "KFC",
-                "addr:street": "Reeperbahn",
-                "amenity": "fast_food",
                 "addr:city": "Hamburg",
-                "addr:postcode": "20359",
+                "amenity": "fast_food",
+                "addr:street": "Reeperbahn",
                 "@id": "node/268808549"
             }
         },
@@ -98,13 +98,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "44141",
+                "brand": "KFC",
                 "addr:housenumber": "166",
                 "opening_hours": "Su-Th 11:00-23:00, Fr,Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Westfalendamm",
-                "amenity": "fast_food",
                 "addr:city": "Dortmund",
-                "addr:postcode": "44141",
+                "amenity": "fast_food",
+                "addr:street": "Westfalendamm",
                 "@id": "node/271873332"
             }
         },
@@ -119,13 +119,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "49090",
+                "brand": "KFC",
                 "addr:housenumber": "96",
                 "opening_hours": "Su-Th 11:00-23:00; Fr,Sa 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Pagenstecherstraße",
-                "amenity": "fast_food",
                 "addr:city": "Osnabrück",
-                "addr:postcode": "49090",
+                "amenity": "fast_food",
+                "addr:street": "Pagenstecherstraße",
                 "@id": "node/279019188"
             }
         },
@@ -156,14 +156,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
+                "addr:postcode": "10789",
+                "brand": "KFC",
                 "addr:housenumber": "9",
                 "opening_hours": "Mo-Su,PH 10:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Tauentzienstraße",
-                "amenity": "fast_food",
                 "addr:city": "Berlin",
-                "addr:postcode": "10789",
+                "amenity": "fast_food",
+                "addr:street": "Tauentzienstraße",
+                "drive_through": "no",
                 "@id": "node/313325387"
             }
         },
@@ -178,8 +178,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Su-Th 10:00-24:00, Fr,Sa 10:00-01:00",
                 "brand": "KFC",
+                "opening_hours": "Su-Th 10:00-24:00, Fr,Sa 10:00-01:00",
                 "amenity": "fast_food",
                 "@id": "node/408067211"
             }
@@ -195,12 +195,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "48",
-                "brand": "KFC",
-                "addr:street": "Bolkerstraße",
-                "amenity": "fast_food",
-                "addr:city": "Düsseldorf",
                 "addr:postcode": "40213",
+                "brand": "KFC",
+                "addr:housenumber": "48",
+                "addr:city": "Düsseldorf",
+                "amenity": "fast_food",
+                "addr:street": "Bolkerstraße",
                 "@id": "node/581965025"
             }
         },
@@ -215,14 +215,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
+                "addr:postcode": "10178",
+                "brand": "KFC",
                 "addr:housenumber": "117",
                 "opening_hours": "Mo-Sa 10:00-24:00; Su 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Dircksenstraße",
-                "amenity": "fast_food",
                 "addr:city": "Berlin",
-                "addr:postcode": "10178",
+                "amenity": "fast_food",
+                "addr:street": "Dircksenstraße",
+                "drive_through": "no",
                 "@id": "node/602315662"
             }
         },
@@ -237,13 +237,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "90402",
+                "brand": "KFC",
                 "addr:housenumber": "59",
                 "opening_hours": "Mo-Th 11:00-24:00, Fr,Sa 11:00-01:00, Su,PH 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Ludwigstraße",
-                "amenity": "fast_food",
                 "addr:city": "Nürnberg",
-                "addr:postcode": "90402",
+                "amenity": "fast_food",
+                "addr:street": "Ludwigstraße",
                 "@id": "node/797842969"
             }
         },
@@ -258,11 +258,11 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
-                "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-00:00",
                 "brand": "KFC",
-                "amenity": "fast_food",
+                "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-00:00",
                 "contact:website": "http://www.kfc.de",
+                "amenity": "fast_food",
+                "drive_through": "yes",
                 "@id": "node/926718865"
             }
         },
@@ -293,14 +293,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
+                "addr:postcode": "64283",
+                "brand": "KFC",
                 "addr:housenumber": "5a",
                 "opening_hours": "Mo-Th 10:00-22:00; Fr-Sa 10:00-24:00; Su,PH 12:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Luisenplatz",
-                "amenity": "fast_food",
                 "addr:city": "Darmstadt",
-                "addr:postcode": "64283",
+                "amenity": "fast_food",
+                "addr:street": "Luisenplatz",
+                "drive_through": "no",
                 "@id": "node/1196739534"
             }
         },
@@ -315,10 +315,10 @@
                 ]
             },
             "properties": {
-                "opening_hours": "10:00-22:00",
                 "brand": "KFC",
-                "amenity": "fast_food",
+                "opening_hours": "10:00-22:00",
                 "contact:website": "http://www.kfc.de",
+                "amenity": "fast_food",
                 "@id": "node/1197396719"
             }
         },
@@ -333,13 +333,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "04109",
+                "brand": "KFC",
                 "addr:housenumber": "7",
                 "opening_hours": "Su-Th 09:30-23:00; Fr,Sa 09:30-23:00",
-                "brand": "KFC",
-                "addr:street": "Willy-Brandt-Platz",
-                "amenity": "fast_food",
                 "addr:city": "Leipzig",
-                "addr:postcode": "04109",
+                "amenity": "fast_food",
+                "addr:street": "Willy-Brandt-Platz",
                 "@id": "node/1330682274"
             }
         },
@@ -354,14 +354,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
+                "addr:postcode": "57072",
+                "brand": "KFC",
                 "addr:housenumber": "16",
                 "opening_hours": "Mo-Sa 11:00-21:00, Su 13:00-20:00",
-                "brand": "KFC",
-                "addr:street": "Am Bahnhof",
-                "amenity": "fast_food",
                 "addr:city": "Siegen",
-                "addr:postcode": "57072",
+                "amenity": "fast_food",
+                "addr:street": "Am Bahnhof",
+                "drive_through": "no",
                 "@id": "node/1585536828"
             }
         },
@@ -376,8 +376,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Su-Th,PH 10:30-23:30, Fr,Sa 10:30-03:00",
                 "brand": "KFC",
+                "opening_hours": "Su-Th,PH 10:30-23:30, Fr,Sa 10:30-03:00",
                 "amenity": "fast_food",
                 "@id": "node/1655607190"
             }
@@ -393,13 +393,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "50674",
+                "brand": "KFC",
                 "addr:housenumber": "12",
                 "opening_hours": "Mo-Su 11:00-00:00",
-                "brand": "KFC",
-                "addr:street": "Rudolfplatz",
-                "amenity": "fast_food",
                 "addr:city": "Köln",
-                "addr:postcode": "50674",
+                "amenity": "fast_food",
+                "addr:street": "Rudolfplatz",
                 "@id": "node/1682137861"
             }
         },
@@ -414,8 +414,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Su-Th 10:00-24:00; Fr-Sa 10:00-04:00",
                 "brand": "KFC",
+                "opening_hours": "Su-Th 10:00-24:00; Fr-Sa 10:00-04:00",
                 "amenity": "fast_food",
                 "@id": "node/2016467601"
             }
@@ -431,14 +431,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "79108",
+                "brand": "KFC",
                 "addr:housenumber": "68",
                 "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Tullastraße",
-                "amenity": "fast_food",
                 "addr:city": "Freiburg im Breisgau",
-                "addr:postcode": "79108",
+                "amenity": "fast_food",
+                "addr:street": "Tullastraße",
+                "drive_through": "yes",
                 "@id": "node/2070105169"
             }
         },
@@ -453,8 +453,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Su-Th 11:00-23:00, Fr,Sa 11:00-24:00",
                 "brand": "KFC",
+                "opening_hours": "Su-Th 11:00-23:00, Fr,Sa 11:00-24:00",
                 "amenity": "fast_food",
                 "@id": "node/2405458294"
             }
@@ -470,11 +470,11 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Su 10:00-22:00",
                 "brand": "KFC",
-                "addr:street": "Glockengießerwall",
-                "amenity": "fast_food",
+                "opening_hours": "Mo-Su 10:00-22:00",
                 "addr:city": "Hamburg",
+                "amenity": "fast_food",
+                "addr:street": "Glockengießerwall",
                 "@id": "node/2477660521"
             }
         },
@@ -489,13 +489,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "01067",
+                "brand": "KFC",
                 "addr:housenumber": "5",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Altmarkt",
-                "amenity": "fast_food",
                 "addr:city": "Dresden",
-                "addr:postcode": "01067",
+                "amenity": "fast_food",
+                "addr:street": "Altmarkt",
                 "@id": "node/2512417090"
             }
         },
@@ -510,12 +510,12 @@
                 ]
             },
             "properties": {
+                "brand": "KFC",
                 "addr:housenumber": "1000-62",
                 "opening_hours": "Mo-Sa 10:00-20:00",
-                "brand": "KFC",
-                "addr:street": "Centroallee",
-                "amenity": "fast_food",
                 "addr:city": "Oberhausen",
+                "amenity": "fast_food",
+                "addr:street": "Centroallee",
                 "@id": "node/2580768546"
             }
         },
@@ -530,8 +530,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 10:30-23:00; Su 11:00-23:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Sa 10:30-23:00; Su 11:00-23:00",
                 "amenity": "fast_food",
                 "@id": "node/3110958004"
             }
@@ -547,8 +547,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Su-Th 10:00-20:00; Fr 10:00-21:30; Sa 09:30-20:00",
                 "brand": "KFC",
+                "opening_hours": "Su-Th 10:00-20:00; Fr 10:00-21:30; Sa 09:30-20:00",
                 "amenity": "fast_food",
                 "@id": "node/3127362333"
             }
@@ -564,10 +564,10 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
                 "brand": "KFC",
-                "amenity": "fast_food",
+                "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
                 "contact:website": "https://www.kfc.de/",
+                "amenity": "fast_food",
                 "@id": "node/3212683116"
             }
         },
@@ -582,13 +582,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "47228",
+                "brand": "KFC",
                 "addr:housenumber": "55",
                 "opening_hours": "Su-Th 11:00-24:00, Fr,Sa 11:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Asterlager Straße",
-                "amenity": "fast_food",
                 "addr:city": "Duisburg",
-                "addr:postcode": "47228",
+                "amenity": "fast_food",
+                "addr:street": "Asterlager Straße",
                 "@id": "node/3241470357"
             }
         },
@@ -603,12 +603,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "3",
-                "brand": "KFC",
-                "addr:street": "Hebelstraße",
-                "amenity": "fast_food",
-                "addr:city": "Heidelberg",
                 "addr:postcode": "69115",
+                "brand": "KFC",
+                "addr:housenumber": "3",
+                "addr:city": "Heidelberg",
+                "amenity": "fast_food",
+                "addr:street": "Hebelstraße",
                 "@id": "node/3298545127"
             }
         },
@@ -623,10 +623,11 @@
                 ]
             },
             "properties": {
-                "brand": "KFC",
-                "amenity": "fast_food",
-                "addr:city": "Frankfurt am Main",
                 "addr:postcode": "60549",
+                "brand": "KFC",
+                "opening_hours": "Mo-Su 09:00-22:00",
+                "addr:city": "Frankfurt am Main",
+                "amenity": "fast_food",
                 "@id": "node/3413385941"
             }
         },
@@ -641,13 +642,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "27404",
+                "brand": "KFC",
                 "addr:housenumber": "8",
                 "opening_hours": "Mo-Su 11:00-22:00; Fr,Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "An der Autobahn",
-                "amenity": "fast_food",
                 "addr:city": "Gyhum",
-                "addr:postcode": "27404",
+                "amenity": "fast_food",
+                "addr:street": "An der Autobahn",
                 "@id": "node/4111922542"
             }
         },
@@ -662,14 +663,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "89077",
+                "brand": "KFC",
                 "addr:housenumber": "40",
                 "opening_hours": "Su-Th 10:00-23:00, Fr,Sa 10:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Blaubeurer Straße",
-                "amenity": "fast_food",
                 "addr:city": "Ulm",
-                "addr:postcode": "89077",
+                "amenity": "fast_food",
+                "addr:street": "Blaubeurer Straße",
+                "drive_through": "yes",
                 "@id": "node/4330358636"
             }
         },
@@ -684,13 +685,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "81241",
+                "brand": "KFC",
                 "addr:housenumber": "8",
                 "opening_hours": "Mo-Sa 10:30-23:00; Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Pasinger Bahnhofsplatz",
-                "amenity": "fast_food",
                 "addr:city": "München",
-                "addr:postcode": "81241",
+                "amenity": "fast_food",
+                "addr:street": "Pasinger Bahnhofsplatz",
                 "@id": "node/4411897982"
             }
         },
@@ -705,10 +706,10 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
                 "brand": "KFC",
-                "amenity": "fast_food",
+                "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
                 "contact:website": "https://www.kfc.de/",
+                "amenity": "fast_food",
                 "@id": "node/4484282233"
             }
         },
@@ -723,8 +724,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 10:00-22:00; Su,PH 12:00-20:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Sa 10:00-22:00; Su,PH 12:00-20:00",
                 "amenity": "fast_food",
                 "@id": "node/4544606579"
             }
@@ -740,11 +741,11 @@
                 ]
             },
             "properties": {
+                "brand": "KFC",
                 "addr:housenumber": "1a",
                 "opening_hours": "Su-Th 10:30-23:00, Fr,Sa 10:00-24:00",
-                "brand": "KFC",
-                "addr:street": "An der Autobahn",
                 "amenity": "fast_food",
+                "addr:street": "An der Autobahn",
                 "@id": "node/4549741021"
             }
         },
@@ -759,8 +760,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 10:00-20:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Sa 10:00-20:00",
                 "amenity": "fast_food",
                 "@id": "node/4559078053"
             }
@@ -776,12 +777,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "115",
-                "brand": "KFC",
-                "addr:street": "Wilmersdorfer Straße",
-                "amenity": "fast_food",
-                "addr:city": "Berlin",
                 "addr:postcode": "10627",
+                "brand": "KFC",
+                "addr:housenumber": "115",
+                "addr:city": "Berlin",
+                "amenity": "fast_food",
+                "addr:street": "Wilmersdorfer Straße",
                 "@id": "node/4614529742"
             }
         },
@@ -796,14 +797,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "48499",
+                "brand": "KFC",
                 "addr:housenumber": "1",
                 "opening_hours": "Mo-Th 11:00-23:00, Fr,Sa 11:00-24:00, Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Holsterfeld",
-                "amenity": "fast_food",
                 "addr:city": "Salzbergen",
-                "addr:postcode": "48499",
+                "amenity": "fast_food",
+                "addr:street": "Holsterfeld",
+                "drive_through": "yes",
                 "@id": "node/4630853554"
             }
         },
@@ -818,13 +819,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "63303",
+                "brand": "KFC",
                 "addr:housenumber": "15",
                 "opening_hours": "Mo-Sa 10:00-22:00, Su 13:00-20:00",
-                "brand": "KFC",
-                "addr:street": "Robert-Bosch-Straße",
-                "amenity": "fast_food",
                 "addr:city": "Dreieich",
-                "addr:postcode": "63303",
+                "amenity": "fast_food",
+                "addr:street": "Robert-Bosch-Straße",
                 "@id": "node/4705756526"
             }
         },
@@ -855,15 +856,15 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "58089",
+                "brand": "KFC",
                 "addr:housenumber": "8",
                 "opening_hours": "Su-Th 11:00-23:00; Fr, Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Becheltestraße",
-                "amenity": "fast_food",
                 "contact:website": "http://www.kfc.de",
                 "addr:city": "Hagen",
-                "addr:postcode": "58089",
+                "amenity": "fast_food",
+                "addr:street": "Becheltestraße",
+                "drive_through": "yes",
                 "@id": "node/4774102828"
             }
         },
@@ -878,13 +879,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "40591",
+                "brand": "KFC",
                 "addr:housenumber": "148",
                 "opening_hours": "Su-Th 11:00-01:00; Fr-Sa 11:00-02:00",
-                "brand": "KFC",
-                "addr:street": "Oerschbachstraße",
-                "amenity": "fast_food",
                 "addr:city": "Düsseldorf",
-                "addr:postcode": "40591",
+                "amenity": "fast_food",
+                "addr:street": "Oerschbachstraße",
                 "@id": "node/4794144054"
             }
         },
@@ -899,15 +900,15 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
+                "addr:postcode": "10969",
+                "brand": "KFC",
                 "addr:housenumber": "45",
                 "opening_hours": "11:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Friedrichstraße",
-                "amenity": "fast_food",
                 "contact:website": "http://www.kfc.de",
                 "addr:city": "Berlin",
-                "addr:postcode": "10969",
+                "amenity": "fast_food",
+                "addr:street": "Friedrichstraße",
+                "drive_through": "no",
                 "@id": "node/4817365211"
             }
         },
@@ -938,8 +939,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
                 "brand": "KFC",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
                 "amenity": "fast_food",
                 "@id": "node/4898171614"
             }
@@ -955,13 +956,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "76133",
+                "brand": "KFC",
                 "addr:housenumber": "24-28",
                 "opening_hours": "PH,Su-Th 11:00-23:00, Fr,Sa 11:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Waldstraße",
-                "amenity": "fast_food",
                 "addr:city": "Karlsruhe",
-                "addr:postcode": "76133",
+                "amenity": "fast_food",
+                "addr:street": "Waldstraße",
                 "@id": "node/5043242745"
             }
         },
@@ -976,14 +977,14 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "73230",
+                "brand": "KFC",
                 "addr:housenumber": "15",
                 "opening_hours": "11:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Kruichling",
-                "amenity": "fast_food",
                 "contact:website": "https://www.kfc.de",
                 "addr:city": "Kirchheim unter Teck",
-                "addr:postcode": "73230",
+                "amenity": "fast_food",
+                "addr:street": "Kruichling",
                 "@id": "node/5103798366"
             }
         },
@@ -998,13 +999,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "68307",
+                "brand": "KFC",
                 "addr:housenumber": "125a",
                 "opening_hours": "Mo-Sa 11:00-23:00, Su 12:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Frankenthaler Straße",
-                "amenity": "fast_food",
                 "addr:city": "Mannheim",
-                "addr:postcode": "68307",
+                "amenity": "fast_food",
+                "addr:street": "Frankenthaler Straße",
                 "@id": "node/5229173635"
             }
         },
@@ -1019,12 +1020,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "1",
-                "brand": "KFC",
-                "addr:street": "Ampèrestraße",
-                "amenity": "fast_food",
-                "addr:city": "Bensheim",
                 "addr:postcode": "64625",
+                "brand": "KFC",
+                "addr:housenumber": "1",
+                "addr:city": "Bensheim",
+                "amenity": "fast_food",
+                "addr:street": "Ampèrestraße",
                 "@id": "node/5292670184"
             }
         },
@@ -1039,14 +1040,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "70378",
+                "brand": "KFC",
                 "addr:housenumber": "50",
                 "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-01:00, Sa 11:00-01:00, Su 11:00-23:00; PH 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Aldinger Straße",
-                "amenity": "fast_food",
                 "addr:city": "Stuttgart",
-                "addr:postcode": "70378",
+                "amenity": "fast_food",
+                "addr:street": "Aldinger Straße",
+                "drive_through": "yes",
                 "@id": "node/5320923451"
             }
         },
@@ -1061,13 +1062,13 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
-                "opening_hours": "Mo-Th 10:00-23:00, Fr,Sa 10:00-24:00, Su,PH 10:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Ludwigstraße",
-                "amenity": "fast_food",
-                "addr:city": "Aschaffenburg",
                 "addr:postcode": "63739",
+                "brand": "KFC",
+                "opening_hours": "Mo-Th 10:00-23:00, Fr,Sa 10:00-24:00, Su,PH 10:00-23:00",
+                "addr:city": "Aschaffenburg",
+                "amenity": "fast_food",
+                "addr:street": "Ludwigstraße",
+                "drive_through": "no",
                 "@id": "node/5558884566"
             }
         },
@@ -1082,8 +1083,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-22:00; Su 12:00-21:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Th 11:00-22:00; Fr,Sa 11:00-22:00; Su 12:00-21:00",
                 "amenity": "fast_food",
                 "@id": "node/5749529337"
             }
@@ -1099,14 +1100,14 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "04329",
+                "brand": "KFC",
                 "addr:housenumber": "1",
                 "opening_hours": "Mo-Sa10:00-20:30; Su,PH off",
-                "brand": "KFC",
-                "addr:street": "Paunsdorfer Allee",
-                "amenity": "fast_food",
                 "contact:website": "https://www.kfc.de/",
                 "addr:city": "Leipzig",
-                "addr:postcode": "04329",
+                "amenity": "fast_food",
+                "addr:street": "Paunsdorfer Allee",
                 "@id": "node/6033649050"
             }
         },
@@ -1121,10 +1122,10 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Su-Th 11:00-23:00; Fr,Sa 11:00-24:00",
                 "brand": "KFC",
-                "amenity": "fast_food",
+                "opening_hours": "Su-Th 11:00-23:00; Fr,Sa 11:00-24:00",
                 "contact:website": "http://www.kfc.de",
+                "amenity": "fast_food",
                 "@id": "node/6254467217"
             }
         },
@@ -1139,13 +1140,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "12439",
+                "brand": "KFC",
                 "addr:housenumber": "18A",
                 "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Schnellerstraße",
-                "amenity": "fast_food",
                 "addr:city": "Berlin",
-                "addr:postcode": "12439",
+                "amenity": "fast_food",
+                "addr:street": "Schnellerstraße",
                 "@id": "node/6275819866"
             }
         },
@@ -1160,8 +1161,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 10:00-20:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Sa 10:00-20:00",
                 "amenity": "fast_food",
                 "@id": "node/6621555685"
             }
@@ -1177,8 +1178,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Th 10:00-00:00; Fr, Sa 10:00-01:00; Su 10:00-22:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Th 10:00-00:00; Fr, Sa 10:00-01:00; Su 10:00-22:00",
                 "amenity": "fast_food",
                 "@id": "node/6657473478"
             }
@@ -1194,9 +1195,9 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
                 "brand": "KFC",
                 "amenity": "fast_food",
+                "drive_through": "no",
                 "@id": "node/6683828902"
             }
         },
@@ -1211,12 +1212,12 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
-                "brand": "KFC",
-                "addr:street": "Leipziger Platz",
-                "amenity": "fast_food",
-                "addr:city": "Berlin",
                 "addr:postcode": "10117",
+                "brand": "KFC",
+                "addr:city": "Berlin",
+                "amenity": "fast_food",
+                "addr:street": "Leipziger Platz",
+                "drive_through": "no",
                 "@id": "node/6697053514"
             }
         },
@@ -1247,8 +1248,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
                 "brand": "KFC",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
                 "amenity": "fast_food",
                 "@id": "node/6832606789"
             }
@@ -1264,12 +1265,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "1",
-                "brand": "KFC",
-                "addr:street": "Moorstraße",
-                "amenity": "fast_food",
-                "addr:city": "Hamburg",
                 "addr:postcode": "21073",
+                "brand": "KFC",
+                "addr:housenumber": "1",
+                "addr:city": "Hamburg",
+                "amenity": "fast_food",
+                "addr:street": "Moorstraße",
                 "@id": "node/6945123098"
             }
         },
@@ -1284,13 +1285,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "28307",
+                "brand": "KFC",
                 "addr:housenumber": "19",
                 "opening_hours": "Mo-Sa 10:00-20:00; PH off",
-                "brand": "KFC",
-                "addr:street": "Hans-Bredow-Straße",
-                "amenity": "fast_food",
                 "addr:city": "Bremen",
-                "addr:postcode": "28307",
+                "amenity": "fast_food",
+                "addr:street": "Hans-Bredow-Straße",
                 "@id": "node/7014869734"
             }
         },
@@ -1305,14 +1306,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
+                "addr:postcode": "47051",
+                "brand": "KFC",
                 "addr:housenumber": "56",
                 "opening_hours": "Mo-Th 10:00-21:30; Fr-Sa 10:00-22:30, Su 11:30-21:30",
-                "brand": "KFC",
-                "addr:street": "Königstraße",
-                "amenity": "fast_food",
                 "addr:city": "Duisburg",
-                "addr:postcode": "47051",
+                "amenity": "fast_food",
+                "addr:street": "Königstraße",
+                "drive_through": "no",
                 "@id": "node/7054501584"
             }
         },
@@ -1327,14 +1328,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "71634",
+                "brand": "KFC",
                 "addr:housenumber": "1",
                 "opening_hours": "Mo-Th 10:30-24:00; Fr-Sa 10:30-01:00; Su 10:30-24:00",
-                "brand": "KFC",
-                "addr:street": "Maybachstraße",
-                "amenity": "fast_food",
                 "addr:city": "Ludwigsburg",
-                "addr:postcode": "71634",
+                "amenity": "fast_food",
+                "addr:street": "Maybachstraße",
+                "drive_through": "yes",
                 "@id": "node/7261407957"
             }
         },
@@ -1349,8 +1350,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 11:00-20:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Sa 11:00-20:00",
                 "amenity": "fast_food",
                 "@id": "node/8865026586"
             }
@@ -1367,8 +1368,8 @@
             },
             "properties": {
                 "brand": "KFC",
-                "amenity": "fast_food",
                 "addr:city": "Mülheim an der Ruhr",
+                "amenity": "fast_food",
                 "@id": "node/9249072081"
             }
         },
@@ -1383,13 +1384,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "59590",
+                "brand": "KFC",
                 "addr:housenumber": "155",
                 "opening_hours": "11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Bürener Straße",
-                "amenity": "fast_food",
                 "addr:city": "Geseke",
-                "addr:postcode": "59590",
+                "amenity": "fast_food",
+                "addr:street": "Bürener Straße",
                 "@id": "node/9863781902"
             }
         },
@@ -1420,13 +1421,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "29646",
+                "brand": "KFC",
                 "addr:housenumber": "63",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Behringer Straße",
-                "amenity": "fast_food",
                 "addr:city": "Bispingen",
-                "addr:postcode": "29646",
+                "amenity": "fast_food",
+                "addr:street": "Behringer Straße",
                 "@id": "node/10072542535"
             }
         },
@@ -1441,10 +1442,10 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
-                "opening_hours": "PH,We,Th,Sa-Mo 10:00-24:00; Fr 10:00-18:00",
                 "brand": "KFC",
+                "opening_hours": "PH,We,Th,Sa-Mo 10:00-24:00; Fr 10:00-18:00",
                 "amenity": "fast_food",
+                "drive_through": "no",
                 "@id": "node/10170580852"
             }
         },
@@ -1491,13 +1492,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "60388",
+                "brand": "KFC",
                 "addr:housenumber": "33a",
                 "opening_hours": "Mo-Su,PH 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Borsigallee",
-                "amenity": "fast_food",
                 "addr:city": "Frankfurt am Main",
-                "addr:postcode": "60388",
+                "amenity": "fast_food",
+                "addr:street": "Borsigallee",
                 "@id": "node/10808012891"
             }
         },
@@ -1512,13 +1513,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "26389",
+                "brand": "KFC",
                 "addr:housenumber": "51",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Güterstraße",
-                "amenity": "fast_food",
                 "addr:city": "Wilhelmshaven",
-                "addr:postcode": "26389",
+                "amenity": "fast_food",
+                "addr:street": "Güterstraße",
                 "@id": "node/11091827185"
             }
         },
@@ -1533,8 +1534,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Th 10:00-22:00; Fr,Sa 10:00-23:00; PH,Su 12:00-22:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Th 10:00-22:00; Fr,Sa 10:00-23:00; PH,Su 12:00-22:00",
                 "amenity": "fast_food",
                 "@id": "node/11402128929"
             }
@@ -1582,8 +1583,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 11:00-20:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Sa 11:00-20:00",
                 "amenity": "fast_food",
                 "@id": "node/11889439992"
             }
@@ -1599,8 +1600,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Su-Th,PH 11:00-24:00, Fr,Sa 11:00-01:00",
                 "brand": "KFC",
+                "opening_hours": "Su-Th,PH 11:00-24:00, Fr,Sa 11:00-01:00",
                 "amenity": "fast_food",
                 "@id": "node/11998718020"
             }
@@ -1616,11 +1617,11 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
-                "opening_hours": "11:00-22:00",
                 "brand": "KFC",
-                "amenity": "fast_food",
+                "opening_hours": "11:00-22:00",
                 "contact:website": "https://www.kfc.de/",
+                "amenity": "fast_food",
+                "drive_through": "yes",
                 "@id": "node/12068618040"
             }
         },
@@ -1635,13 +1636,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "64380",
+                "brand": "KFC",
                 "addr:housenumber": "20",
                 "opening_hours": "Su-Th 11:00-23:00,Fr-Mo 11:00-00:00",
-                "brand": "KFC",
-                "addr:street": "Heinz-Friedrich-Straße",
-                "amenity": "fast_food",
                 "addr:city": "Roßdorf",
-                "addr:postcode": "64380",
+                "amenity": "fast_food",
+                "addr:street": "Heinz-Friedrich-Straße",
                 "@id": "node/12164658618"
             }
         },
@@ -1656,11 +1657,11 @@
                 ]
             },
             "properties": {
+                "brand": "KFC",
                 "addr:housenumber": "38",
                 "opening_hours": "Mo-Th,Su,PH 11:00-23:00; Fr,Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Bahnhofstraße",
                 "amenity": "fast_food",
+                "addr:street": "Bahnhofstraße",
                 "@id": "node/12250431327"
             }
         },
@@ -1675,14 +1676,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "24941",
+                "brand": "KFC",
                 "addr:housenumber": "4",
                 "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Lilienthalstraße",
-                "amenity": "fast_food",
                 "addr:city": "Flensburg",
-                "addr:postcode": "24941",
+                "amenity": "fast_food",
+                "addr:street": "Lilienthalstraße",
+                "drive_through": "yes",
                 "@id": "node/12284924463"
             }
         },
@@ -1697,10 +1698,10 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
-                "opening_hours": "Mo-We,Fr-Su 11:00-23:00; Th 11:30-23:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-We,Fr-Su 11:00-23:00; Th 11:30-23:00",
                 "amenity": "fast_food",
+                "drive_through": "yes",
                 "@id": "node/12505425371"
             }
         },
@@ -1715,10 +1716,10 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
-                "opening_hours": "Mo-Su 11:00-21:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "amenity": "fast_food",
+                "drive_through": "no",
                 "@id": "node/12861541750"
             }
         },
@@ -1733,26 +1734,10 @@
                 ]
             },
             "properties": {
+                "brand": "KFC",
+                "amenity": "fast_food",
                 "drive_through": "yes",
-                "brand": "KFC",
-                "amenity": "fast_food",
                 "@id": "node/13150843038"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "node/13239060648",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    11.408198,
-                    48.141511
-                ]
-            },
-            "properties": {
-                "brand": "KFC",
-                "amenity": "fast_food",
-                "@id": "node/13239060648"
             }
         },
         {
@@ -1766,13 +1751,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "28279",
+                "brand": "KFC",
                 "addr:housenumber": "5",
                 "opening_hours": "Su-Th 11:00-22:00; Fr,Sa 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Borgwardstraße",
-                "amenity": "fast_food",
                 "addr:city": "Bremen",
-                "addr:postcode": "28279",
+                "amenity": "fast_food",
+                "addr:street": "Borgwardstraße",
                 "@id": "way/18083901"
             }
         },
@@ -1787,14 +1772,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
-                "addr:housenumber": "25",
-                "opening_hours": "Su-Th 11:00 - 23:00; Fr-Sa 11:00 - 24:00",
-                "brand": "KFC",
-                "addr:street": "Adenauerstraße",
-                "amenity": "fast_food",
-                "addr:city": "Würselen",
                 "addr:postcode": "52146",
+                "brand": "KFC",
+                "addr:housenumber": "25",
+                "opening_hours": "Mo-Su,PH 11:00-23:00",
+                "addr:city": "Würselen",
+                "amenity": "fast_food",
+                "addr:street": "Adenauerstraße",
+                "drive_through": "yes",
                 "@id": "way/24391823"
             }
         },
@@ -1809,13 +1794,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "13405",
+                "brand": "KFC",
                 "addr:housenumber": "25",
                 "opening_hours": "Su-Th,PH 10:00-23:00; Fr,Sa 00:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Kurt-Schumacher-Damm",
-                "amenity": "fast_food",
                 "addr:city": "Berlin",
-                "addr:postcode": "13405",
+                "amenity": "fast_food",
+                "addr:street": "Kurt-Schumacher-Damm",
                 "@id": "way/24920873"
             }
         },
@@ -1830,14 +1815,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "71065",
+                "brand": "KFC",
                 "addr:housenumber": "60",
                 "opening_hours": "Mo-Th 10:30-24:00, Fr 10:30-02:00, Sa 10:30-02:00, Su 10:30-24:00, PH 10:30-24:00",
-                "brand": "KFC",
-                "addr:street": "Böblinger Straße",
-                "amenity": "fast_food",
                 "addr:city": "Sindelfingen",
-                "addr:postcode": "71065",
+                "amenity": "fast_food",
+                "addr:street": "Böblinger Straße",
+                "drive_through": "yes",
                 "@id": "way/26658070"
             }
         },
@@ -1852,14 +1837,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "85053",
+                "brand": "KFC",
                 "addr:housenumber": "93",
                 "opening_hours": "Su-Th 10:30-24:00, Fr,Sa 10:30-01:00",
-                "brand": "KFC",
-                "addr:street": "Manchinger Straße",
-                "amenity": "fast_food",
                 "addr:city": "Ingolstadt",
-                "addr:postcode": "85053",
+                "amenity": "fast_food",
+                "addr:street": "Manchinger Straße",
+                "drive_through": "yes",
                 "@id": "way/30027922"
             }
         },
@@ -1874,11 +1859,11 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "141",
-                "brand": "KFC",
-                "addr:street": "Adolf-Kempken-Weg",
-                "amenity": "fast_food",
                 "addr:postcode": "41189",
+                "brand": "KFC",
+                "addr:housenumber": "141",
+                "amenity": "fast_food",
+                "addr:street": "Adolf-Kempken-Weg",
                 "@id": "way/30042514"
             }
         },
@@ -1893,12 +1878,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "130",
-                "brand": "KFC",
-                "addr:street": "Bottroper Straße",
-                "amenity": "fast_food",
-                "addr:city": "Essen",
                 "addr:postcode": "45356",
+                "brand": "KFC",
+                "addr:housenumber": "130",
+                "addr:city": "Essen",
+                "amenity": "fast_food",
+                "addr:street": "Bottroper Straße",
                 "@id": "way/31311699"
             }
         },
@@ -1913,14 +1898,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "53757",
+                "brand": "KFC",
                 "addr:housenumber": "3",
                 "opening_hours": "Mo-Th,Su 11:00-00:00; Fr-Sa 11:00-02:00",
-                "brand": "KFC",
-                "addr:street": "Marie-Curie-Straße",
-                "amenity": "fast_food",
                 "addr:city": "Sankt Augustin",
-                "addr:postcode": "53757",
+                "amenity": "fast_food",
+                "addr:street": "Marie-Curie-Straße",
+                "drive_through": "yes",
                 "@id": "way/31371227"
             }
         },
@@ -1935,13 +1920,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "33098",
+                "brand": "KFC",
                 "addr:housenumber": "140",
                 "opening_hours": "Mo-Su 11:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Borchener Straße",
-                "amenity": "fast_food",
                 "addr:city": "Paderborn",
-                "addr:postcode": "33098",
+                "amenity": "fast_food",
+                "addr:street": "Borchener Straße",
                 "@id": "way/32539945"
             }
         },
@@ -1956,13 +1941,13 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
-                "addr:housenumber": "1",
-                "brand": "KFC",
-                "addr:street": "Am halben Weg",
-                "amenity": "fast_food",
-                "addr:city": "Forchheim",
                 "addr:postcode": "91301",
+                "brand": "KFC",
+                "addr:housenumber": "1",
+                "addr:city": "Forchheim",
+                "amenity": "fast_food",
+                "addr:street": "Am halben Weg",
+                "drive_through": "yes",
                 "@id": "way/37429752"
             }
         },
@@ -1977,12 +1962,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "24",
-                "brand": "KFC",
-                "addr:street": "Brunnenstraße",
-                "amenity": "fast_food",
-                "addr:city": "Bad Oeynhausen",
                 "addr:postcode": "32545",
+                "brand": "KFC",
+                "addr:housenumber": "24",
+                "addr:city": "Bad Oeynhausen",
+                "amenity": "fast_food",
+                "addr:street": "Brunnenstraße",
                 "@id": "way/42022256"
             }
         },
@@ -1997,13 +1982,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "60314",
+                "brand": "KFC",
                 "addr:housenumber": "292",
                 "opening_hours": "Mo-Sa 10:00-01:00, Su,PH 10:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Hanauer Landstraße",
-                "amenity": "fast_food",
                 "addr:city": "Frankfurt am Main",
-                "addr:postcode": "60314",
+                "amenity": "fast_food",
+                "addr:street": "Hanauer Landstraße",
                 "@id": "way/48013130"
             }
         },
@@ -2018,13 +2003,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "66130",
+                "brand": "KFC",
                 "addr:housenumber": "6",
                 "opening_hours": "Mo-Th,Su 11:30-21:30; Fr-Sa 11:30-22:30",
-                "brand": "KFC",
-                "addr:street": "Wolfseck",
-                "amenity": "fast_food",
                 "addr:city": "Saarbrücken",
-                "addr:postcode": "66130",
+                "amenity": "fast_food",
+                "addr:street": "Wolfseck",
                 "@id": "way/48627850"
             }
         },
@@ -2039,13 +2024,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "22041",
+                "brand": "KFC",
                 "addr:housenumber": "127-133",
                 "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Wandsbeker Zollstraße",
-                "amenity": "fast_food",
                 "addr:city": "Hamburg",
-                "addr:postcode": "22041",
+                "amenity": "fast_food",
+                "addr:street": "Wandsbeker Zollstraße",
                 "@id": "way/49848186"
             }
         },
@@ -2060,14 +2045,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "24558",
+                "brand": "KFC",
                 "addr:housenumber": "2",
                 "opening_hours": "Su-Th 11:00-22:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Am Bahnbogen",
-                "amenity": "fast_food",
                 "addr:city": "Henstedt-Ulzburg",
-                "addr:postcode": "24558",
+                "amenity": "fast_food",
+                "addr:street": "Am Bahnbogen",
+                "drive_through": "yes",
                 "@id": "way/51749439"
             }
         },
@@ -2082,14 +2067,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "51149",
+                "brand": "KFC",
                 "addr:housenumber": "101",
                 "opening_hours": "Mo-Th 11:00-01:00, Fr,Sa 11:00-02:00, Su 11:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Alter Deutzer Postweg",
-                "amenity": "fast_food",
                 "addr:city": "Köln",
-                "addr:postcode": "51149",
+                "amenity": "fast_food",
+                "addr:street": "Alter Deutzer Postweg",
+                "drive_through": "yes",
                 "@id": "way/52449103"
             }
         },
@@ -2104,12 +2089,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "70",
-                "brand": "KFC",
-                "addr:street": "Boelckestraße",
-                "amenity": "fast_food",
-                "addr:city": "Wiesbaden",
                 "addr:postcode": "55252",
+                "brand": "KFC",
+                "addr:housenumber": "70",
+                "addr:city": "Wiesbaden",
+                "amenity": "fast_food",
+                "addr:street": "Boelckestraße",
                 "@id": "way/54055222"
             }
         },
@@ -2124,15 +2109,15 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "33609",
+                "brand": "KFC",
                 "addr:housenumber": "20",
                 "opening_hours": "Su-Th 11:00-23:00, Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Eckendorfer Straße",
-                "amenity": "fast_food",
                 "contact:website": "https://www.kfc.de/",
                 "addr:city": "Bielefeld",
-                "addr:postcode": "33609",
+                "amenity": "fast_food",
+                "addr:street": "Eckendorfer Straße",
+                "drive_through": "yes",
                 "@id": "way/58993373"
             }
         },
@@ -2147,13 +2132,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "65187",
+                "brand": "KFC",
                 "addr:housenumber": "80",
                 "opening_hours": "Mo-Sa 10:30-23:00; PH,Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Schiersteiner Straße",
-                "amenity": "fast_food",
                 "addr:city": "Wiesbaden",
-                "addr:postcode": "65187",
+                "amenity": "fast_food",
+                "addr:street": "Schiersteiner Straße",
                 "@id": "way/59434255"
             }
         },
@@ -2168,13 +2153,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "89231",
+                "brand": "KFC",
                 "addr:housenumber": "10",
                 "opening_hours": "PH,Su-Th 11:00-23:00; Fr-Sa 11:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Pfaffenweg",
-                "amenity": "fast_food",
                 "addr:city": "Neu-Ulm",
-                "addr:postcode": "89231",
+                "amenity": "fast_food",
+                "addr:street": "Pfaffenweg",
                 "@id": "way/67505057"
             }
         },
@@ -2189,15 +2174,15 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "37081",
+                "brand": "KFC",
                 "addr:housenumber": "28",
                 "opening_hours": "Mo-Su,PH 12:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Siekweg",
-                "amenity": "fast_food",
                 "contact:website": "https://www.kfc.de/find-a-kfc/kfc-G%C3%B6ttingen-Siekweg-28",
                 "addr:city": "Göttingen",
-                "addr:postcode": "37081",
+                "amenity": "fast_food",
+                "addr:street": "Siekweg",
+                "drive_through": "yes",
                 "@id": "way/83507028"
             }
         },
@@ -2212,13 +2197,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "97424",
+                "brand": "KFC",
                 "addr:housenumber": "14",
                 "opening_hours": "Mo-Th 10:30-24:00, Fr-Sa 10:30-01:00, Su 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Carl-Benz-Straße",
-                "amenity": "fast_food",
                 "addr:city": "Schweinfurt",
-                "addr:postcode": "97424",
+                "amenity": "fast_food",
+                "addr:street": "Carl-Benz-Straße",
                 "@id": "way/87437610"
             }
         },
@@ -2233,14 +2218,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "26129",
+                "brand": "KFC",
                 "addr:housenumber": "10",
                 "opening_hours": "Mo-Th 10:00-23:00; Fr-Sa 10:00-24:00; Su 10:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Posthalterweg",
-                "amenity": "fast_food",
                 "addr:city": "Oldenburg",
-                "addr:postcode": "26129",
+                "amenity": "fast_food",
+                "addr:street": "Posthalterweg",
+                "drive_through": "yes",
                 "@id": "way/88382900"
             }
         },
@@ -2255,14 +2240,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "44805",
+                "brand": "KFC",
                 "addr:housenumber": "111a",
                 "opening_hours": "Fr,Sa 11:00-24:00; Su-Th 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Castroper Hellweg",
-                "amenity": "fast_food",
                 "addr:city": "Bochum",
-                "addr:postcode": "44805",
+                "amenity": "fast_food",
+                "addr:street": "Castroper Hellweg",
+                "drive_through": "yes",
                 "@id": "way/93221099"
             }
         },
@@ -2277,14 +2262,35 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "41564",
+                "brand": "KFC",
                 "addr:housenumber": "3",
                 "opening_hours": "Mo-Th 11:00-23:00; Fr,Sa 11:00-24:00; Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Neersener Straße",
-                "amenity": "fast_food",
                 "addr:city": "Kaarst",
-                "addr:postcode": "41564",
+                "amenity": "fast_food",
+                "addr:street": "Neersener Straße",
                 "@id": "way/93521946"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/95130621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.837235,
+                    52.42401
+                ]
+            },
+            "properties": {
+                "addr:postcode": "30916",
+                "brand": "KFC",
+                "addr:housenumber": "8",
+                "opening_hours": "Su-Th 11:00-22:00",
+                "addr:city": "Isernhagen",
+                "amenity": "fast_food",
+                "addr:street": "Opelstraße",
+                "@id": "way/95130621"
             }
         },
         {
@@ -2298,13 +2304,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "67663",
+                "brand": "KFC",
                 "addr:housenumber": "23a",
                 "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Merkurstraße",
-                "amenity": "fast_food",
                 "addr:city": "Kaiserslautern",
-                "addr:postcode": "67663",
+                "amenity": "fast_food",
+                "addr:street": "Merkurstraße",
                 "@id": "way/102538419"
             }
         },
@@ -2319,11 +2325,11 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "8",
-                "brand": "KFC",
-                "amenity": "fast_food",
-                "addr:city": "Alsfeld",
                 "addr:postcode": "36304",
+                "brand": "KFC",
+                "addr:housenumber": "8",
+                "addr:city": "Alsfeld",
+                "amenity": "fast_food",
                 "@id": "way/102841291"
             }
         },
@@ -2338,12 +2344,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "62",
-                "brand": "KFC",
-                "addr:street": "Siemesdyk",
-                "amenity": "fast_food",
-                "addr:city": "Krefeld",
                 "addr:postcode": "47807",
+                "brand": "KFC",
+                "addr:housenumber": "62",
+                "addr:city": "Krefeld",
+                "amenity": "fast_food",
+                "addr:street": "Siemesdyk",
                 "@id": "way/104297016"
             }
         },
@@ -2358,14 +2364,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "93059",
+                "brand": "KFC",
                 "addr:housenumber": "2",
                 "opening_hours": "Mo-Th 10:00-24:00, Fr-Sa 10:00-01:00, Su 10:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Frankenstraße",
-                "amenity": "fast_food",
                 "addr:city": "Regensburg",
-                "addr:postcode": "93059",
+                "amenity": "fast_food",
+                "addr:street": "Frankenstraße",
+                "drive_through": "yes",
                 "@id": "way/113115302"
             }
         },
@@ -2380,14 +2386,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "21075",
+                "brand": "KFC",
                 "addr:housenumber": "200",
                 "opening_hours": "Mo-Su 11:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Stader Straße",
-                "amenity": "fast_food",
                 "addr:city": "Hamburg",
-                "addr:postcode": "21075",
+                "amenity": "fast_food",
+                "addr:street": "Stader Straße",
+                "drive_through": "yes",
                 "@id": "way/118148869"
             }
         },
@@ -2402,13 +2408,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "13593",
+                "brand": "KFC",
                 "addr:housenumber": "56",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Gatower Straße",
-                "amenity": "fast_food",
                 "addr:city": "Berlin",
-                "addr:postcode": "13593",
+                "amenity": "fast_food",
+                "addr:street": "Gatower Straße",
                 "@id": "way/118387534"
             }
         },
@@ -2439,13 +2445,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "60314",
+                "brand": "KFC",
                 "addr:housenumber": "1",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Hanauer Landstraße",
-                "amenity": "fast_food",
                 "addr:city": "Frankfurt am Main",
-                "addr:postcode": "60314",
+                "amenity": "fast_food",
+                "addr:street": "Hanauer Landstraße",
                 "@id": "way/147949803"
             }
         },
@@ -2460,13 +2466,13 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
-                "addr:housenumber": "1",
-                "brand": "KFC",
-                "addr:street": "Ernst-Reuter-Straße",
-                "amenity": "fast_food",
-                "addr:city": "Hof",
                 "addr:postcode": "95032",
+                "brand": "KFC",
+                "addr:housenumber": "1",
+                "addr:city": "Hof",
+                "amenity": "fast_food",
+                "addr:street": "Ernst-Reuter-Straße",
+                "drive_through": "yes",
                 "@id": "way/151167261"
             }
         },
@@ -2481,14 +2487,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "86165",
+                "brand": "KFC",
                 "addr:housenumber": "119",
                 "opening_hours": "Su-Th 10:00-23:00, Fr-Sa 10:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Derchinger Straße",
-                "amenity": "fast_food",
                 "addr:city": "Augsburg",
-                "addr:postcode": "86165",
+                "amenity": "fast_food",
+                "addr:street": "Derchinger Straße",
+                "drive_through": "yes",
                 "@id": "way/157395987"
             }
         },
@@ -2503,13 +2509,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "50858",
+                "brand": "KFC",
                 "addr:housenumber": "421",
                 "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Dürener Straße",
-                "amenity": "fast_food",
                 "addr:city": "Köln",
-                "addr:postcode": "50858",
+                "amenity": "fast_food",
+                "addr:street": "Dürener Straße",
                 "@id": "way/161241866"
             }
         },
@@ -2524,13 +2530,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "90480",
+                "brand": "KFC",
                 "addr:housenumber": "298",
                 "opening_hours": "Su-Th 10:00-24:00; Fr-Sa 10:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Regensburger Straße",
-                "amenity": "fast_food",
                 "addr:city": "Nürnberg",
-                "addr:postcode": "90480",
+                "amenity": "fast_food",
+                "addr:street": "Regensburger Straße",
                 "@id": "way/165184798"
             }
         },
@@ -2545,14 +2551,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "70327",
+                "brand": "KFC",
                 "addr:housenumber": "203",
                 "opening_hours": "Su-Th,PH 11:00-23:00; Fr-Sa 11:00-02:00",
-                "brand": "KFC",
-                "addr:street": "Ulmer Straße",
-                "amenity": "fast_food",
                 "addr:city": "Stuttgart",
-                "addr:postcode": "70327",
+                "amenity": "fast_food",
+                "addr:street": "Ulmer Straße",
+                "drive_through": "yes",
                 "@id": "way/168821356"
             }
         },
@@ -2567,15 +2573,15 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "38112",
+                "brand": "KFC",
                 "addr:housenumber": "83",
                 "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Hansestraße",
-                "amenity": "fast_food",
-                "contact:website": "http://www.kfc.de/content/braunschweig-hansestr-83",
+                "contact:website": "https://www.kfc.de/find-a-kfc/kfc-braunschweig-hansestr-83",
                 "addr:city": "Braunschweig",
-                "addr:postcode": "38112",
+                "amenity": "fast_food",
+                "addr:street": "Hansestraße",
+                "drive_through": "yes",
                 "@id": "way/173390233"
             }
         },
@@ -2590,14 +2596,14 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "28816",
+                "brand": "KFC",
                 "addr:housenumber": "240",
                 "opening_hours": "Mo-Su 10:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Delmenhorster Straße",
-                "amenity": "fast_food",
                 "contact:website": "http://www.kfc.de/content/stuhr-delmenhorster-str-240",
                 "addr:city": "Stuhr",
-                "addr:postcode": "28816",
+                "amenity": "fast_food",
+                "addr:street": "Delmenhorster Straße",
                 "@id": "way/182758358"
             }
         },
@@ -2612,14 +2618,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "68165",
+                "brand": "KFC",
                 "addr:housenumber": "3",
                 "opening_hours": "Mo-Th 10:30-24:00; Fr-Sa 10:30-01:00; Su 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Möhlstraße",
-                "amenity": "fast_food",
                 "addr:city": "Mannheim",
-                "addr:postcode": "68165",
+                "amenity": "fast_food",
+                "addr:street": "Möhlstraße",
+                "drive_through": "yes",
                 "@id": "way/182972402"
             }
         },
@@ -2634,13 +2640,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "96103",
+                "brand": "KFC",
                 "addr:housenumber": "37",
                 "opening_hours": "Su-Th 10:30-23:00; Fr, Sa 10:30-24:00",
-                "brand": "KFC",
-                "addr:street": "Laubanger",
-                "amenity": "fast_food",
                 "addr:city": "Hallstadt",
-                "addr:postcode": "96103",
+                "amenity": "fast_food",
+                "addr:street": "Laubanger",
                 "@id": "way/196124921"
             }
         },
@@ -2655,13 +2661,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "35394",
+                "brand": "KFC",
                 "addr:housenumber": "109 A",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Schiffenberger Weg",
-                "amenity": "fast_food",
                 "addr:city": "Gießen",
-                "addr:postcode": "35394",
+                "amenity": "fast_food",
+                "addr:street": "Schiffenberger Weg",
                 "@id": "way/196925398"
             }
         },
@@ -2676,14 +2682,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "30890",
+                "brand": "KFC",
                 "addr:housenumber": "1",
                 "opening_hours": "Mo-Th,Su 11:00-23:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Schortenbreite",
-                "amenity": "fast_food",
                 "addr:city": "Barsinghausen",
-                "addr:postcode": "30890",
+                "amenity": "fast_food",
+                "addr:street": "Schortenbreite",
+                "drive_through": "yes",
                 "@id": "way/200198651"
             }
         },
@@ -2698,13 +2704,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "55128",
+                "brand": "KFC",
                 "addr:housenumber": "42",
                 "opening_hours": "Mo-Sa 10:30-00:00; Su 11:00-00:00",
-                "brand": "KFC",
-                "addr:street": "Haifa-Allee",
-                "amenity": "fast_food",
                 "addr:city": "Mainz",
-                "addr:postcode": "55128",
+                "amenity": "fast_food",
+                "addr:street": "Haifa-Allee",
                 "@id": "way/205681216"
             }
         },
@@ -2719,13 +2725,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "55543",
+                "brand": "KFC",
                 "addr:housenumber": "133",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Schwabenheimer Weg",
-                "amenity": "fast_food",
                 "addr:city": "Bad Kreuznach",
-                "addr:postcode": "55543",
+                "amenity": "fast_food",
+                "addr:street": "Schwabenheimer Weg",
                 "@id": "way/210497086"
             }
         },
@@ -2740,13 +2746,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "30519",
+                "brand": "KFC",
                 "addr:housenumber": "418",
                 "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Hildesheimer Straße",
-                "amenity": "fast_food",
                 "addr:city": "Hannover",
-                "addr:postcode": "30519",
+                "amenity": "fast_food",
+                "addr:street": "Hildesheimer Straße",
                 "@id": "way/220526325"
             }
         },
@@ -2761,14 +2767,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "86157",
+                "brand": "KFC",
                 "addr:housenumber": "6",
                 "opening_hours": "Su-Th 10:00-24:00; Fr,Sa 10:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Flandernstraße",
-                "amenity": "fast_food",
                 "addr:city": "Augsburg",
-                "addr:postcode": "86157",
+                "amenity": "fast_food",
+                "addr:street": "Flandernstraße",
+                "drive_through": "yes",
                 "@id": "way/224548475"
             }
         },
@@ -2783,12 +2789,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "1",
-                "brand": "KFC",
-                "addr:street": "Vinzenz-Pallotti-Straße",
-                "amenity": "fast_food",
-                "addr:city": "Limburg a. d. Lahn",
                 "addr:postcode": "65552",
+                "brand": "KFC",
+                "addr:housenumber": "1",
+                "addr:city": "Limburg a. d. Lahn",
+                "amenity": "fast_food",
+                "addr:street": "Vinzenz-Pallotti-Straße",
                 "@id": "way/233304181"
             }
         },
@@ -2803,12 +2809,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "87",
-                "brand": "KFC",
-                "addr:street": "Prenzlauer Promenade",
-                "amenity": "fast_food",
-                "addr:city": "Berlin",
                 "addr:postcode": "13089",
+                "brand": "KFC",
+                "addr:housenumber": "87",
+                "addr:city": "Berlin",
+                "amenity": "fast_food",
+                "addr:street": "Prenzlauer Promenade",
                 "@id": "way/234962912"
             }
         },
@@ -2823,12 +2829,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "9",
-                "brand": "KFC",
-                "addr:street": "Kamen Karree",
-                "amenity": "fast_food",
-                "addr:city": "Kamen",
                 "addr:postcode": "59174",
+                "brand": "KFC",
+                "addr:housenumber": "9",
+                "addr:city": "Kamen",
+                "amenity": "fast_food",
+                "addr:street": "Kamen Karree",
                 "@id": "way/239015072"
             }
         },
@@ -2843,14 +2849,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "65474",
+                "brand": "KFC",
                 "addr:housenumber": "1",
                 "opening_hours": "Su-Thu 10:00-00:00, Fr-Sa 10:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Am Schindberg",
-                "amenity": "fast_food",
                 "addr:city": "Bischofsheim",
-                "addr:postcode": "65474",
+                "amenity": "fast_food",
+                "addr:street": "Am Schindberg",
+                "drive_through": "yes",
                 "@id": "way/244388502"
             }
         },
@@ -2865,13 +2871,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "42781",
+                "brand": "KFC",
                 "addr:housenumber": "58",
                 "opening_hours": "Mo-Fr 11:00-24:00; Sa,Su 00:00-01:00,11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Landstraße",
-                "amenity": "fast_food",
                 "addr:city": "Haan",
-                "addr:postcode": "42781",
+                "amenity": "fast_food",
+                "addr:street": "Landstraße",
                 "@id": "way/253018177"
             }
         },
@@ -2886,8 +2892,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Th 11:00-23:00, Fr-Sa 11:00-01:00, Su 11:00-23:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Th 11:00-23:00, Fr-Sa 11:00-01:00, Su 11:00-23:00",
                 "amenity": "fast_food",
                 "@id": "way/257581969"
             }
@@ -2903,14 +2909,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "56218",
+                "brand": "KFC",
                 "addr:housenumber": "35",
                 "opening_hours": "Mo-Su 11:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Industriestraße",
-                "amenity": "fast_food",
                 "addr:city": "Mülheim-Kärlich",
-                "addr:postcode": "56218",
+                "amenity": "fast_food",
+                "addr:street": "Industriestraße",
+                "drive_through": "yes",
                 "@id": "way/263821576"
             }
         },
@@ -2925,14 +2931,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "30827",
+                "brand": "KFC",
                 "addr:housenumber": "3",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Bauboulevard",
-                "amenity": "fast_food",
                 "addr:city": "Garbsen",
-                "addr:postcode": "30827",
+                "amenity": "fast_food",
+                "addr:street": "Bauboulevard",
+                "drive_through": "yes",
                 "@id": "way/284989534"
             }
         },
@@ -2947,13 +2953,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "67071",
+                "brand": "KFC",
                 "addr:housenumber": "17",
                 "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00; Su 11:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Flomersheimer Straße",
-                "amenity": "fast_food",
                 "addr:city": "Ludwigshafen am Rhein",
-                "addr:postcode": "67071",
+                "amenity": "fast_food",
+                "addr:street": "Flomersheimer Straße",
                 "@id": "way/298171322"
             }
         },
@@ -2968,14 +2974,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "66740",
+                "brand": "KFC",
                 "addr:housenumber": "246",
                 "opening_hours": "Mo-Th 12:00-21:00, Fr 12:00-24:00, Sa 11:00-24:00, Su 12:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Provinzialstraße",
-                "amenity": "fast_food",
                 "addr:city": "Saarlouis",
-                "addr:postcode": "66740",
+                "amenity": "fast_food",
+                "addr:street": "Provinzialstraße",
+                "drive_through": "yes",
                 "@id": "way/307798754"
             }
         },
@@ -2990,12 +2996,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "1",
-                "brand": "KFC",
-                "addr:street": "Im Buttendicksfeld",
-                "amenity": "fast_food",
-                "addr:city": "Wesel",
                 "addr:postcode": "46485",
+                "brand": "KFC",
+                "addr:housenumber": "1",
+                "addr:city": "Wesel",
+                "amenity": "fast_food",
+                "addr:street": "Im Buttendicksfeld",
                 "@id": "way/308648145"
             }
         },
@@ -3010,14 +3016,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "77656",
+                "brand": "KFC",
                 "addr:housenumber": "3",
                 "opening_hours": "Mo-Th 11:00-23:00; Fr-Sa 11:00-24:00, Su,PH 12:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Heinrich-Hertz-Straße",
-                "amenity": "fast_food",
                 "addr:city": "Offenburg",
-                "addr:postcode": "77656",
+                "amenity": "fast_food",
+                "addr:street": "Heinrich-Hertz-Straße",
+                "drive_through": "yes",
                 "@id": "way/311294910"
             }
         },
@@ -3032,13 +3038,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "74523",
+                "brand": "KFC",
                 "addr:housenumber": "151",
                 "opening_hours": "Fr-Sa 11:00-24:00; Su,Mo,Tu,We,Th 11:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Stuttgarter Straße",
-                "amenity": "fast_food",
                 "addr:city": "Schwäbisch Hall",
-                "addr:postcode": "74523",
+                "amenity": "fast_food",
+                "addr:street": "Stuttgarter Straße",
                 "@id": "way/313800496"
             }
         },
@@ -3053,15 +3059,15 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "78224",
+                "brand": "KFC",
                 "addr:housenumber": "3",
                 "opening_hours": "Mo-Th 11:00-23:00; Fr 11:00-01:00, Sa 11:00-01:00, Su 11:00-23:00; PH 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Franz-Sigel-Straße",
-                "amenity": "fast_food",
                 "contact:website": "https://www.kfc.de",
                 "addr:city": "Singen (Hohentwiel)",
-                "addr:postcode": "78224",
+                "amenity": "fast_food",
+                "addr:street": "Franz-Sigel-Straße",
+                "drive_through": "yes",
                 "@id": "way/338170751"
             }
         },
@@ -3076,11 +3082,11 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 10:00-21:00; Su,PH 12:00-20:00",
                 "brand": "KFC",
-                "amenity": "fast_food",
+                "opening_hours": "Mo-Sa 10:00-21:00; Su,PH 12:00-20:00",
                 "contact:website": "http://www.kfc.de/",
                 "addr:city": "Bremen",
+                "amenity": "fast_food",
                 "@id": "way/373751704"
             }
         },
@@ -3095,15 +3101,15 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "53879",
+                "brand": "KFC",
                 "addr:housenumber": "1",
                 "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Albert-Latz-Straße",
-                "amenity": "fast_food",
                 "contact:website": "http://www.kfc.de/",
                 "addr:city": "Euskirchen",
-                "addr:postcode": "53879",
+                "amenity": "fast_food",
+                "addr:street": "Albert-Latz-Straße",
+                "drive_through": "yes",
                 "@id": "way/373786359"
             }
         },
@@ -3118,13 +3124,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "38165",
+                "brand": "KFC",
                 "addr:housenumber": "2a",
                 "opening_hours": "Su-Th 10:30-24:00; Fr-Sa 10:30-01:00",
-                "brand": "KFC",
-                "addr:street": "In den Lohbalken",
-                "amenity": "fast_food",
                 "addr:city": "Lehre",
-                "addr:postcode": "38165",
+                "amenity": "fast_food",
+                "addr:street": "In den Lohbalken",
                 "@id": "way/384162661"
             }
         },
@@ -3139,15 +3145,15 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "71332",
+                "brand": "KFC",
                 "addr:housenumber": "131",
                 "opening_hours": "Mo-Fr 10:30-24:00; Sa,Su 00:00-01:00,10:30-24:00",
-                "brand": "KFC",
-                "addr:street": "Stuttgarter Straße",
-                "amenity": "fast_food",
                 "contact:website": "http://www.kfc.de",
                 "addr:city": "Waiblingen",
-                "addr:postcode": "71332",
+                "amenity": "fast_food",
+                "addr:street": "Stuttgarter Straße",
+                "drive_through": "yes",
                 "@id": "way/384840458"
             }
         },
@@ -3162,12 +3168,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "1",
-                "brand": "KFC",
-                "addr:street": "Auf den Lüppen",
-                "amenity": "fast_food",
-                "addr:city": "Herborn",
                 "addr:postcode": "35745",
+                "brand": "KFC",
+                "addr:housenumber": "1",
+                "addr:city": "Herborn",
+                "amenity": "fast_food",
+                "addr:street": "Auf den Lüppen",
                 "@id": "way/399306270"
             }
         },
@@ -3182,14 +3188,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "34302",
+                "brand": "KFC",
                 "addr:housenumber": "8",
                 "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Robert-Bosch-Straße",
-                "amenity": "fast_food",
                 "addr:city": "Guxhagen",
-                "addr:postcode": "34302",
+                "amenity": "fast_food",
+                "addr:street": "Robert-Bosch-Straße",
+                "drive_through": "yes",
                 "@id": "way/404729414"
             }
         },
@@ -3204,14 +3210,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "04356",
+                "brand": "KFC",
                 "addr:housenumber": "10",
                 "opening_hours": "Su-Th 10:00-23:00, Fr-Sa 10:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Alte Dübener Landstraße",
-                "amenity": "fast_food",
                 "addr:city": "Leipzig",
-                "addr:postcode": "04356",
+                "amenity": "fast_food",
+                "addr:street": "Alte Dübener Landstraße",
+                "drive_through": "yes",
                 "@id": "way/408466912"
             }
         },
@@ -3226,10 +3232,10 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
-                "opening_hours": "Mo-Su 10:00-23:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Su 10:00-23:00",
                 "amenity": "fast_food",
+                "drive_through": "no",
                 "@id": "way/413253133"
             }
         },
@@ -3244,13 +3250,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "74172",
+                "brand": "KFC",
                 "addr:housenumber": "5",
                 "opening_hours": "Su-Th,PH 10:30-23:00, Fr,Sa 10:30-01:00",
-                "brand": "KFC",
-                "addr:street": "Im Klauenfuß",
-                "amenity": "fast_food",
                 "addr:city": "Neckarsulm",
-                "addr:postcode": "74172",
+                "amenity": "fast_food",
+                "addr:street": "Im Klauenfuß",
                 "@id": "way/428714354"
             }
         },
@@ -3265,13 +3271,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "90443",
+                "brand": "KFC",
                 "addr:housenumber": "9",
                 "opening_hours": "Su-Th 09:00-24:00; Fr-Sa 09:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Bahnhofsplatz",
-                "amenity": "fast_food",
                 "addr:city": "Nürnberg",
-                "addr:postcode": "90443",
+                "amenity": "fast_food",
+                "addr:street": "Bahnhofsplatz",
                 "@id": "way/432144616"
             }
         },
@@ -3286,13 +3292,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "30159",
+                "brand": "KFC",
                 "addr:housenumber": "25",
                 "opening_hours": "Mo-Th 10:00-23:00; Fr, Sa 10:00-24:00; Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Niki-de-Saint-Phalle-Promenade",
-                "amenity": "fast_food",
                 "addr:city": "Hannover",
-                "addr:postcode": "30159",
+                "amenity": "fast_food",
+                "addr:street": "Niki-de-Saint-Phalle-Promenade",
                 "@id": "way/436076595"
             }
         },
@@ -3307,10 +3313,10 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
-                "opening_hours": "Su-Th 10:00-23:00; Fr,Sa 10:00-24:00",
                 "brand": "KFC",
+                "opening_hours": "Su-Th 10:00-23:00; Fr,Sa 10:00-24:00",
                 "amenity": "fast_food",
+                "drive_through": "no",
                 "@id": "way/440792261"
             }
         },
@@ -3325,13 +3331,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "18182",
+                "brand": "KFC",
                 "addr:housenumber": "50",
                 "opening_hours": "Mo-Su 11:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Hansestraße",
-                "amenity": "fast_food",
                 "addr:city": "Bentwisch",
-                "addr:postcode": "18182",
+                "amenity": "fast_food",
+                "addr:street": "Hansestraße",
                 "@id": "way/447743967"
             }
         },
@@ -3362,13 +3368,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "44145",
+                "brand": "KFC",
                 "addr:housenumber": "207",
                 "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Bornstraße",
-                "amenity": "fast_food",
                 "addr:city": "Dortmund",
-                "addr:postcode": "44145",
+                "amenity": "fast_food",
+                "addr:street": "Bornstraße",
                 "@id": "way/469667970"
             }
         },
@@ -3383,14 +3389,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "96160",
+                "brand": "KFC",
                 "addr:housenumber": "17",
                 "opening_hours": "Mo-Su 09:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Scheinfelder Straße",
-                "amenity": "fast_food",
                 "addr:city": "Geiselwind",
-                "addr:postcode": "96160",
+                "amenity": "fast_food",
+                "addr:street": "Scheinfelder Straße",
+                "drive_through": "yes",
                 "@id": "way/477461962"
             }
         },
@@ -3405,10 +3411,10 @@
                 ]
             },
             "properties": {
-                "drive_through": "no",
-                "opening_hours": "Su-Th 10:00-24:00, Fr,Sa 10:00-03:00",
                 "brand": "KFC",
+                "opening_hours": "Su-Th 10:00-24:00, Fr,Sa 10:00-03:00",
                 "amenity": "fast_food",
+                "drive_through": "no",
                 "@id": "way/490414547"
             }
         },
@@ -3423,14 +3429,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "74889",
+                "brand": "KFC",
                 "addr:housenumber": "29",
                 "opening_hours": "Mo-Su,PH 10:30-24:00",
-                "brand": "KFC",
-                "addr:street": "Neulandstraße",
-                "amenity": "fast_food",
                 "addr:city": "Sinsheim",
-                "addr:postcode": "74889",
+                "amenity": "fast_food",
+                "addr:street": "Neulandstraße",
+                "drive_through": "yes",
                 "@id": "way/513157507"
             }
         },
@@ -3445,13 +3451,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "44787",
+                "brand": "KFC",
                 "addr:housenumber": "13-15",
                 "opening_hours": "Su-Th 11:00-23:00; Fr,Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Kurt-Schumacher-Platz",
-                "amenity": "fast_food",
                 "addr:city": "Bochum",
-                "addr:postcode": "44787",
+                "amenity": "fast_food",
+                "addr:street": "Kurt-Schumacher-Platz",
                 "@id": "way/513945813"
             }
         },
@@ -3466,14 +3472,14 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "56424",
+                "brand": "KFC",
                 "addr:housenumber": "6",
                 "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Im Reimersheck",
-                "amenity": "fast_food",
                 "contact:website": "https://www.kfc.de",
                 "addr:city": "Mogendorf",
-                "addr:postcode": "56424",
+                "amenity": "fast_food",
+                "addr:street": "Im Reimersheck",
                 "@id": "way/532752643"
             }
         },
@@ -3488,8 +3494,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Su 10:00-22:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Su 10:00-22:00",
                 "amenity": "fast_food",
                 "@id": "way/539248516"
             }
@@ -3505,10 +3511,10 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
-                "opening_hours": "Mo-Su 10:00-23:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Su 10:00-23:00",
                 "amenity": "fast_food",
+                "drive_through": "yes",
                 "@id": "way/548586657"
             }
         },
@@ -3523,11 +3529,11 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "6",
                 "brand": "KFC",
-                "addr:street": "Julius-Moser-Straße",
-                "amenity": "fast_food",
+                "addr:housenumber": "6",
                 "addr:city": "Pforzheim",
+                "amenity": "fast_food",
+                "addr:street": "Julius-Moser-Straße",
                 "@id": "way/571829429"
             }
         },
@@ -3542,14 +3548,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "36124",
+                "brand": "KFC",
                 "addr:housenumber": "3",
                 "opening_hours": "10:00-23:00; Fr,Sa 10:00-00:00",
-                "brand": "KFC",
-                "addr:street": "Rhönhof",
-                "amenity": "fast_food",
                 "addr:city": "Eichenzell",
-                "addr:postcode": "36124",
+                "amenity": "fast_food",
+                "addr:street": "Rhönhof",
+                "drive_through": "yes",
                 "@id": "way/593751583"
             }
         },
@@ -3564,8 +3570,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Su-Th 11:00-22:30, Fr,Sa 11:00-24:00",
                 "brand": "KFC",
+                "opening_hours": "Su-Th 11:00-22:30, Fr,Sa 11:00-24:00",
                 "amenity": "fast_food",
                 "@id": "way/634421168"
             }
@@ -3581,10 +3587,10 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Su-Th 10:00-23:00, Fr,Sa 10:00-02:00",
                 "brand": "KFC",
-                "amenity": "fast_food",
+                "opening_hours": "Su-Th 10:00-23:00, Fr,Sa 10:00-02:00",
                 "addr:city": "Hamburg",
+                "amenity": "fast_food",
                 "@id": "way/733736739"
             }
         },
@@ -3599,14 +3605,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "78052",
+                "brand": "KFC",
                 "addr:housenumber": "2",
                 "opening_hours": "11:00-23:00; Fr,Sa 11:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Nunnensteig",
-                "amenity": "fast_food",
                 "addr:city": "Villingen-Schwenningen",
-                "addr:postcode": "78052",
+                "amenity": "fast_food",
+                "addr:street": "Nunnensteig",
+                "drive_through": "yes",
                 "@id": "way/743728551"
             }
         },
@@ -3621,13 +3627,13 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "brand": "KFC",
                 "addr:housenumber": "6A",
                 "opening_hours": "Mo-Su 11:00-23:00; Fr,Sa 11:00-24:00",
-                "brand": "KFC",
-                "addr:street": "Schönauer Straße",
-                "amenity": "fast_food",
                 "addr:city": "Worms",
+                "amenity": "fast_food",
+                "addr:street": "Schönauer Straße",
+                "drive_through": "yes",
                 "@id": "way/765031915"
             }
         },
@@ -3642,12 +3648,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "99",
-                "brand": "KFC",
-                "addr:street": "Pippinger Straße",
-                "amenity": "fast_food",
-                "addr:city": "München",
                 "addr:postcode": "81247",
+                "brand": "KFC",
+                "addr:housenumber": "99",
+                "addr:city": "München",
+                "amenity": "fast_food",
+                "addr:street": "Pippinger Straße",
                 "@id": "way/785155452"
             }
         },
@@ -3662,13 +3668,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "85301",
+                "brand": "KFC",
                 "addr:housenumber": "7b",
                 "opening_hours": "Mo-Fr 11:00-24:00; Sa,Su 10:30-24:00",
-                "brand": "KFC",
-                "addr:street": "Robert-Koch-Straße",
-                "amenity": "fast_food",
                 "addr:city": "Schweitenkirchen",
-                "addr:postcode": "85301",
+                "amenity": "fast_food",
+                "addr:street": "Robert-Koch-Straße",
                 "@id": "way/833428808"
             }
         },
@@ -3683,14 +3689,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "55444",
+                "brand": "KFC",
                 "addr:housenumber": "17",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Lohrgraben",
-                "amenity": "fast_food",
                 "addr:city": "Waldlaubersheim",
-                "addr:postcode": "55444",
+                "amenity": "fast_food",
+                "addr:street": "Lohrgraben",
+                "drive_through": "yes",
                 "@id": "way/877949141"
             }
         },
@@ -3705,8 +3711,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
                 "brand": "KFC",
+                "opening_hours": "Mo-Sa 10:00-20:00; Su,PH off",
                 "amenity": "fast_food",
                 "@id": "way/910156677"
             }
@@ -3722,12 +3728,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "8",
-                "brand": "KFC",
-                "addr:street": "Am Lerchenfeld",
-                "amenity": "fast_food",
-                "addr:city": "Vaterstetten",
                 "addr:postcode": "85599",
+                "brand": "KFC",
+                "addr:housenumber": "8",
+                "addr:city": "Vaterstetten",
+                "amenity": "fast_food",
+                "addr:street": "Am Lerchenfeld",
                 "@id": "way/955074959"
             }
         },
@@ -3742,14 +3748,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "25813",
+                "brand": "KFC",
                 "addr:housenumber": "28a",
                 "opening_hours": "Su-Th 10:30-24:00; Fr,Sa 10:30-01:00",
-                "brand": "KFC",
-                "addr:street": "Robert-Koch-Straße",
-                "amenity": "fast_food",
                 "addr:city": "Husum",
-                "addr:postcode": "25813",
+                "amenity": "fast_food",
+                "addr:street": "Robert-Koch-Straße",
+                "drive_through": "yes",
                 "@id": "way/1008840829"
             }
         },
@@ -3764,14 +3770,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "66538",
+                "brand": "KFC",
                 "addr:housenumber": "2a",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Westspange",
-                "amenity": "fast_food",
                 "addr:city": "Neunkirchen",
-                "addr:postcode": "66538",
+                "amenity": "fast_food",
+                "addr:street": "Westspange",
+                "drive_through": "yes",
                 "@id": "way/1013850631"
             }
         },
@@ -3786,14 +3792,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "96450",
+                "brand": "KFC",
                 "addr:housenumber": "16",
                 "opening_hours": "Mo-Su 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Niorter Straße",
-                "amenity": "fast_food",
                 "addr:city": "Coburg",
-                "addr:postcode": "96450",
+                "amenity": "fast_food",
+                "addr:street": "Niorter Straße",
+                "drive_through": "yes",
                 "@id": "way/1013857880"
             }
         },
@@ -3824,8 +3830,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Su 11:00-23:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Su 11:00-23:00",
                 "amenity": "fast_food",
                 "@id": "way/1029952969"
             }
@@ -3841,13 +3847,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "47533",
+                "brand": "KFC",
                 "addr:housenumber": "5",
                 "opening_hours": "11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Klever Ring",
-                "amenity": "fast_food",
                 "addr:city": "Kleve",
-                "addr:postcode": "47533",
+                "amenity": "fast_food",
+                "addr:street": "Klever Ring",
                 "@id": "way/1030993822"
             }
         },
@@ -3878,8 +3884,8 @@
                 ]
             },
             "properties": {
-                "opening_hours": "Mo-Sa 10:00-20:00",
                 "brand": "KFC",
+                "opening_hours": "Mo-Sa 10:00-20:00",
                 "amenity": "fast_food",
                 "@id": "way/1110796943"
             }
@@ -3895,14 +3901,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "72800",
+                "brand": "KFC",
                 "addr:housenumber": "143",
                 "opening_hours": "Mo-Th 11:00-00:00; Fr 11:00-01:00; Sa 11:00-01:00; Su 11:00-00:00; PH 11:00-00:00",
-                "brand": "KFC",
-                "addr:street": "Reutlinger Straße",
-                "amenity": "fast_food",
                 "addr:city": "Eningen unter Achalm",
-                "addr:postcode": "72800",
+                "amenity": "fast_food",
+                "addr:street": "Reutlinger Straße",
+                "drive_through": "yes",
                 "@id": "way/1117329048"
             }
         },
@@ -3917,13 +3923,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "87700",
+                "brand": "KFC",
                 "addr:housenumber": "6",
                 "opening_hours": "Su-Th 11:00-23:00; Fr-Sa 11:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Dr.-Karl-Lenz-Straße",
-                "amenity": "fast_food",
                 "addr:city": "Memmingen",
-                "addr:postcode": "87700",
+                "amenity": "fast_food",
+                "addr:street": "Dr.-Karl-Lenz-Straße",
                 "@id": "way/1202408909"
             }
         },
@@ -3938,14 +3944,14 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "83026",
+                "brand": "KFC",
                 "addr:housenumber": "71",
                 "opening_hours": "Su-Th 10:00-24:00; Fr-Sa 10:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Kufsteiner Straße",
-                "amenity": "fast_food",
                 "addr:city": "Rosenheim",
-                "addr:postcode": "83026",
+                "amenity": "fast_food",
+                "addr:street": "Kufsteiner Straße",
+                "drive_through": "yes",
                 "@id": "way/1352634203"
             }
         },
@@ -3960,12 +3966,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "4",
-                "brand": "KFC",
-                "addr:street": "Haydnstraße",
-                "amenity": "fast_food",
-                "addr:city": "Chemnitz",
                 "addr:postcode": "09247",
+                "brand": "KFC",
+                "addr:housenumber": "4",
+                "addr:city": "Chemnitz",
+                "amenity": "fast_food",
+                "addr:street": "Haydnstraße",
                 "@id": "way/1364237052"
             }
         },
@@ -3996,36 +4002,15 @@
                 ]
             },
             "properties": {
-                "drive_through": "yes",
+                "addr:postcode": "73037",
+                "brand": "KFC",
                 "addr:housenumber": "2",
                 "opening_hours": "Su-Tu,Th 11:00-23:00; We 12:00-20:00; Fr,Sa 11:00-01:00",
-                "brand": "KFC",
-                "addr:street": "Reutlinger Straße",
-                "amenity": "fast_food",
                 "addr:city": "Göppingen",
-                "addr:postcode": "73037",
-                "@id": "way/1415949392"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": "way/1421594529",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    9.837174,
-                    52.424057
-                ]
-            },
-            "properties": {
-                "addr:housenumber": "8",
-                "opening_hours": "Su-Th 11:00-22:00",
-                "brand": "KFC",
-                "addr:street": "Opelstraße",
                 "amenity": "fast_food",
-                "addr:city": "Isernhagen",
-                "addr:postcode": "30916",
-                "@id": "way/1421594529"
+                "addr:street": "Reutlinger Straße",
+                "drive_through": "yes",
+                "@id": "way/1415949392"
             }
         },
         {
@@ -4039,12 +4024,12 @@
                 ]
             },
             "properties": {
-                "addr:housenumber": "36",
-                "brand": "KFC",
-                "addr:street": "Pulverhausstraße",
-                "amenity": "fast_food",
-                "addr:city": "Karlsruhe",
                 "addr:postcode": "76135",
+                "brand": "KFC",
+                "addr:housenumber": "36",
+                "addr:city": "Karlsruhe",
+                "amenity": "fast_food",
+                "addr:street": "Pulverhausstraße",
                 "@id": "way/1423291887"
             }
         },
@@ -4059,13 +4044,13 @@
                 ]
             },
             "properties": {
+                "addr:postcode": "66111",
+                "brand": "KFC",
                 "addr:housenumber": "6-12",
                 "opening_hours": "Mo-Th,Su 11:00-22:00; Fr-Sa 11:00-23:00",
-                "brand": "KFC",
-                "addr:street": "Am Hauptbahnhof",
-                "amenity": "fast_food",
                 "addr:city": "Saarbrücken",
-                "addr:postcode": "66111",
+                "amenity": "fast_food",
+                "addr:street": "Am Hauptbahnhof",
                 "@id": "relation/7204190"
             }
         }
