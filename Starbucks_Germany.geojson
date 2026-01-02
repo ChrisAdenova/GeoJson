@@ -12,9 +12,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-19:30",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:00-19:30",
+                "brand": "Starbucks",
                 "@id": "node/66917199"
             }
         },
@@ -29,13 +29,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "10117",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "4A",
-                "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-21:00",
-                "addr:city": "Berlin",
-                "amenity": "cafe",
                 "addr:street": "Pariser Platz",
+                "addr:postcode": "10117",
+                "addr:city": "Berlin",
                 "@id": "node/66917229"
             }
         },
@@ -50,13 +50,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "10117",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-19:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "61",
-                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:00-19:00",
-                "addr:city": "Berlin",
-                "amenity": "cafe",
                 "addr:street": "Friedrichstraße",
+                "addr:postcode": "10117",
+                "addr:city": "Berlin",
                 "@id": "node/87040343"
             }
         },
@@ -71,14 +71,14 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "44787",
-                "brand": "Starbucks",
-                "addr:housenumber": "7",
+                "amenity": "cafe",
                 "opening_hours": "Mo-Fr 07:00-20:30; Fr-Su,PH 08:00-20:30",
                 "contact:website": "https://www.starbucks.de/store-locator/store/1018854/dr-ruer-platz-dr-ruer-platz-6-7-bochum-nw-44787-de",
-                "addr:city": "Bochum",
-                "amenity": "cafe",
+                "brand": "Starbucks",
+                "addr:housenumber": "7",
                 "addr:street": "Dr.-Ruer-Platz",
+                "addr:postcode": "44787",
+                "addr:city": "Bochum",
                 "@id": "node/270140640"
             }
         },
@@ -93,13 +93,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "80802",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Th 06:30-21:30; Fr 06:30-22:00; Sa 08:00-22:00; Su,PH 08:00-21:30",
                 "brand": "Starbucks",
                 "addr:housenumber": "56",
-                "opening_hours": "Mo-Th 06:30-21:30; Fr 06:30-22:00; Sa 08:00-22:00; Su,PH 08:00-21:30",
-                "addr:city": "München",
-                "amenity": "cafe",
                 "addr:street": "Leopoldstraße",
+                "addr:postcode": "80802",
+                "addr:city": "München",
                 "@id": "node/272529037"
             }
         },
@@ -114,13 +114,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "80539",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Th 07:00-21:00; Fr 07:00-22:00; Sa 08:00-21:00; Su,PH 08:30-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "15",
-                "opening_hours": "Mo-Th 07:00-21:00; Fr 07:00-22:00; Sa 08:00-21:00; Su,PH 08:30-21:00",
-                "addr:city": "München",
-                "amenity": "cafe",
                 "addr:street": "Odeonsplatz",
+                "addr:postcode": "80539",
+                "addr:city": "München",
                 "@id": "node/276909580"
             }
         },
@@ -135,13 +135,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "53111",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 11:00-19:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "21",
-                "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 11:00-19:00",
-                "addr:city": "Bonn",
-                "amenity": "cafe",
                 "addr:street": "Münsterplatz",
+                "addr:postcode": "53111",
+                "addr:city": "Bonn",
                 "@id": "node/302080713"
             }
         },
@@ -156,13 +156,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "90403",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Su 08:00-20:30",
                 "brand": "Starbucks",
                 "addr:housenumber": "1",
-                "opening_hours": "Mo-Su 08:00-20:30",
-                "addr:city": "Nürnberg",
-                "amenity": "cafe",
                 "addr:street": "Hauptmarkt",
+                "addr:postcode": "90403",
+                "addr:city": "Nürnberg",
                 "@id": "node/308989411"
             }
         },
@@ -177,9 +177,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:30-21:00; Su,PH 10:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:30-21:00; Su,PH 10:00-20:00",
+                "brand": "Starbucks",
                 "@id": "node/359862708"
             }
         },
@@ -194,11 +194,11 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "79098",
-                "brand": "Starbucks",
+                "amenity": "cafe",
                 "opening_hours": "Mo-Fr 07:00-20:30; Sa 08:00-21:00; Su 10:00-19:00; PH 10:00-19:00",
                 "contact:website": "http://www.starbucks.de",
-                "amenity": "cafe",
+                "brand": "Starbucks",
+                "addr:postcode": "79098",
                 "@id": "node/367146906"
             }
         },
@@ -213,10 +213,10 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Su 10:00-21:00; Mo-Fr 07:30-21:00; Sa 09:00-21:00; PH 10:00-18:00",
-                "addr:city": "Dortmund",
                 "amenity": "cafe",
+                "opening_hours": "Su 10:00-21:00; Mo-Fr 07:30-21:00; Sa 09:00-21:00; PH 10:00-18:00",
+                "brand": "Starbucks",
+                "addr:city": "Dortmund",
                 "@id": "node/370046297"
             }
         },
@@ -231,9 +231,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "24/7",
                 "amenity": "cafe",
+                "opening_hours": "24/7",
+                "brand": "Starbucks",
                 "@id": "node/399216246"
             }
         },
@@ -248,13 +248,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "50672",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "72",
-                "opening_hours": "Mo-Sa 07:00-21:00; Su 09:00-21:00",
-                "addr:city": "Köln",
-                "amenity": "cafe",
                 "addr:street": "Hohenzollernring",
+                "addr:postcode": "50672",
+                "addr:city": "Köln",
                 "@id": "node/412645535"
             }
         },
@@ -269,9 +269,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su,PH 06:00-21:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su,PH 06:00-21:00",
+                "brand": "Starbucks",
                 "@id": "node/414896587"
             }
         },
@@ -286,9 +286,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su 12:00-18:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa,Su 12:00-18:00",
+                "brand": "Starbucks",
                 "@id": "node/473017200"
             }
         },
@@ -303,13 +303,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "01069",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:30-21:00; Sa 09:00-21:00; Su,PH 09:00-20:30; Dec 24 07:30-17:00; Dec 25,Dec 26 10:00-17:00; Dec 31 07:30-19:00; Jan 01 10:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "15",
-                "opening_hours": "Mo-Fr 08:30-21:00; Sa 09:00-21:00; Su,PH 09:00-20:30; Dec 24 07:30-17:00; Dec 25,Dec 26 10:00-17:00; Dec 31 07:30-19:00; Jan 01 10:00-20:00",
-                "addr:city": "Dresden",
-                "amenity": "cafe",
                 "addr:street": "Prager Straße",
+                "addr:postcode": "01069",
+                "addr:city": "Dresden",
                 "@id": "node/506178240"
             }
         },
@@ -324,9 +324,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 08:30-19:00; PH 10:00-18:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-19:00; Sa,Su 08:30-19:00; PH 10:00-18:00",
+                "brand": "Starbucks",
                 "@id": "node/510617252"
             }
         },
@@ -341,8 +341,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/578649519"
             }
         },
@@ -357,9 +357,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:30-21:00; Su 09:30-19:30",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:30-20:00; Sa 08:30-21:00; Su 09:30-19:30",
+                "brand": "Starbucks",
                 "drive_through": "no",
                 "@id": "node/599314036"
             }
@@ -375,8 +375,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/635884679"
             }
         },
@@ -391,13 +391,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "60439",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 09:00-20:30",
                 "brand": "Starbucks",
                 "addr:housenumber": "8",
-                "opening_hours": "Mo-Sa 09:00-20:30",
-                "addr:city": "Frankfurt am Main",
-                "amenity": "cafe",
                 "addr:street": "Limescorso",
+                "addr:postcode": "60439",
+                "addr:city": "Frankfurt am Main",
                 "@id": "node/664298649"
             }
         },
@@ -412,13 +412,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "64283",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-21:30; Sa 08:30-21:30; Su,PH 11:00-18:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "4",
-                "opening_hours": "Mo-Th 07:00-19:00; Fr 07:00-21:30; Sa 08:30-21:30; Su,PH 11:00-18:00",
-                "addr:city": "Darmstadt",
-                "amenity": "cafe",
                 "addr:street": "Luisenplatz",
+                "addr:postcode": "64283",
+                "addr:city": "Darmstadt",
                 "@id": "node/674447564"
             }
         },
@@ -433,14 +433,14 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "80331",
-                "brand": "Starbucks",
-                "addr:housenumber": "7",
+                "amenity": "cafe",
                 "opening_hours": "Mo-Fr 07:00-19:00; Sa 08:30-21:00; Su 10:00-19:00",
                 "contact:website": "https://www.starbucks.de/",
-                "addr:city": "München",
-                "amenity": "cafe",
+                "brand": "Starbucks",
+                "addr:housenumber": "7",
                 "addr:street": "Rosental",
+                "addr:postcode": "80331",
+                "addr:city": "München",
                 "@id": "node/701541172"
             }
         },
@@ -455,13 +455,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "90402",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:00-20:00; PH,Su 10:30-17:30",
                 "brand": "Starbucks",
                 "addr:housenumber": "41",
-                "opening_hours": "Mo-Sa 08:00-20:00; PH,Su 10:30-17:30",
-                "addr:city": "Nürnberg",
-                "amenity": "cafe",
                 "addr:street": "Breite Gasse",
+                "addr:postcode": "90402",
+                "addr:city": "Nürnberg",
                 "@id": "node/725550796"
             }
         },
@@ -476,13 +476,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "90402",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Th 07:30-20:30; Fr,Sa 07:30-21:00; Su,PH 11:30-19:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "12",
-                "opening_hours": "Mo-Th 07:30-20:30; Fr,Sa 07:30-21:00; Su,PH 11:30-19:00",
-                "addr:city": "Nürnberg",
-                "amenity": "cafe",
                 "addr:street": "Karolinenstraße",
+                "addr:postcode": "90402",
+                "addr:city": "Nürnberg",
                 "@id": "node/792640022"
             }
         },
@@ -497,9 +497,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su,PH 06:00-21:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su,PH 06:00-21:00",
+                "brand": "Starbucks",
                 "@id": "node/818639212"
             }
         },
@@ -514,9 +514,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 10:30-18:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 10:30-18:00",
+                "brand": "Starbucks",
                 "@id": "node/846974057"
             }
         },
@@ -531,12 +531,12 @@
                 ]
             },
             "properties": {
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:00-22:00; Su 10:00-21:00; PH 10:00-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "28",
-                "opening_hours": "Mo-Sa 08:00-22:00; Su 10:00-21:00; PH 10:00-21:00",
-                "addr:city": "Stuttgart",
-                "amenity": "cafe",
                 "addr:street": "Königstraße",
+                "addr:city": "Stuttgart",
                 "@id": "node/905750369"
             }
         },
@@ -551,9 +551,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 08:00-20:30; PH,Su 10:00-19:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:00-20:30; PH,Su 10:00-19:00",
+                "brand": "Starbucks",
                 "@id": "node/911019620"
             }
         },
@@ -568,13 +568,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "01067",
+                "amenity": "cafe",
+                "opening_hours": "08:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "7",
-                "opening_hours": "08:00-20:00",
-                "addr:city": "Dresden",
-                "amenity": "cafe",
                 "addr:street": "Altmarkt",
+                "addr:postcode": "01067",
+                "addr:city": "Dresden",
                 "@id": "node/915299603"
             }
         },
@@ -589,9 +589,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 07:00-21:00, Su,PH 08:30-19:30, Sa 07:30-21:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 07:00-21:00, Su,PH 08:30-19:30, Sa 07:30-21:00",
+                "brand": "Starbucks",
                 "@id": "node/921135566"
             }
         },
@@ -606,13 +606,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "70173",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 07:00-22:00; Su,PH 10:00-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "44",
-                "opening_hours": "Mo-Sa 07:00-22:00; Su,PH 10:00-21:00",
-                "addr:city": "Stuttgart",
-                "amenity": "cafe",
                 "addr:street": "Königstraße",
+                "addr:postcode": "70173",
+                "addr:city": "Stuttgart",
                 "@id": "node/934145237"
             }
         },
@@ -627,12 +627,12 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "65843",
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-22:00",
-                "addr:city": "Sulzbach (Taunus)",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-22:00",
+                "brand": "Starbucks",
                 "addr:street": "Main-Taunus-Zentrum",
+                "addr:postcode": "65843",
+                "addr:city": "Sulzbach (Taunus)",
                 "@id": "node/964653356"
             }
         },
@@ -647,13 +647,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "10178",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 08:30-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "3",
-                "opening_hours": "Mo-Fr 07:30-21:00; Sa-Su 08:30-21:00",
-                "addr:city": "Berlin",
-                "amenity": "cafe",
                 "addr:street": "Neue Promenade",
+                "addr:postcode": "10178",
+                "addr:city": "Berlin",
                 "@id": "node/975312193"
             }
         },
@@ -668,13 +668,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "33602",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 07:30-21:00; Su 10:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "41",
-                "opening_hours": "Mo-Sa 07:30-21:00; Su 10:00-20:00",
-                "addr:city": "Bielefeld",
-                "amenity": "cafe",
                 "addr:street": "Niedernstraße",
+                "addr:postcode": "33602",
+                "addr:city": "Bielefeld",
                 "@id": "node/1069813904"
             }
         },
@@ -689,9 +689,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su,PH 10:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su,PH 10:00-20:00",
+                "brand": "Starbucks",
                 "@id": "node/1209279036"
             }
         },
@@ -706,9 +706,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Th 06:00-20:30, Fr 06:00-21:00, Sa 07:00-21:00; Su 08:00-21:30; Dec 24 06:00-14:00; Jan 1,Dec 25-26 08:00-19:00; Dec 31 07:00-18:30; Jan 6 08:00-20:30",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Th 06:00-20:30, Fr 06:00-21:00, Sa 07:00-21:00; Su 08:00-21:30; Dec 24 06:00-14:00; Jan 1,Dec 25-26 08:00-19:00; Dec 31 07:00-18:30; Jan 6 08:00-20:30",
+                "brand": "Starbucks",
                 "@id": "node/1273423924"
             }
         },
@@ -723,13 +723,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "60311",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-20:30; Sa 09:00-20:30; Su 09:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "20",
-                "opening_hours": "Mo-Th 07:00-20:00; Fr 07:00-20:30; Sa 09:00-20:30; Su 09:00-20:00",
-                "addr:city": "Frankfurt am Main",
-                "amenity": "cafe",
                 "addr:street": "Kaiserstraße",
+                "addr:postcode": "60311",
+                "addr:city": "Frankfurt am Main",
                 "@id": "node/1333407149"
             }
         },
@@ -744,13 +744,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "50667",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 05:30-22:00; Su,PH 07:00-22:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "11",
-                "opening_hours": "Mo-Sa 05:30-22:00; Su,PH 07:00-22:00",
-                "addr:city": "Köln",
-                "amenity": "cafe",
                 "addr:street": "Trankgasse",
+                "addr:postcode": "50667",
+                "addr:city": "Köln",
                 "@id": "node/1341316048"
             }
         },
@@ -765,13 +765,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "81737",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-20:30; Sa 09:00-20:30; Su,PH 10:00-17:30",
                 "brand": "Starbucks",
                 "addr:housenumber": "6",
-                "opening_hours": "Mo-Fr 07:00-20:30; Sa 09:00-20:30; PH,Su 10:00-17:30",
-                "addr:city": "München",
-                "amenity": "cafe",
                 "addr:street": "Ollenhauerstraße",
+                "addr:postcode": "81737",
+                "addr:city": "München",
                 "@id": "node/1441732624"
             }
         },
@@ -786,13 +786,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "90402",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 10:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "10",
-                "opening_hours": "Mo-Fr 10:00-20:00",
-                "addr:city": "Nürnberg",
-                "amenity": "cafe",
                 "addr:street": "Hefnersplatz",
+                "addr:postcode": "90402",
+                "addr:city": "Nürnberg",
                 "@id": "node/1539266290"
             }
         },
@@ -807,9 +807,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Th 07:30-21:00; Fr-Sa 09:00-23:00; Su 09:00-21:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Th 07:30-21:00; Fr-Sa 09:00-23:00; Su 09:00-21:00",
+                "brand": "Starbucks",
                 "@id": "node/1539815077"
             }
         },
@@ -824,12 +824,12 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "20354",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:30-20:00; Sa 07:30-21:00; Su 08:30-21:00; PH 08:30-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "5",
-                "opening_hours": "Mo-Fr 07:30-20:00; Sa 07:30-21:00; Su 08:30-21:00; PH 08:30-21:00",
-                "amenity": "cafe",
                 "addr:street": "Neuer Jungfernstieg",
+                "addr:postcode": "20354",
                 "@id": "node/1561371106"
             }
         },
@@ -844,13 +844,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "41460",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:00-20:30",
                 "brand": "Starbucks",
                 "addr:housenumber": "2",
-                "opening_hours": "Mo-Sa 08:00-20:30",
-                "addr:city": "Neuss",
-                "amenity": "cafe",
                 "addr:street": "Breslauer Straße",
+                "addr:postcode": "41460",
+                "addr:city": "Neuss",
                 "@id": "node/1577039696"
             }
         },
@@ -865,13 +865,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "53227",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-18:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "149",
-                "opening_hours": "Mo-Fr 08:00-18:00",
-                "addr:city": "Bonn",
-                "amenity": "cafe",
                 "addr:street": "Landgrabenweg",
+                "addr:postcode": "53227",
+                "addr:city": "Bonn",
                 "@id": "node/1580476563"
             }
         },
@@ -886,13 +886,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "06112",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Su 06:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "1",
-                "opening_hours": "Mo-Su 06:00-20:00",
-                "addr:city": "Halle (Saale)",
-                "amenity": "cafe",
                 "addr:street": "Hans-Dietrich-Genscher-Platz",
+                "addr:postcode": "06112",
+                "addr:city": "Halle (Saale)",
                 "@id": "node/1706189129"
             }
         },
@@ -907,11 +907,11 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "60549",
-                "brand": "Starbucks",
-                "opening_hours": "24/7",
-                "addr:city": "Frankfurt am Main",
                 "amenity": "cafe",
+                "opening_hours": "24/7",
+                "brand": "Starbucks",
+                "addr:postcode": "60549",
+                "addr:city": "Frankfurt am Main",
                 "@id": "node/1859967243"
             }
         },
@@ -926,13 +926,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "10719",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:30-21:00; Sa 08:30-22:00; Su 09:00-19:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "231",
-                "opening_hours": "Mo-Fr 07:30-21:00; Sa 08:30-22:00; Su 09:00-19:00",
-                "addr:city": "Berlin",
-                "amenity": "cafe",
                 "addr:street": "Kurfürstendamm",
+                "addr:postcode": "10719",
+                "addr:city": "Berlin",
                 "@id": "node/1882589613"
             }
         },
@@ -947,13 +947,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "29614",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 10:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "7",
-                "opening_hours": "Mo-Sa 10:00-20:00",
-                "addr:city": "Soltau",
-                "amenity": "cafe",
                 "addr:street": "Rahrsberg",
+                "addr:postcode": "29614",
+                "addr:city": "Soltau",
                 "@id": "node/1896283367"
             }
         },
@@ -968,9 +968,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:30-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su 09:30-20:00",
+                "brand": "Starbucks",
                 "@id": "node/1912857426"
             }
         },
@@ -985,13 +985,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "04109",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 05:00-20:30; PH,Sa-Su 06:00-20:30",
                 "brand": "Starbucks",
                 "addr:housenumber": "7",
-                "opening_hours": "Mo-Fr 05:00-20:30; PH,Sa-Su 06:00-20:30",
-                "addr:city": "Leipzig",
-                "amenity": "cafe",
                 "addr:street": "Willy-Brandt-Platz",
+                "addr:postcode": "04109",
+                "addr:city": "Leipzig",
                 "@id": "node/2131605569"
             }
         },
@@ -1006,9 +1006,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su,PH 08:30-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su,PH 08:30-20:00",
+                "brand": "Starbucks",
                 "@id": "node/2133523045"
             }
         },
@@ -1023,13 +1023,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "66111",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-20:30; Sa 08:00-22:00; PH,Su 09:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "103",
-                "opening_hours": "Mo-Fr 07:00-20:30; Sa 08:00-22:00; PH,Su 09:00-20:00",
-                "addr:city": "Saarbrücken",
-                "amenity": "cafe",
                 "addr:street": "Bahnhofstraße",
+                "addr:postcode": "66111",
+                "addr:city": "Saarbrücken",
                 "@id": "node/2145619320"
             }
         },
@@ -1044,13 +1044,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "60313",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 07:00-21:00; PH,Su 08:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "1",
-                "opening_hours": "Mo-Sa 07:00-21:00; PH,Su 08:00-20:00",
-                "addr:city": "Frankfurt am Main",
-                "amenity": "cafe",
                 "addr:street": "Börsenplatz",
+                "addr:postcode": "60313",
+                "addr:city": "Frankfurt am Main",
                 "@id": "node/2244962365"
             }
         },
@@ -1065,9 +1065,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:30-19:30; Sa 08:00-19:30; Su 09:00-18:30; PH 10:00-17:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:30-19:30; Sa 08:00-19:30; Su 09:00-18:30; PH 10:00-17:00",
+                "brand": "Starbucks",
                 "@id": "node/2467927693"
             }
         },
@@ -1082,12 +1082,12 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "94032",
+                "amenity": "cafe",
                 "brand": "Starbucks",
                 "addr:housenumber": "8",
-                "addr:city": "Passau",
-                "amenity": "cafe",
                 "addr:street": "Ludwigsplatz",
+                "addr:postcode": "94032",
+                "addr:city": "Passau",
                 "@id": "node/2484400651"
             }
         },
@@ -1102,9 +1102,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 05:00-20:00; Sa-Su 07:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 05:00-20:00; Sa-Su 07:00-20:00",
+                "brand": "Starbucks",
                 "@id": "node/2500054664"
             }
         },
@@ -1119,13 +1119,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "04109",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:30-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "22-24",
-                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 09:30-20:00",
-                "addr:city": "Leipzig",
-                "amenity": "cafe",
                 "addr:street": "Petersstraße",
+                "addr:postcode": "04109",
+                "addr:city": "Leipzig",
                 "@id": "node/2916390816"
             }
         },
@@ -1140,9 +1140,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 09:30-20:00; Su off",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su off",
+                "brand": "Starbucks",
                 "@id": "node/2984033232"
             }
         },
@@ -1157,9 +1157,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su,PH 05:30-22:00+",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su,PH 05:30-22:00+",
+                "brand": "Starbucks",
                 "@id": "node/3050914053"
             }
         },
@@ -1174,13 +1174,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "04109",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 11:30-18:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "16-18",
-                "opening_hours": "Mo-Sa 08:00-20:00; Su 11:30-18:00",
-                "addr:city": "Leipzig",
-                "amenity": "cafe",
                 "addr:street": "Hainstraße",
+                "addr:postcode": "04109",
+                "addr:city": "Leipzig",
                 "@id": "node/3126120930"
             }
         },
@@ -1195,9 +1195,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-21:30; Sa 08:00-20:00; Su, Ph 10:00-19:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Th 08:00-20:00; Fr 08:00-21:30; Sa 08:00-20:00; Su, Ph 10:00-19:00",
+                "brand": "Starbucks",
                 "@id": "node/3128052459"
             }
         },
@@ -1212,9 +1212,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-18:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-21:00; Sa 09:00-21:00; Su 09:00-18:00",
+                "brand": "Starbucks",
                 "@id": "node/3136353405"
             }
         },
@@ -1229,13 +1229,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "28307",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 10:00-20:00; PH off",
                 "brand": "Starbucks",
                 "addr:housenumber": "19",
-                "opening_hours": "Mo-Sa 10:00-20:00; PH off",
-                "addr:city": "Bremen",
-                "amenity": "cafe",
                 "addr:street": "Hans-Bredow-Straße",
+                "addr:postcode": "28307",
+                "addr:city": "Bremen",
                 "@id": "node/3147983431"
             }
         },
@@ -1250,8 +1250,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/3270657591"
             }
         },
@@ -1266,8 +1266,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/3321108784"
             }
         },
@@ -1282,9 +1282,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:30-19:30; Su 10:00-18:00; PH 09:00-17:30",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 09:00-19:00; Sa 09:30-19:30; Su 10:00-18:00; PH 09:00-17:30",
+                "brand": "Starbucks",
                 "@id": "node/3364591760"
             }
         },
@@ -1299,9 +1299,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 10:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 10:00-20:00",
+                "brand": "Starbucks",
                 "@id": "node/3366923018"
             }
         },
@@ -1316,13 +1316,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "10707",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-19:00; PH,Su 09:30-19:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "61",
-                "opening_hours": "Mo-Fr 08:00-19:00; Sa 09:00-19:00; PH,Su 09:30-19:00",
-                "addr:city": "Berlin",
-                "amenity": "cafe",
                 "addr:street": "Kurfürstendamm",
+                "addr:postcode": "10707",
+                "addr:city": "Berlin",
                 "@id": "node/3455614578"
             }
         },
@@ -1337,8 +1337,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/3584258650"
             }
         },
@@ -1353,11 +1353,11 @@
                 ]
             },
             "properties": {
+                "amenity": "cafe",
                 "brand": "Starbucks",
                 "addr:housenumber": "1",
-                "addr:city": "Ludwigsburg",
-                "amenity": "cafe",
                 "addr:street": "Heinkelstraße",
+                "addr:city": "Ludwigsburg",
                 "@id": "node/3775017520"
             }
         },
@@ -1372,13 +1372,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "53111",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:30-21:00; Su,PH 10:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "13-21",
-                "opening_hours": "Mo-Fr 08:00-21:00; Sa 08:30-21:00; Su,PH 10:00-20:00",
-                "addr:city": "Bonn",
-                "amenity": "cafe",
                 "addr:street": "Markt",
+                "addr:postcode": "53111",
+                "addr:city": "Bonn",
                 "drive_through": "no",
                 "@id": "node/3898898397"
             }
@@ -1394,9 +1394,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 09:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 09:00-20:00",
+                "brand": "Starbucks",
                 "@id": "node/3987051075"
             }
         },
@@ -1411,12 +1411,12 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "45127",
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 09:00-20:00; Su 12:00-20:00",
-                "addr:city": "Essen",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 09:00-20:00; Su 12:00-20:00",
+                "brand": "Starbucks",
                 "addr:street": "Limbecker Platz",
+                "addr:postcode": "45127",
+                "addr:city": "Essen",
                 "@id": "node/4125308894"
             }
         },
@@ -1431,8 +1431,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "addr:street": "Harmon Ave.",
                 "@id": "node/4144595692"
             }
@@ -1448,9 +1448,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Su-Fr 07:30-14:30; Sa off",
                 "amenity": "cafe",
+                "opening_hours": "Su-Fr 07:30-14:30; Sa off",
+                "brand": "Starbucks",
                 "@id": "node/4158117691"
             }
         },
@@ -1465,9 +1465,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su,PH 08:00-21:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 06:00-21:00; Sa 07:00-21:00; Su,PH 08:00-21:00",
+                "brand": "Starbucks",
                 "@id": "node/4388936224"
             }
         },
@@ -1482,8 +1482,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/4412854430"
             }
         },
@@ -1498,9 +1498,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 08:00-20:00, Samstag 09:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-20:00, Samstag 09:00-20:00",
+                "brand": "Starbucks",
                 "@id": "node/4430951953"
             }
         },
@@ -1515,13 +1515,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "40212",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:30-20:00; Su 12:00-18:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "11",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:30-20:00; Su 12:00-18:00",
-                "addr:city": "Düsseldorf",
-                "amenity": "cafe",
                 "addr:street": "Schadowstraße",
+                "addr:postcode": "40212",
+                "addr:city": "Düsseldorf",
                 "@id": "node/4508943489"
             }
         },
@@ -1536,9 +1536,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Th 08:00-20:00; Fr,Sa 08:00-20:30",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Th 08:00-20:00; Fr,Sa 08:00-20:30",
+                "brand": "Starbucks",
                 "@id": "node/4558523992"
             }
         },
@@ -1553,9 +1553,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su,PH 06:30-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su,PH 06:30-20:00",
+                "brand": "Starbucks",
                 "@id": "node/4579194756"
             }
         },
@@ -1570,12 +1570,12 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "40231",
+                "amenity": "cafe",
                 "brand": "Starbucks",
                 "addr:housenumber": "364",
-                "addr:city": "Düsseldorf",
-                "amenity": "cafe",
                 "addr:street": "Erkrather Straße",
+                "addr:postcode": "40231",
+                "addr:city": "Düsseldorf",
                 "@id": "node/4745105692"
             }
         },
@@ -1590,9 +1590,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "24/7",
                 "amenity": "cafe",
+                "opening_hours": "24/7",
+                "brand": "Starbucks",
                 "@id": "node/4995827593"
             }
         },
@@ -1607,13 +1607,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "18055",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 09:30-20:00; Su 12:00-18:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "54",
-                "opening_hours": "Mo-Sa 09:30-20:00; Su 12:00-18:00",
-                "addr:city": "Rostock",
-                "amenity": "cafe",
                 "addr:street": "Kröpeliner Straße",
+                "addr:postcode": "18055",
+                "addr:city": "Rostock",
                 "@id": "node/5265416060"
             }
         },
@@ -1628,11 +1628,11 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "76694",
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Th 08:00-19:00; Fr-Su 08:00-20:00",
-                "addr:city": "Forst",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Th 08:00-19:00; Fr-Su 08:00-20:00",
+                "brand": "Starbucks",
+                "addr:postcode": "76694",
+                "addr:city": "Forst",
                 "@id": "node/5656734350"
             }
         },
@@ -1647,12 +1647,12 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "65183",
+                "amenity": "cafe",
                 "brand": "Starbucks",
                 "addr:housenumber": "35-43",
-                "addr:city": "Wiesbaden",
-                "amenity": "cafe",
                 "addr:street": "Kirchgasse",
+                "addr:postcode": "65183",
+                "addr:city": "Wiesbaden",
                 "@id": "node/5713812746"
             }
         },
@@ -1667,14 +1667,14 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "89073",
-                "brand": "Starbucks",
-                "addr:housenumber": "16",
+                "amenity": "cafe",
                 "opening_hours": "Mo 08:00-21:00; Tu 08:00-21:00; We 07:00-21:00; Th 08:00-21:00; Fr 08:00-22:00; Sa 07:00-22:00; Su 09:30-21:00",
                 "contact:website": "https://www.starbucks.de",
-                "addr:city": "Ulm",
-                "amenity": "cafe",
+                "brand": "Starbucks",
+                "addr:housenumber": "16",
                 "addr:street": "Münsterplatz",
+                "addr:postcode": "89073",
+                "addr:city": "Ulm",
                 "@id": "node/5897238570"
             }
         },
@@ -1689,13 +1689,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "86150",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Th 07:30-21:30; Fr 07:30-22:30; Sa 08:00-22:00; Su 09:00-20:30",
                 "brand": "Starbucks",
                 "addr:housenumber": "11",
-                "opening_hours": "Mo-Th 07:30-21:30; Fr 07:30-22:30; Sa 08:00-22:00; Su 09:00-20:30",
-                "addr:city": "Augsburg",
-                "amenity": "cafe",
                 "addr:street": "Bürgermeister-Fischer-Straße",
+                "addr:postcode": "86150",
+                "addr:city": "Augsburg",
                 "@id": "node/5917965145"
             }
         },
@@ -1710,13 +1710,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "80335",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
                 "brand": "Starbucks",
                 "addr:housenumber": "34",
-                "opening_hours": "Mo-Sa 07:00-20:00; Su,PH off",
-                "addr:city": "München",
-                "amenity": "cafe",
                 "addr:street": "Arnulfstraße",
+                "addr:postcode": "80335",
+                "addr:city": "München",
                 "@id": "node/6063853525"
             }
         },
@@ -1731,8 +1731,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/6202878876"
             }
         },
@@ -1747,8 +1747,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/6482259204"
             }
         },
@@ -1763,9 +1763,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 08:00-20:00; Su 10:00-18:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 10:00-18:00",
+                "brand": "Starbucks",
                 "@id": "node/6499800974"
             }
         },
@@ -1780,13 +1780,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "10623",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Th 07:30-20:30; Fr 08:00-21:00; Sa 09:00-21:00; Su 10:30-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "1-4",
-                "opening_hours": "Mo-Th 07:30-20:30; Fr 08:00-21:00; Sa 09:00-21:00; Su 10:30-20:00",
-                "addr:city": "Berlin",
-                "amenity": "cafe",
                 "addr:street": "Joachimsthaler Straße",
+                "addr:postcode": "10623",
+                "addr:city": "Berlin",
                 "@id": "node/6588859242"
             }
         },
@@ -1801,13 +1801,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "72555",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 09:00-21:00, Sa 08:00-21:00, Su 10:00-18:00; PH off",
                 "brand": "Starbucks",
                 "addr:housenumber": "6",
-                "opening_hours": "Mo-Fr 09:00-21:00, Sa 08:00-21:00, Su 10:00-18:00; PH off",
-                "addr:city": "Metzingen",
-                "amenity": "cafe",
                 "addr:street": "Hugo-Boss-Platz",
+                "addr:postcode": "72555",
+                "addr:city": "Metzingen",
                 "@id": "node/6654710063"
             }
         },
@@ -1822,9 +1822,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 08:30-21:00; Su 10:00-18:30",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:30-21:00; Su 10:00-18:30",
+                "brand": "Starbucks",
                 "@id": "node/6832552984"
             }
         },
@@ -1839,9 +1839,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 11:00-18:00; Su 12:00-18:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa 11:00-18:00; Su 12:00-18:00",
+                "brand": "Starbucks",
                 "@id": "node/6853875161"
             }
         },
@@ -1856,11 +1856,11 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "56410",
-                "brand": "Starbucks",
-                "addr:city": "Montabaur",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "addr:street": "Am Fashion Outlet",
+                "addr:postcode": "56410",
+                "addr:city": "Montabaur",
                 "@id": "node/7005835554"
             }
         },
@@ -1875,10 +1875,10 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
+                "amenity": "cafe",
                 "opening_hours": "Mo-Fr 06:00-21:00; Su 07:00-21:00; Sa 07:00-22:00",
                 "contact:website": "https://www.starbucks.de/",
-                "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/7132010681"
             }
         },
@@ -1893,9 +1893,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "24/7",
                 "amenity": "cafe",
+                "opening_hours": "24/7",
+                "brand": "Starbucks",
                 "@id": "node/7931120539"
             }
         },
@@ -1910,8 +1910,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/8532643407"
             }
         },
@@ -1926,13 +1926,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "28816",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 10:00- 16:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "103",
-                "opening_hours": "Mo-Sa 10:00- 16:00",
-                "addr:city": "Stuhr",
-                "amenity": "cafe",
                 "addr:street": "Bremer Straße",
+                "addr:postcode": "28816",
+                "addr:city": "Stuhr",
                 "@id": "node/8749880560"
             }
         },
@@ -1947,9 +1947,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 09:00-17:00; Sa 06:00-19:00; Su 08:00-19:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 09:00-17:00; Sa 06:00-19:00; Su 08:00-19:00",
+                "brand": "Starbucks",
                 "@id": "node/8780343407"
             }
         },
@@ -1964,9 +1964,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 08:00-21:00; Su 08:00-19:30",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:00-21:00; Su 08:00-19:30",
+                "brand": "Starbucks",
                 "@id": "node/9507916333"
             }
         },
@@ -1981,9 +1981,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su 06:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su 06:00-20:00",
+                "brand": "Starbucks",
                 "@id": "node/9620186718"
             }
         },
@@ -1998,9 +1998,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "PH,Mo-Su 06:00-21:30",
                 "amenity": "cafe",
+                "opening_hours": "PH,Mo-Su 06:00-21:30",
+                "brand": "Starbucks",
                 "@id": "node/9762049458"
             }
         },
@@ -2015,13 +2015,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "42103",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:30-20:30; Sa 08:00-20:30; Su,PH 11:00-18:30",
                 "brand": "Starbucks",
                 "addr:housenumber": "27",
-                "opening_hours": "Mo-Fr 07:30-20:30; Sa 08:00-20:30; Su,PH 11:00-18:30",
-                "addr:city": "Wuppertal",
-                "amenity": "cafe",
                 "addr:street": "Alte Freiheit",
+                "addr:postcode": "42103",
+                "addr:city": "Wuppertal",
                 "@id": "node/10199576804"
             }
         },
@@ -2036,8 +2036,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/10258996561"
             }
         },
@@ -2052,9 +2052,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Th 10:00-20:00; Fr 10:00-21:30; Sa 09:30-20:00; Su, PH off",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Th 10:00-20:00; Fr 10:00-21:30; Sa 09:30-20:00; Su, PH off",
+                "brand": "Starbucks",
                 "@id": "node/10572580830"
             }
         },
@@ -2069,9 +2069,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-22:00; Su 12:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Th 09:00-21:00; Fr,Sa 09:00-22:00; Su 12:00-20:00",
+                "brand": "Starbucks",
                 "@id": "node/10584621187"
             }
         },
@@ -2086,8 +2086,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/10599604600"
             }
         },
@@ -2102,9 +2102,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 06:30-20:30; Sa 08:30-20:30; PH,Su 10:00-19:30",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 06:30-20:30; Sa 08:30-20:30; PH,Su 10:00-19:30",
+                "brand": "Starbucks",
                 "@id": "node/10703698175"
             }
         },
@@ -2119,9 +2119,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:30-20:30; Sa 08:00-20:30; Su 10:00-18:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:30-20:30; Sa 08:00-20:30; Su 10:00-18:00",
+                "brand": "Starbucks",
                 "@id": "node/10773152123"
             }
         },
@@ -2136,9 +2136,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-21:00; Sa,Su 09:00-20:00",
+                "brand": "Starbucks",
                 "@id": "node/10800211947"
             }
         },
@@ -2153,12 +2153,12 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "68161",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:00-20:00; Su 10:30-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "18 a",
-                "opening_hours": "Mo-Sa 08:00-20:00; Su 10:30-20:00",
+                "addr:postcode": "68161",
                 "addr:city": "Mannheim",
-                "amenity": "cafe",
                 "@id": "node/10801088923"
             }
         },
@@ -2173,8 +2173,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/11046283711"
             }
         },
@@ -2189,13 +2189,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "86150",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 06:00-22:00; Su,PH 06:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "1",
-                "opening_hours": "Mo-Sa 06:00-22:00; Su,PH 06:00-20:00",
-                "addr:city": "Augsburg",
-                "amenity": "cafe",
                 "addr:street": "Viktoriastraße",
+                "addr:postcode": "86150",
+                "addr:city": "Augsburg",
                 "@id": "node/11048008912"
             }
         },
@@ -2210,12 +2210,12 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "10439",
+                "amenity": "cafe",
                 "brand": "Starbucks",
                 "addr:housenumber": "75",
-                "addr:city": "Berlin",
-                "amenity": "cafe",
                 "addr:street": "Schönhauser Allee",
+                "addr:postcode": "10439",
+                "addr:city": "Berlin",
                 "@id": "node/11264494273"
             }
         },
@@ -2230,8 +2230,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/11279962836"
             }
         },
@@ -2246,8 +2246,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/11356487177"
             }
         },
@@ -2262,8 +2262,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "drive_through": "no",
                 "@id": "node/11630220194"
             }
@@ -2279,13 +2279,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "80331",
+                "amenity": "cafe",
+                "contact:website": "https://www.starbucks.com/store-locator/store/81107-308909/muenchen-sendlinger-strasse-3-sendlinger-strasse-37-muenchen-by-80331-de",
                 "brand": "Starbucks",
                 "addr:housenumber": "37",
-                "contact:website": "https://www.starbucks.com/store-locator/store/81107-308909/muenchen-sendlinger-strasse-3-sendlinger-strasse-37-muenchen-by-80331-de",
-                "addr:city": "München",
-                "amenity": "cafe",
                 "addr:street": "Sendlinger Straße",
+                "addr:postcode": "80331",
+                "addr:city": "München",
                 "@id": "node/11673168518"
             }
         },
@@ -2300,9 +2300,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:30-20:00; PH,Sa,Su 08:30-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:30-20:00; PH,Sa,Su 08:30-20:00",
+                "brand": "Starbucks",
                 "@id": "node/11717339483"
             }
         },
@@ -2317,13 +2317,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "52062",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Th 07:30-21:00; Fr 07:30-22:00; Sa 08:30-22:00; Su 09:00-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "35",
-                "opening_hours": "Mo-Th 07:30-21:00; Fr 07:30-22:00; Sa 08:30-22:00; Su 09:00-21:00",
-                "addr:city": "Aachen",
-                "amenity": "cafe",
                 "addr:street": "Markt",
+                "addr:postcode": "52062",
+                "addr:city": "Aachen",
                 "@id": "node/11804770474"
             }
         },
@@ -2338,9 +2338,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 09:00-20:30; Sa 08:30-20:30; Su 10:00-18:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 09:00-20:30; Sa 08:30-20:30; Su 10:00-18:00",
+                "brand": "Starbucks",
                 "@id": "node/12100207438"
             }
         },
@@ -2355,8 +2355,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/12162960310"
             }
         },
@@ -2371,8 +2371,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/12233179032"
             }
         },
@@ -2387,13 +2387,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "12165",
+                "amenity": "cafe",
+                "contact:website": "https://www.starbucks.de/de/store-locator/80337-309540/berlin-albrechststrasse-132",
                 "brand": "Starbucks",
                 "addr:housenumber": "132",
-                "contact:website": "https://www.starbucks.de/de/store-locator/80337-309540/berlin-albrechststrasse-132",
-                "addr:city": "Berlin",
-                "amenity": "cafe",
                 "addr:street": "Albrechtstraße",
+                "addr:postcode": "12165",
+                "addr:city": "Berlin",
                 "@id": "node/12290061476"
             }
         },
@@ -2408,12 +2408,12 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "40212",
+                "amenity": "cafe",
                 "brand": "Starbucks",
                 "addr:housenumber": "1-3",
-                "addr:city": "Düsseldorf",
-                "amenity": "cafe",
                 "addr:street": "Steinstraße",
+                "addr:postcode": "40212",
+                "addr:city": "Düsseldorf",
                 "@id": "node/12573607904"
             }
         },
@@ -2428,9 +2428,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-19:00; PH 10:30-18:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 07:30-21:00; Su 09:00-19:00; PH 10:30-18:00",
+                "brand": "Starbucks",
                 "@id": "node/12601250398"
             }
         },
@@ -2445,8 +2445,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/12731626172"
             }
         },
@@ -2461,8 +2461,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/12785769477"
             }
         },
@@ -2477,8 +2477,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/12794546257"
             }
         },
@@ -2493,9 +2493,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 09:00-20:00; PH 10:00-14:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 09:00-20:00; PH 10:00-14:00",
+                "brand": "Starbucks",
                 "@id": "node/12797954683"
             }
         },
@@ -2510,13 +2510,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "45127",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-20:30, Sa 08:00-20:30, Su 10:00-19:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "2 - 10",
-                "opening_hours": "Mo-Fr 07:00-20:30, Sa 08:00-20:30, Su 10:00-19:00",
-                "addr:city": "Essen",
-                "amenity": "cafe",
                 "addr:street": "Kettwiger Straße",
+                "addr:postcode": "45127",
+                "addr:city": "Essen",
                 "@id": "node/13031397851"
             }
         },
@@ -2531,13 +2531,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "51103",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-19:30; Sa 08:00-19:30; Su 10:30-18:30",
                 "brand": "Starbucks",
                 "addr:housenumber": "24-28",
-                "opening_hours": "Mo-Fr 07:00-19:30; Sa 08:00-19:30; Su 10:30-18:30",
-                "addr:city": "Köln",
-                "amenity": "cafe",
                 "addr:street": "Habsburgerring",
+                "addr:postcode": "51103",
+                "addr:city": "Köln",
                 "@id": "node/13107798701"
             }
         },
@@ -2552,13 +2552,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "39104",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-20:00; Sa-So 08:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "173",
-                "opening_hours": "Mo-Fr 07:00-20:00; Sa-So 08:00-20:00",
-                "addr:city": "Magdeburg",
-                "amenity": "cafe",
                 "addr:street": "Breiter Weg",
+                "addr:postcode": "39104",
+                "addr:city": "Magdeburg",
                 "@id": "node/13281347657"
             }
         },
@@ -2573,8 +2573,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "node/13371550337"
             }
         },
@@ -2589,13 +2589,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "04109",
+                "amenity": "cafe",
+                "opening_hours": "Su,PH 07:30-20:30; Mo-Sa 07:30-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "14",
-                "opening_hours": "Su,PH 07:30-20:30; Mo-Sa 07:30-21:00",
-                "addr:city": "Leipzig",
-                "amenity": "cafe",
                 "addr:street": "Grimmaische Straße",
+                "addr:postcode": "04109",
+                "addr:city": "Leipzig",
                 "@id": "way/28143594"
             }
         },
@@ -2610,13 +2610,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "38440",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 09:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "1",
-                "opening_hours": "Mo-Sa 09:00-20:00",
-                "addr:city": "Wolfsburg",
-                "amenity": "cafe",
                 "addr:street": "An der Vorburg",
+                "addr:postcode": "38440",
+                "addr:city": "Wolfsburg",
                 "@id": "way/152442725"
             }
         },
@@ -2631,13 +2631,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "24539",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Th 09:30-20:00; Fr-Sa 09:30-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "10",
-                "opening_hours": "Mo-Th 09:30-20:00; Fr-Sa 09:30-21:00",
-                "addr:city": "Neumünster",
-                "amenity": "cafe",
                 "addr:street": "Oderstraße",
+                "addr:postcode": "24539",
+                "addr:city": "Neumünster",
                 "@id": "way/182426957"
             }
         },
@@ -2647,18 +2647,18 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    11.004423,
-                    49.593697
+                    11.004421,
+                    49.593689
                 ]
             },
             "properties": {
-                "addr:postcode": "91052",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:30-21:00; Su 09:00-21:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "7",
-                "opening_hours": "Mo-Fr 08:00-20:00; Sa 08:30-21:00; Su 09:00-21:00",
-                "addr:city": "Erlangen",
-                "amenity": "cafe",
                 "addr:street": "Nürnberger Straße",
+                "addr:postcode": "91052",
+                "addr:city": "Erlangen",
                 "@id": "way/187423281"
             }
         },
@@ -2673,13 +2673,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "48143",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-19:30; Sa 08:30-20:00; Su off; PH 11:00-18:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "38",
-                "opening_hours": "Mo-Fr 08:00-19:30; Sa 08:30-20:00; Su off; PH 11:00-18:00",
-                "addr:city": "Münster",
-                "amenity": "cafe",
                 "addr:street": "Stubengasse",
+                "addr:postcode": "48143",
+                "addr:city": "Münster",
                 "@id": "way/252855569"
             }
         },
@@ -2694,13 +2694,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "48607",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 10:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "59",
-                "opening_hours": "Mo-Sa 10:00-20:00",
-                "addr:city": "Ochtrup",
-                "amenity": "cafe",
                 "addr:street": "Laurenzstraße",
+                "addr:postcode": "48607",
+                "addr:city": "Ochtrup",
                 "drive_through": "no",
                 "@id": "way/253488065"
             }
@@ -2716,9 +2716,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su,PH 10:30-18:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-21:00; Sa 08:00-21:00; Su,PH 10:30-18:00",
+                "brand": "Starbucks",
                 "@id": "way/271102603"
             }
         },
@@ -2733,9 +2733,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su 06:00-21:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su 06:00-21:00",
+                "brand": "Starbucks",
                 "@id": "way/293712530"
             }
         },
@@ -2750,9 +2750,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su 05:00-22:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su 05:00-22:00",
+                "brand": "Starbucks",
                 "@id": "way/343201873"
             }
         },
@@ -2767,13 +2767,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "30159",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Su 06:00-22:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "1",
-                "opening_hours": "Mo-Su 06:00-22:00",
-                "addr:city": "Hannover",
-                "amenity": "cafe",
                 "addr:street": "Ernst-August-Platz",
+                "addr:postcode": "30159",
+                "addr:city": "Hannover",
                 "@id": "way/346879444"
             }
         },
@@ -2788,9 +2788,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su 06:00-22:00; PH 07:00-22:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su 06:00-22:00; PH 07:00-22:00",
+                "brand": "Starbucks",
                 "@id": "way/349128183"
             }
         },
@@ -2805,9 +2805,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "05:30-21:00",
                 "amenity": "cafe",
+                "opening_hours": "05:30-21:00",
+                "brand": "Starbucks",
                 "@id": "way/356054289"
             }
         },
@@ -2822,9 +2822,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su 08:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "brand": "Starbucks",
                 "@id": "way/373530815"
             }
         },
@@ -2839,8 +2839,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "way/373588287"
             }
         },
@@ -2855,11 +2855,27 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 08:30-21:00; Su,PH 12:00-19:00",
-                "addr:city": "Bremen",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:30-21:00; Su,PH 12:00-19:00",
+                "brand": "Starbucks",
+                "addr:city": "Bremen",
                 "@id": "way/373751750"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "way/399899296",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.989278,
+                    53.560841
+                ]
+            },
+            "properties": {
+                "amenity": "cafe",
+                "brand": "Starbucks",
+                "@id": "way/399899296"
             }
         },
         {
@@ -2873,13 +2889,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "14641",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Sa 10:00-20:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "1",
-                "opening_hours": "Mo-Sa 10:00-20:00",
-                "addr:city": "Wustermark",
-                "amenity": "cafe",
                 "addr:street": "Alter Spandauer Weg",
+                "addr:postcode": "14641",
+                "addr:city": "Wustermark",
                 "@id": "way/426018927"
             }
         },
@@ -2894,9 +2910,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su,PH 05:30-22:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su,PH 05:30-22:00",
+                "brand": "Starbucks",
                 "@id": "way/429271492"
             }
         },
@@ -2911,9 +2927,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su 06:00-22:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su 06:00-22:00",
+                "brand": "Starbucks",
                 "@id": "way/431919543"
             }
         },
@@ -2928,12 +2944,12 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "55116",
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 06:00-20:00; Sa 08:00-21:00; Su 08:00-20:00; PH 10:00-17:00",
-                "addr:city": "Mainz",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 06:00-20:00; Sa 08:00-21:00; Su 08:00-20:00; PH 10:00-17:00",
+                "brand": "Starbucks",
                 "addr:street": "Bahnhofplatz",
+                "addr:postcode": "55116",
+                "addr:city": "Mainz",
                 "@id": "way/463687941"
             }
         },
@@ -2948,9 +2964,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 06:00-20:00; Sa,Su,PH 08:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 06:00-20:00; Sa,Su,PH 08:00-20:00",
+                "brand": "Starbucks",
                 "@id": "way/500103218"
             }
         },
@@ -2965,9 +2981,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 06:00-21:00; Sa-Su 08:00-21:00; PH 08:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 06:00-21:00; Sa-Su 08:00-21:00; PH 08:00-20:00",
+                "brand": "Starbucks",
                 "@id": "way/511784339"
             }
         },
@@ -2982,13 +2998,13 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "99084",
+                "amenity": "cafe",
+                "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-18:00",
                 "brand": "Starbucks",
                 "addr:housenumber": "12",
-                "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su 09:00-18:00",
-                "addr:city": "Erfurt",
-                "amenity": "cafe",
                 "addr:street": "Willy-Brandt-Platz",
+                "addr:postcode": "99084",
+                "addr:city": "Erfurt",
                 "@id": "way/520932801"
             }
         },
@@ -3003,9 +3019,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su off",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Th 10:00-20:00; Fr-Sa 10:00-21:00; Su off",
+                "brand": "Starbucks",
                 "@id": "way/569773169"
             }
         },
@@ -3020,9 +3036,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 06:30-22:00; Su,PH 08:30-22:00; Sa 08:30-22:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 06:30-22:00; Su,PH 08:30-22:00; Sa 08:30-22:00",
+                "brand": "Starbucks",
                 "@id": "way/634421181"
             }
         },
@@ -3037,9 +3053,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 08:00-20:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 08:00-20:00",
+                "brand": "Starbucks",
                 "@id": "way/666756913"
             }
         },
@@ -3054,8 +3070,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "way/666773382"
             }
         },
@@ -3070,8 +3086,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "way/735223533"
             }
         },
@@ -3086,8 +3102,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "way/740025150"
             }
         },
@@ -3102,9 +3118,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:30-17:30; PH 12:30-17:30",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Fr 07:00-20:00; Sa 08:00-20:00; Su 10:30-17:30; PH 12:30-17:30",
+                "brand": "Starbucks",
                 "@id": "way/1000656389"
             }
         },
@@ -3119,14 +3135,14 @@
                 ]
             },
             "properties": {
-                "addr:postcode": "56068",
-                "brand": "Starbucks",
-                "addr:housenumber": "2",
+                "amenity": "cafe",
                 "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su 12:00-18:00",
                 "contact:website": "https://starbucks.com/store-locator/store/1018798/forum-mittelrhein-goergenstrasse-koblenz-rp-56068-de",
-                "addr:city": "Koblenz",
-                "amenity": "cafe",
+                "brand": "Starbucks",
+                "addr:housenumber": "2",
                 "addr:street": "Zentralplatz",
+                "addr:postcode": "56068",
+                "addr:city": "Koblenz",
                 "@id": "way/1257446768"
             }
         },
@@ -3141,9 +3157,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Su,PH 05:00-22:00",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Su,PH 05:00-22:00",
+                "brand": "Starbucks",
                 "@id": "way/1382785512"
             }
         },
@@ -3158,8 +3174,8 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
                 "amenity": "cafe",
+                "brand": "Starbucks",
                 "@id": "way/1387586334"
             }
         },
@@ -3174,9 +3190,9 @@
                 ]
             },
             "properties": {
-                "brand": "Starbucks",
-                "opening_hours": "Mo-Sa 09:00-18:00; Su,PH off",
                 "amenity": "cafe",
+                "opening_hours": "Mo-Sa 09:00-18:00; Su,PH off",
+                "brand": "Starbucks",
                 "@id": "relation/12354609"
             }
         }
